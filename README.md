@@ -1,8 +1,8 @@
-# Forgotten Diamonds Translation Project
+# Fishier Than Light Translation Project
 
 ## Link to the latest nightly translation
 
-Download from [HERE](https://github.com/ftl-mv-translation/forgotten-diamonds/releases/latest). (Updated every UTC 00:00)
+Download from [HERE](https://github.com/ftl-mv-translation/fishier-than-light/releases/latest). (Updated every UTC 00:00)
 
 ## Running the script
 
@@ -43,7 +43,7 @@ The repo is designed to work with [Weblate](https://weblate.org/). Following Web
 
 ### Updating the English strings
 
-1. Unzip the latest TRC into src-en/ directory
+1. Unzip the latest Fishing into src-en/ directory
 2. Update the `packaging` section of `mvloc.config.jsonc` file
 3. Run `mvloc major-update --first-pass`
 4. Push the changes to the repo, then Update -> Force Synchronization from Weblate.
