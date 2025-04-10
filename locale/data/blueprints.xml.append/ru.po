@@ -1,19 +1,27 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-10 16:58+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"fishier-than-light/datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:5
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:6
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:8
 msgid ""
@@ -23,12 +31,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:44
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:45
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:47
 msgid ""
@@ -38,12 +46,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:86
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:87
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:89
 msgid ""
@@ -53,12 +61,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:132
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:133
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:135
 msgid ""
@@ -68,12 +76,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:175
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:176
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:178
 msgid ""
@@ -83,12 +91,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:223
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:224
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:226
 msgid ""
@@ -98,12 +106,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:272
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:273
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:275
 msgid ""
@@ -113,12 +121,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:317
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:318
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:320
 msgid ""
@@ -128,12 +136,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:370
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:371
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:373
 msgid ""
@@ -143,12 +151,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:409
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:412
 msgid ""
@@ -158,12 +166,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:451
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:452
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:454
 msgid ""
@@ -173,12 +181,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:494
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:495
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:497
 msgid ""
@@ -188,12 +196,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:540
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:541
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:543
 msgid ""
@@ -203,12 +211,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:585
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:588
 msgid ""
@@ -218,12 +226,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:634
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:635
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:637
 msgid ""
@@ -233,12 +241,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:685
 msgid ""
@@ -248,12 +256,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:736
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:738
 msgid ""
@@ -263,12 +271,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:775
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:778
 msgid ""
@@ -278,12 +286,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:817
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:820
 msgid ""
@@ -293,12 +301,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:859
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:862
 msgid ""
@@ -308,12 +316,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:905
 msgid ""
@@ -323,12 +331,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:946
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:948
 msgid ""
@@ -338,12 +346,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:989
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:990
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:992
 msgid ""
@@ -353,12 +361,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_200\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_200\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1036
 msgid ""
@@ -368,12 +376,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_020\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1076
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_020\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1078
 msgid ""
@@ -383,12 +391,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1117
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_210\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1118
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_210\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1120
 msgid ""
@@ -398,12 +406,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1160
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_120\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_120\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1163
 msgid ""
@@ -413,12 +421,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1203
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_021\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1204
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_021\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1206
 msgid ""
@@ -428,12 +436,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1247
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_201\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1248
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_201\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1250
 msgid ""
@@ -443,12 +451,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1294
 msgid ""
@@ -458,12 +466,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_300\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_300\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1339
 msgid ""
@@ -473,12 +481,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_030\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1379
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_030\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1381
 msgid ""
@@ -488,12 +496,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1422
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1423
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1425
 msgid ""
@@ -503,12 +511,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1461
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1462
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1464
 msgid ""
@@ -518,12 +526,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1505
 msgid ""
@@ -533,12 +541,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1549
 msgid ""
@@ -548,12 +556,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1589
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1591
 msgid ""
@@ -563,12 +571,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1633
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1634
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1636
 msgid ""
@@ -578,12 +586,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1679
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1680
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1682
 msgid ""
@@ -593,12 +601,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_200\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_200\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1725
 msgid ""
@@ -608,12 +616,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1763
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_020\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1764
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_020\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1766
 msgid ""
@@ -623,12 +631,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1807
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_210\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1808
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_210\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1810
 msgid ""
@@ -638,12 +646,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1852
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_120\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1853
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_120\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1855
 msgid ""
@@ -653,12 +661,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1897
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_201\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1898
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_201\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1900
 msgid ""
@@ -668,12 +676,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_021\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1941
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_021\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1943
 msgid ""
@@ -683,12 +691,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1987
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:1989
 msgid ""
@@ -698,12 +706,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_300\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_300\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2036
 msgid ""
@@ -713,12 +721,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2074
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_030\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_030\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2077
 msgid ""
@@ -728,12 +736,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2120
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2121
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2123
 msgid ""
@@ -743,12 +751,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2146
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2147
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2149
 msgid ""
@@ -758,12 +766,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2174
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2175
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2177
 msgid ""
@@ -773,12 +781,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2204
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2205
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2207
 msgid ""
@@ -788,12 +796,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2235
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2236
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2238
 msgid ""
@@ -803,12 +811,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2267
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2269
 msgid ""
@@ -818,12 +826,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2299
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2300
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2302
 msgid ""
@@ -833,12 +841,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2332
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2334
 msgid ""
@@ -848,12 +856,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2367
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2368
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2370
 msgid ""
@@ -863,12 +871,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2392
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2393
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2395
 msgid ""
@@ -878,12 +886,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2422
 msgid ""
@@ -893,12 +901,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2447
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2449
 msgid ""
@@ -908,12 +916,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2478
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2479
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2481
 msgid ""
@@ -923,12 +931,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2506
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2507
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2509
 msgid ""
@@ -938,12 +946,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2539
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2540
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2542
 msgid ""
@@ -953,12 +961,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2572
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_200\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2573
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_200\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2575
 msgid ""
@@ -968,12 +976,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_020\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_020\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2602
 msgid ""
@@ -983,12 +991,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2626
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_210\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2627
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_210\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2629
 msgid ""
@@ -998,12 +1006,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2654
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_120\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2655
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_120\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2657
 msgid ""
@@ -1013,12 +1021,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2682
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_201\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_201\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2685
 msgid ""
@@ -1028,12 +1036,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2715
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_021\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_021\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2718
 msgid ""
@@ -1043,12 +1051,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2748
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2749
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2751
 msgid ""
@@ -1058,12 +1066,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2782
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_300\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2783
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_300\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2785
 msgid ""
@@ -1073,12 +1081,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_030\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_030\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2812
 msgid ""
@@ -1088,12 +1096,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2838
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2839
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2841
 msgid ""
@@ -1103,12 +1111,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2865
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2867
 msgid ""
@@ -1118,12 +1126,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2892
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2893
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2895
 msgid ""
@@ -1133,12 +1141,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2920
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2921
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2923
 msgid ""
@@ -1148,12 +1156,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2952
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2954
 msgid ""
@@ -1163,12 +1171,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2980
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2981
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:2983
 msgid ""
@@ -1178,12 +1186,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3012
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3013
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3015
 msgid ""
@@ -1193,12 +1201,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3044
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_200\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3045
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_200\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3047
 msgid ""
@@ -1208,12 +1216,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3072
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_020\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3073
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_020\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3075
 msgid ""
@@ -1223,12 +1231,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3100
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_210\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3101
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_210\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3103
 msgid ""
@@ -1238,12 +1246,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_120\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3130
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_120\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3132
 msgid ""
@@ -1253,12 +1261,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3158
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_201\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3159
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_201\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3161
 msgid ""
@@ -1268,12 +1276,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_021\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3191
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_021\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3193
 msgid ""
@@ -1283,12 +1291,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3222
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3223
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3225
 msgid ""
@@ -1298,12 +1306,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_300\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3256
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_300\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3258
 msgid ""
@@ -1313,12 +1321,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_030\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3284
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_030\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3286
 msgid ""
@@ -1328,12 +1336,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3316
 msgid ""
@@ -1343,12 +1351,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3353
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3354
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3356
 msgid ""
@@ -1358,12 +1366,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3399
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3401
 msgid ""
@@ -1373,12 +1381,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3441
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3442
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3444
 msgid ""
@@ -1388,12 +1396,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3484
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3485
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3487
 msgid ""
@@ -1403,12 +1411,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3532
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3534
 msgid ""
@@ -1418,12 +1426,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3577
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3579
 msgid ""
@@ -1433,12 +1441,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3623
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3624
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3626
 msgid ""
@@ -1448,12 +1456,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3677
 msgid ""
@@ -1463,12 +1471,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3706
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3709
 msgid ""
@@ -1478,12 +1486,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3740
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3743
 msgid ""
@@ -1493,12 +1501,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3775
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3778
 msgid ""
@@ -1508,12 +1516,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3809
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3812
 msgid ""
@@ -1523,12 +1531,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3846
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3848
 msgid ""
@@ -1538,12 +1546,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3881
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3882
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3884
 msgid ""
@@ -1553,12 +1561,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_200\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3917
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_200\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3919
 msgid ""
@@ -1568,12 +1576,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_020\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_020\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3953
 msgid ""
@@ -1583,12 +1591,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_210\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_210\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:3988
 msgid ""
@@ -1598,12 +1606,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4021
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_120\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4022
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_120\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4024
 msgid ""
@@ -1613,12 +1621,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4057
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_201\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4058
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_201\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4060
 msgid ""
@@ -1628,12 +1636,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4092
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_021\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4093
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_021\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4095
 msgid ""
@@ -1643,12 +1651,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4131
 msgid ""
@@ -1658,12 +1666,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4165
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_300\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4166
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_300\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4168
 msgid ""
@@ -1673,12 +1681,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4199
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_030\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_030\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4202
 msgid ""
@@ -1702,12 +1710,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4247
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_000\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4248
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_000\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4250
 msgid ""
@@ -1717,12 +1725,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4287
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_100\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4288
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_100\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4290
 msgid ""
@@ -1732,12 +1740,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4329
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_010\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_010\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4332
 msgid ""
@@ -1747,12 +1755,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_001\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_001\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4380
 msgid ""
@@ -1762,12 +1770,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_110\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4421
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_110\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4423
 msgid ""
@@ -1777,12 +1785,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_011\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_011\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4472
 msgid ""
@@ -1792,12 +1800,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4519
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_101\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_101\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4522
 msgid ""
@@ -1807,12 +1815,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_200\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4564
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_200\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4566
 msgid ""
@@ -1822,12 +1830,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4605
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_020\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4606
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_020\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4608
 msgid ""
@@ -1837,12 +1845,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4653
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_210\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4654
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_210\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4656
 msgid ""
@@ -1852,12 +1860,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4702
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_120\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4703
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_120\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4705
 msgid ""
@@ -1867,12 +1875,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_201\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4752
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_201\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4754
 msgid ""
@@ -1882,12 +1890,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4795
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_021\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4796
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_021\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4798
 msgid ""
@@ -1897,12 +1905,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_111\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4846
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_111\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4848
 msgid ""
@@ -1912,12 +1920,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4896
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_300\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4897
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_300\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4899
 msgid ""
@@ -1927,12 +1935,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4938
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_030\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_030\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:4941
 msgid ""
@@ -2193,12 +2201,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5733
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:5734
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:5735
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW\"]/desc"
@@ -2212,12 +2220,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5770
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW_ENEMY\"]/title"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:5771
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW_ENEMY\"]/short"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:5772
 msgid ""
