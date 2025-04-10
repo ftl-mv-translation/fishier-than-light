@@ -9,13 +9,17 @@ msgstr ""
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice/text"
-msgstr "Представить рыбу."
+msgstr "Предъявить рыбу."
 
 #: src-en/data/events_special_multiverse.xml.append:15
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ROCKMAN_REAL\"]/mod-"
 "append:choice/event/text"
 msgstr ""
+"\"Это... это рыба? Я не знаю, зачем вы принесли мне это, однако это ЯВЛЯЕТСЯ"
+" подношением, хотя бы потому, что я не знаю, как вы получили это в свои "
+"руки. Я ОДАРЮ вас БЛАГОСЛОВЕНИЕМ РЫБЫ. Но имейте терпение. Это не сейчас, а "
+"ПОТОМ!\""
 
 #: src-en/data/events_special_multiverse.xml.append:19
 msgid ""

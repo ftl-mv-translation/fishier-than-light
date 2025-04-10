@@ -27,25 +27,29 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:8
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHARTY_unlock\"]"
-msgstr ""
+msgstr "Выполните легендарный контракт."
 
 #: src-en/data/text_misc.xml.append:9
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHARTY_2_unlock\"]"
 msgstr ""
+"Выполните 2/3 достижений Дноуглубительного судна, чтобы разблокировать этот "
+"корабль."
 
 #: src-en/data/text_misc.xml.append:10
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHARTY_3_unlock\"]"
 msgstr ""
+"Устройте саботаж на станции, найдите Мав и приведите его в окончательный "
+"вид."
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_fish_food\"]"
-msgstr "Совет: Проверьте меню склада, чтобы использовать рыбу."
+msgstr "Совет: посмотрите меню склада, чтобы использовать рыбу."
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"tip_fish_maw\"]"
-msgstr ""
+msgstr "Совет: посмотрите меню склада, чтобы накормить Мав."
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fish\"]"

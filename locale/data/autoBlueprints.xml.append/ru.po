@@ -8,9 +8,9 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:4
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FISHING_STORE\"]/class"
-msgstr ""
+msgstr "Рыболовная станция"
 
 #: src-en/data/autoBlueprints.xml.append:30
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"FISH_MAW_ENEMY\"]/class"
-msgstr ""
+msgstr "Мав"

@@ -9,6 +9,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_000_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:9
 msgid ""
@@ -18,12 +21,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:14
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_000_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 5, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:23
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_000_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 5, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:25
 msgid ""
@@ -33,12 +36,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:32
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_000_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 5, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:41
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_000_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 5, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:43
 msgid ""
@@ -48,12 +51,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:50
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_000_UPGRADE\"]/choice[6]/text"
-msgstr ""
+msgstr "Цена: 5, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:59
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_000_UPGRADE\"]/choice[7]/text"
-msgstr ""
+msgstr "Цена: 5, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:61
 msgid ""
@@ -64,6 +67,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_100_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:74
 msgid ""
@@ -73,12 +79,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:79
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_100_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:88
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_100_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:90
 msgid ""
@@ -88,12 +94,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:97
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_100_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:106
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_100_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:108
 msgid ""
@@ -103,12 +109,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:115
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_100_UPGRADE\"]/choice[6]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:124
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_100_UPGRADE\"]/choice[7]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:126
 msgid ""
@@ -119,6 +125,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_010_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:139
 msgid ""
@@ -128,12 +137,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:144
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_010_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:153
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_010_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:155
 msgid ""
@@ -143,12 +152,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:162
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_010_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:171
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_010_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:173
 msgid ""
@@ -158,12 +167,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:180
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_010_UPGRADE\"]/choice[6]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:189
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_010_UPGRADE\"]/choice[7]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:191
 msgid ""
@@ -174,6 +183,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_001_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:204
 msgid ""
@@ -183,12 +195,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:209
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_001_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:218
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_001_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:220
 msgid ""
@@ -198,12 +210,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:227
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_001_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:236
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_001_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:238
 msgid ""
@@ -213,12 +225,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:245
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_001_UPGRADE\"]/choice[6]/text"
-msgstr ""
+msgstr "Цена: 10, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:254
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_001_UPGRADE\"]/choice[7]/text"
-msgstr ""
+msgstr "Цена: 10, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:256
 msgid ""
@@ -229,6 +241,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_110_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:269
 msgid ""
@@ -238,12 +253,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:274
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_110_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:284
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_110_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:286
 msgid ""
@@ -253,12 +268,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:293
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_110_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:303
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_110_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:305
 msgid ""
@@ -268,12 +283,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:312
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_110_UPGRADE\"]/choice[6]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:322
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_110_UPGRADE\"]/choice[7]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:324
 msgid ""
@@ -284,6 +299,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_011_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:337
 msgid ""
@@ -293,12 +311,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:342
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_011_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:352
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_011_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:354
 msgid ""
@@ -308,12 +326,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:361
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_011_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:371
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_011_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:373
 msgid ""
@@ -324,6 +342,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_101_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:386
 msgid ""
@@ -333,12 +354,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:391
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_101_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:401
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_101_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:403
 msgid ""
@@ -348,12 +369,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:410
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_101_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:420
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_101_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:422
 msgid ""
@@ -364,6 +385,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_200_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:435
 msgid ""
@@ -373,12 +397,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:440
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_200_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:450
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_200_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:452
 msgid ""
@@ -388,12 +412,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:459
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_200_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:469
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_200_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:471
 msgid ""
@@ -403,12 +427,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:478
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_200_UPGRADE\"]/choice[6]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:488
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_200_UPGRADE\"]/choice[7]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:490
 msgid ""
@@ -419,6 +443,9 @@ msgstr ""
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_020_UPGRADE\"]/text"
 msgstr ""
+"Что вы хотите сделать?\n"
+"\n"
+"Очки улучшения: МАВ"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:503
 msgid ""
@@ -428,12 +455,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw_up_3_1.xml:508
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_020_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:518
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_020_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:520
 msgid ""
@@ -443,12 +470,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:527
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_020_UPGRADE\"]/choice[4]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:537
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_020_UPGRADE\"]/choice[5]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:539
 msgid ""
@@ -458,12 +485,12 @@ msgstr ""
 #: src-en/data/events_special_fish_maw_up_3_1.xml:546
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_020_UPGRADE\"]/choice[6]/text"
-msgstr ""
+msgstr "Цена: 15, можно улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:556
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_020_UPGRADE\"]/choice[7]/text"
-msgstr ""
+msgstr "Цена: 15, нельзя улучшить"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:558
 msgid ""

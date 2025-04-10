@@ -13,7 +13,7 @@ msgstr "Весь ваш груз должен быть заполнен рыбо
 #: src-en/data/hyperspace.xml.append:566
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/description"
-msgstr "Храните на корабле 4 различных вида приманки."
+msgstr "Храните на корабле 4 различных вида наживок."
 
 #: src-en/data/hyperspace.xml.append:573
 msgid ""
@@ -53,7 +53,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1310
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[1]/@text"
-msgstr ""
+msgstr "Обычная рыба"
 
 #: src-en/data/hyperspace.xml.append:1313
 msgid ""
@@ -85,7 +85,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1337
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/description"
-msgstr ""
+msgstr "Поймайте Пятнистую макрель."
 
 #: src-en/data/hyperspace.xml.append:1338
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/header"
@@ -148,7 +148,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1393
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[2]/@text"
-msgstr ""
+msgstr "Необычная рыба"
 
 #: src-en/data/hyperspace.xml.append:1396
 msgid ""
@@ -243,7 +243,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1476
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[3]/@text"
-msgstr ""
+msgstr "Редкая рыба"
 
 #: src-en/data/hyperspace.xml.append:1479
 msgid ""
@@ -338,7 +338,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1559
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[4]/@text"
-msgstr ""
+msgstr "Легендарная рыба"
 
 #: src-en/data/hyperspace.xml.append:1562
 msgid ""
@@ -406,7 +406,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1618
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[5]/@text"
-msgstr ""
+msgstr "Уникальная рыба"
 
 #: src-en/data/hyperspace.xml.append:1621
 msgid ""
@@ -606,7 +606,7 @@ msgstr "??? рыба"
 #: src-en/data/hyperspace.xml.append:1732
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/secretDescription"
-msgstr "Поймайте уникальную рыбу из сектора линусов или призраков."
+msgstr "Поймайте уникальную рыбу из сектора ланиусов или призраков."
 
 #: src-en/data/hyperspace.xml.append:1733
 msgid ""
@@ -696,7 +696,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1786
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[6]/@text"
-msgstr ""
+msgstr "Рыбы-пушки"
 
 #: src-en/data/hyperspace.xml.append:1789
 msgid ""
@@ -770,7 +770,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1844
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[7]/@text"
-msgstr ""
+msgstr "Дар рыб"
 
 #: src-en/data/hyperspace.xml.append:1847
 msgid ""

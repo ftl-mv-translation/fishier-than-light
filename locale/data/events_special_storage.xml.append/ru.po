@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-10 16:58+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"fishier-than-light/dataevents_special_storagexmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -29,7 +21,7 @@ msgstr "Мав."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice/text"
-msgstr "Кнопка рыбалки (по умолчанию: таб)"
+msgstr "Кнопка рыбалки (по умолчанию: \"Tab\")"
 
 #: src-en/data/events_special_storage.xml.append:18
 msgid ""
@@ -178,7 +170,8 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[4]/text"
-msgstr "Неважно."
+msgstr ""
+"Улучшить свой Гарпун мод. II до энергоэффективного Гарпуна мод. II†. -10~"
 
 #: src-en/data/events_special_storage.xml.append:163
 msgid ""
@@ -213,6 +206,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_2_P\"]/text"
 msgstr ""
+"Улучшить свой энергоэффективный Гарпун мод. II до энергоэффективного Гарпуна"
+" мод. III†. -100~"
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
@@ -230,6 +225,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_3\"]/text"
 msgstr ""
+"Улучшить свой энергоэффективный Гарпун мод. III до энергоэффективного "
+"Гарпуна мод. III†. -10~"
 
 #: src-en/data/events_special_storage.xml.append:208
 msgid ""
@@ -247,6 +244,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_3_P\"]/text"
 msgstr ""
+"Улучшить свой энергоэффективный Гарпун мод. III† до двойной "
+"энергоэффективности мод. III††. -10~"
 
 #: src-en/data/events_special_storage.xml.append:223
 msgid ""
@@ -278,12 +277,12 @@ msgstr "Установить внутреннее улучшение для ры
 #: src-en/data/events_special_storage.xml.append:250
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[17]/text"
-msgstr "Варианты рыболовных приманок."
+msgstr "Варианты рыболовных наживок."
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fishing_store_visited\"]/text"
-msgstr ""
+msgstr "Посмотреть рыболовные наживки."
 
 #: src-en/data/events_special_storage.xml.append:258
 msgid ""
@@ -308,152 +307,152 @@ msgstr "Не готовить ничего."
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_1\"]/text"
-msgstr "Приготовоить Оранжевый снэппер. (+5% max health)"
+msgstr "Приготовоить Оранжевый снэппер. (+5% к максимальному здоровью)"
 
 #: src-en/data/events_special_storage.xml.append:282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_2\"]/text"
-msgstr "Приготовить Красный императорский луциан. (+5% damage)"
+msgstr "Приготовить Красный императорский луциан. (+5% к урону)"
 
 #: src-en/data/events_special_storage.xml.append:290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_3\"]/text"
-msgstr "Приготовить Полосатый коралловый групер. (+5% damage reduction)"
+msgstr "Приготовить Полосатый коралловый групер. (+5% сопротивления к урону)"
 
 #: src-en/data/events_special_storage.xml.append:298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4\"]/text"
-msgstr ""
+msgstr "Приготовить Пятнистая макрель. (+5% к скорости передвижения)"
 
 #: src-en/data/events_special_storage.xml.append:306
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_5\"]/text"
-msgstr "Приготовить Оранжевый пятнистый групер. (+5% repair speed)"
+msgstr "Приготовить Оранжевый пятнистый групер. (+5% к скорости ремонта)"
 
 #: src-en/data/events_special_storage.xml.append:314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_6\"]/text"
-msgstr "Приготовить Голубая нитчатка. (+1% weapon charge rate)"
+msgstr "Приготовить Голубая нитчатка. (+1% к скорости зарядки оружия)"
 
 #: src-en/data/events_special_storage.xml.append:322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_7\"]/text"
-msgstr "Приготовить Каменный черный окунь. (+1% shield charge rate)"
+msgstr "Приготовить Каменный черный окунь. (+1% к скорости зарядки щитов)"
 
 #: src-en/data/events_special_storage.xml.append:330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_8\"]/text"
-msgstr "Приготовить Длиннохвостый тунец. (+1% scrap bonus)"
+msgstr "Приготовить Длиннохвостый тунец. (+1% к заработку лома)"
 
 #: src-en/data/events_special_storage.xml.append:338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_9\"]/text"
-msgstr "Приготовить Рифовый осьминог. (+1% system resist)"
+msgstr "Приготовить Рифовый осьминог. (+1% сопротивления систем)"
 
 #: src-en/data/events_special_storage.xml.append:346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_0\"]/text"
-msgstr "Приготовить Орляковый скат. (+1% hull resist)"
+msgstr "Приготовить Орляковый скат. (+1% сопротивлению корпуса)"
 
 #: src-en/data/events_special_storage.xml.append:356
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_11\"]/text"
-msgstr "Приготовить Двуперый угорь. (+15% max health)"
+msgstr "Приготовить Двуперый угорь. (+15% к максимальному здоровью)"
 
 #: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_12\"]/text"
-msgstr "Приготовить Голубой угорь. (+15% damage)"
+msgstr "Приготовить Голубой угорь. (+15% к урону)"
 
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_13\"]/text"
-msgstr "Приготовить Желтоперый окунь. (+15% damage reduction)"
+msgstr "Приготовить Желтоперый окунь. (+15% сопротивления к урону)"
 
 #: src-en/data/events_special_storage.xml.append:380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_14\"]/text"
-msgstr "Приготовить Большеглазый тунец. (+15% move speed)"
+msgstr "Приготовить Большеглазый тунец. (+15% к скорости передвижения)"
 
 #: src-en/data/events_special_storage.xml.append:388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_15\"]/text"
-msgstr "Приготовить Пятнистая барракуда. (+15% repair speed)"
+msgstr "Приготовить Пятнистая барракуда. (+15% к скорости ремонта)"
 
 #: src-en/data/events_special_storage.xml.append:396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_16\"]/text"
-msgstr "Приготовить Коричневая форель. (+5% weapon charge rate)"
+msgstr "Приготовить Коричневая форель. (+5% к скорости зарядки оружия)"
 
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_17\"]/text"
-msgstr "Приготовить Султанка. (+6% shield charge rate)"
+msgstr "Приготовить Султанка. (+6% к скорости зарядки щитов)"
 
 #: src-en/data/events_special_storage.xml.append:412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_18\"]/text"
-msgstr "Приготовить Вариола радужная. (+5% scrap bonus)"
+msgstr "Приготовить Вариола радужная. (+5% к заработку лома)"
 
 #: src-en/data/events_special_storage.xml.append:420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_19\"]/text"
-msgstr "Приготовить Желтоперый горбыль. (+4% system resist)"
+msgstr "Приготовить Желтоперый горбыль. (+4% сопротивления систем)"
 
 #: src-en/data/events_special_storage.xml.append:428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_10\"]/text"
-msgstr "Приготовить Микижа. (+4% hull resist)"
+msgstr "Приготовить Микижа. (+4% сопротивлению корпуса)"
 
 #: src-en/data/events_special_storage.xml.append:438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_21\"]/text"
-msgstr "Приготовить Кижуч. (+45% max health)"
+msgstr "Приготовить Кижуч. (+45% к максимальному здоровью)"
 
 #: src-en/data/events_special_storage.xml.append:446
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_22\"]/text"
-msgstr "Приготовить Длинноперая ставрида. (+45% damage)"
+msgstr "Приготовить Длинноперая ставрида. (+45% к урону)"
 
 #: src-en/data/events_special_storage.xml.append:454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_23\"]/text"
-msgstr "Приготовить Желтоперый лосось. (+45% damage reduction)"
+msgstr "Приготовить Желтоперый лосось. (+45% сопротивления к урону)"
 
 #: src-en/data/events_special_storage.xml.append:462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_24\"]/text"
-msgstr "Приготовить Оливковый сомик. (+45% move speed)"
+msgstr "Приготовить Оливковый сомик. (+45% к скорости передвижения)"
 
 #: src-en/data/events_special_storage.xml.append:470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_25\"]/text"
-msgstr "Приготовить Позолоченный лещ. (+45% repair speed)"
+msgstr "Приготовить Позолоченный лещ. (+45% к скорости ремонта)"
 
 #: src-en/data/events_special_storage.xml.append:478
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_26\"]/text"
-msgstr "Приготовить Черная кобия. (+20% weapon charge rate)"
+msgstr "Приготовить Черная кобия. (+20% к скорости зарядки оружия)"
 
 #: src-en/data/events_special_storage.xml.append:486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_27\"]/text"
-msgstr "Приготовить Рыба мудрости. (+25% shield charge rate)"
+msgstr "Приготовить Рыба мудрости. (+25% к скорости зарядки щитов)"
 
 #: src-en/data/events_special_storage.xml.append:494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_28\"]/text"
-msgstr "Приготовить Золотистая форель. (+20% scrap bonus)"
+msgstr "Приготовить Золотистая форель. (+20% к заработку лома)"
 
 #: src-en/data/events_special_storage.xml.append:502
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_29\"]/text"
-msgstr "Приготовить Канальный сомик. (+16% system resist)"
+msgstr "Приготовить Канальный сомик. (+16% сопротивления систем)"
 
 #: src-en/data/events_special_storage.xml.append:510
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_20\"]/text"
-msgstr "Приготовить Осетр. (+16% hull resist)"
+msgstr "Приготовить Осетр. (+16% сопротивлению корпуса)"
 
 #: src-en/data/events_special_storage.xml.append:520
 msgid ""
@@ -465,8 +464,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_32\"]/text"
 msgstr ""
-"Приготовить Большая корифена. (-100% урона для всего экипажа корабля, 2 "
-"урона в секунду для врагов на корабле)"
+"Приготовить Большая корифена. (-100% урона для всего экипажа корабля, 5 "
+"урона в секунду для врагов на вашем корабле)"
 
 #: src-en/data/events_special_storage.xml.append:536
 msgid ""
@@ -577,59 +576,63 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_46\"]/text"
 msgstr ""
-"Приготовить Рыба-богомол. (all crew -50% ranged damage, friendly crew +100% "
-"melee damage)"
+"Приготовить Рыба-богомол. (Весь экипаж -50% урона в дальнем бою, союзный "
+"экипаж +100% урона в ближнем бою)"
 
 #: src-en/data/events_special_storage.xml.append:651
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_47\"]/text"
 msgstr ""
-"Приготовить Ледяная рыба. (Crew spawn crystal shards when hit by ship "
-"weapons)"
+"Приготовить Ледяная рыба. (Экипаж порождает осколки кристаллов при попадании"
+" в них из корабельного оружия)"
 
 #: src-en/data/events_special_storage.xml.append:659
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_48\"]/text"
-msgstr "Приготовить Каменная рыба. (+5 super hull points)"
+msgstr "Приготовить Каменная рыба. (+5 очков к суперкорпусу)"
 
 #: src-en/data/events_special_storage.xml.append:667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_49\"]/text"
 msgstr ""
-"Приготовить Рыба-бунтовщик. (All humans +50% damage, +33% damage reduction)"
+"Приготовить Рыба-бунтовщик. (Всем людям +50% урона, +33% сопротивления к "
+"урону)"
 
 #: src-en/data/events_special_storage.xml.append:675
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_40\"]/text"
 msgstr ""
-"Приготовить Рыба-вор. (+1 scrap on enemy hull damage, -3 on own hull damage)"
+"Приготовить Рыба-вор. (+1 лом к урону корпуса противника, -3 к урону своего "
+"корпуса)"
 
 #: src-en/data/events_special_storage.xml.append:683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4A\"]/text"
-msgstr "Приготовить Рыба-анаэроб. (+80% suffocation resistance)"
+msgstr "Приготовить Рыба-анаэроб. (+80% сопротивления к удушью)"
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_4B\"]/text"
-msgstr "Приготовить Слизневый скат. (Mind control immunity)"
+msgstr "Приготовить Слизневый скат. (Иммунитет к контролю разума)"
 
 #: src-en/data/events_special_storage.xml.append:699
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_4C\"]/text"
 msgstr ""
-"Приготовить Пиявка?. (All friendly leeches gain teleportation but lose 50% "
-"of their health)"
+"Приготовить Пиявка?. (Все дружественные пиявки получают телепортацию, но "
+"теряют 50% здоровья)"
 
 #: src-en/data/events_special_storage.xml.append:715
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4D\"]/text"
 msgstr ""
+"Приготовить Древняя рыба. (Улучшает 1 оружие обелисков до Дворянского "
+"варианта)"
 
 #: src-en/data/events_special_storage.xml.append:719
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4E\"]/text"
-msgstr "Приготовить Сильвоперая рыба. (Fish Merchant Beacon, +1 Sylvans)"
+msgstr "Приготовить Сильвоперая рыба. (Маяк рыбного торговца, +1 Сильван)"
 
 #: src-en/data/events_special_storage.xml.append:722
 msgid ""
@@ -964,241 +967,241 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_1\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:994
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_1\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1000
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_1\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_1\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_2\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1011
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_2\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1017
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_2\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_2\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_3\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1028
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_3\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1034
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_3\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1036
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_3\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1043
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_4\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_4\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1051
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_4\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_4\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1060
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_5\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_5\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1068
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_5\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1070
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_5\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_6\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1079
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_6\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1085
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_6\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_6\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1094
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_7\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_7\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_7\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_7\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_8\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1113
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_8\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_8\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1121
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_8\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_9\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_9\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1136
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_9\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_9\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_0\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_0\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1153
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_0\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1155
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_0\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1163
 msgid ""
@@ -1214,241 +1217,241 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_11\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1173
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_11\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_11\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_11\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_12\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_12\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1196
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_12\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_12\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_13\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1207
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_13\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1213
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_13\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1215
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_13\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_14\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_14\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_14\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_14\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_15\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_15\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_15\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_15\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1256
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_16\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1258
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_16\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1264
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_16\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_16\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1273
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_17\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1275
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_17\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1281
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_17\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1283
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_17\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_18\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_18\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_18\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_18\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_19\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1309
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_19\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1315
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_19\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1317
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_19\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1324
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_10\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_10\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_10\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_10\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1342
 msgid ""
@@ -1464,241 +1467,241 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_21\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_21\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_21\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1360
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_21\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_22\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1369
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_22\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1375
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_22\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_22\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_23\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1386
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_23\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_23\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_23\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1401
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_24\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_24\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_24\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1411
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_24\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_25\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_25\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1426
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_25\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_25\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1435
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_26\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1437
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_26\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_26\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1445
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_26\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_27\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_27\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_27\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_27\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_28\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1471
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_28\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1477
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_28\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1479
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_28\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_29\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_29\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_29\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1496
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_29\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_20\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1505
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_20\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1511
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_20\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_20\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1521
 msgid ""
@@ -1714,169 +1717,169 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_31\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_31\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_31\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1539
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_31\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_32\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1548
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_32\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_32\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1556
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_32\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1563
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_33\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1565
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_33\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1571
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_33\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_33\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_34\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1582
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_34\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_34\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_34\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_35\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_35\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1605
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_35\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1607
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_35\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1614
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_36\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_36\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1622
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_36\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1624
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_36\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1631
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_37\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1633
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_37\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_37\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1641
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_37\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1649
 msgid ""
@@ -1895,13 +1898,13 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_41\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1659
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_41\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1665
 msgid ""
@@ -1913,13 +1916,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_42\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1671
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_42\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1677
 msgid ""
@@ -1931,13 +1934,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_43\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_43\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1689
 msgid ""
@@ -1949,13 +1952,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_44\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1695
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_44\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1701
 msgid ""
@@ -1967,13 +1970,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_45\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_45\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1713
 msgid ""
@@ -1984,13 +1987,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_46\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1720
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_46\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1726
 msgid ""
@@ -2002,13 +2005,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_47\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1732
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_47\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1738
 msgid ""
@@ -2020,13 +2023,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_48\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1744
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_48\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1750
 msgid ""
@@ -2038,13 +2041,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_49\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_49\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1762
 msgid ""
@@ -2055,12 +2058,12 @@ msgstr "Неизвестно"
 #: src-en/data/events_special_storage.xml.append:1766
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_40\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_40\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1774
 msgid ""
@@ -2071,13 +2074,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4A\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1781
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4A\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1787
 msgid ""
@@ -2089,13 +2092,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4B\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4B\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1799
 msgid ""
@@ -2107,13 +2110,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4C\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1805
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4C\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1811
 msgid ""
@@ -2125,13 +2128,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4D\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1817
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4D\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1823
 msgid ""
@@ -2143,13 +2146,13 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4E\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4E\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1835
 msgid ""
@@ -2171,169 +2174,169 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_LASER\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_LASER\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1857
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_LASER\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1859
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_LASER\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1866
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_ION\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1868
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_ION\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1874
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_ION\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1876
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_ION\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1883
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_FLAK\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1885
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_FLAK\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1891
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_FLAK\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1893
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_FLAK\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1900
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_BEAM\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1902
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_BEAM\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1908
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_BEAM\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1910
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_BEAM\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1917
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MINELAYER\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MINELAYER\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1925
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MINELAYER\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1927
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MINELAYER\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_1\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_1\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1942
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_1\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_1\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1951
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_2\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНО"
+msgstr "НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1953
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_2\""
 " and @lvl=\"1\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_2\""
 " and @lvl=\"0\"]/text"
-msgstr "НЕ НАЙДЕНО"
+msgstr "НЕ НАЙДЕНА"
 
 #: src-en/data/events_special_storage.xml.append:1961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_2\""
 " and @lvl=\"0\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1969
 msgid ""
@@ -2348,12 +2351,12 @@ msgstr "Неважно"
 #: src-en/data/events_special_storage.xml.append:1976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"fish_inaug_bait_check\"]/text"
-msgstr ""
+msgstr "Улучшенная наживка. (Уменьшает шанс получить хлам)"
 
 #: src-en/data/events_special_storage.xml.append:1978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"fish_inaug_bait_check\"]/event/text"
-msgstr "Вы устанавливаете Улучшенную приманку."
+msgstr "Вы устанавливаете Улучшенную наживку."
 
 #: src-en/data/events_special_storage.xml.append:1986
 msgid ""
@@ -2398,46 +2401,52 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_SPEED\"]/text"
 msgstr ""
+"Быстрая катушка. (Рыба ловится в 1.8х быстрее, но и теряется в 1.5х "
+"быстрее))"
 
 #: src-en/data/events_special_storage.xml.append:2062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_SPEED\"]/event/text"
-msgstr ""
+msgstr "Вы устанавливаете Быструю катушку."
 
 #: src-en/data/events_special_storage.xml.append:2071
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_SPEED\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_HIGHER\"]/text"
 msgstr ""
+"Дополнительная веревка. (Рыба начинается с вдвое большим процентом улова, "
+"чем раньше)"
 
 #: src-en/data/events_special_storage.xml.append:2079
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_HIGHER\"]/event/text"
-msgstr ""
+msgstr "Вы устанавливаете Дополнительную веревку."
 
 #: src-en/data/events_special_storage.xml.append:2085
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_HIGHER\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2091
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_GRAV\"]/text"
 msgstr ""
+"Тяжелая наживка. (Гравитация на крючке на 30% сильнее, рыба тормозит на 30% "
+"быстрее)"
 
 #: src-en/data/events_special_storage.xml.append:2093
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_GRAV\"]/event/text"
-msgstr ""
+msgstr "Вы устанавливаете Тяжелую наживку."
 
 #: src-en/data/events_special_storage.xml.append:2102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_GRAV\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2111
 msgid ""
@@ -2449,6 +2458,18 @@ msgstr "(Маяк рыботорговца) Вызвать магазин."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_INFO\"]/text"
 msgstr ""
+"Награды за рыбалку рассчитываются следующим образом;\n"
+"Когда вы ловите рыбу, сначала рассчитывается шанс получить хлам, изначально этот шанс составляет 3/4, который снижается до 2/3 за счет внутреннего улучшения, и до 0/1 за счет дара и модуля рыболовного судна.\n"
+"Если игра решила, что вы поймали хлам, есть 50% шанс получить обычную рыбу и 50% шанс получить хлам (бесполезные предметы стоимостью 5 ломов).\n"
+"(Это не относится к светящейся синей рыбе, которая является гарантированно легендарной рыбой).\n"
+"\n"
+"В остальном рыболовный лут определяется таблицей лута, соответствующей сложности пойманной рыбы. Существуют различные таблицы лута в зависимости от сектора.\n"
+"\n"
+"Сложность рыбы определяется, когда вы начинаете рыбачить, обычно это число от 1 до силы вашего гарпуна, мод. 1 имеет силу 5, мод. 2 - силу 10, а мод. 3 - силу 16.\n"
+"мод. 2 и мод. 3 повышают нижнюю границу сложности, если у вас есть внутренний модуль, позволяющий сделать обычную рыбу более редкой.\n"
+"\n"
+"Бонусы за обычную, необычную и редкую рыбу складываются в несколько раз, а также распространяются только на ваш экипаж.\n"
+"Другие бонусы обычно складываются в несколько раз, однако они могут распространяться на вражеский экипаж"
 
 #: src-en/data/events_special_storage.xml.append:2132
 msgid ""
@@ -2458,7 +2479,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:2143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать?"
 
 #: src-en/data/events_special_storage.xml.append:2145
 msgid ""
@@ -2468,407 +2489,429 @@ msgstr "Неважно"
 #: src-en/data/events_special_storage.xml.append:2149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_11\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_11\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2157
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_12\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Меньше обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_12\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_13\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Без пушек и уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_13\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2173
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_14\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Без экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_14\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_15\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_15\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_21\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Без лома/Меньше обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_21\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_22\"]/text"
 msgstr ""
+"На данный момент используется наживка: Меньше обычных рыб/Без пушек и "
+"уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_22\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_23\"]/text"
 msgstr ""
+"На данный момент используется наживка: Без пушек и уникальных рыб/Без "
+"экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_23\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_24\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Без экипажа/Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_24\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_25\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Без снаряжения/Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_25\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_31\"]/text"
 msgstr ""
+"На данный момент используется наживка: Без лома/Меньше обычных рыб/Без пушек"
+" и уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_31\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_32\"]/text"
 msgstr ""
+"На данный момент используется наживка: Меньше обычных рыб/Без пушек и "
+"уникальных рыб/Без экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_32\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_33\"]/text"
 msgstr ""
+"На данный момент используется наживка: Без пушек и уникальных рыб/Без "
+"экипажа/Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_33\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2255
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_34\"]/text"
 msgstr ""
+"На данный момент используется наживка: Без экипажа/Без снаряжения/Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2257
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_34\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2263
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_35\"]/text"
 msgstr ""
+"На данный момент используется наживка: Без снаряжения/Без лома/Меньше "
+"обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2265
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_35\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2271
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_DOUBLE\"]/text"
-msgstr ""
+msgstr "На данный момент используется наживка: Двойной крючок"
 
 #: src-en/data/events_special_storage.xml.append:2273
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_DOUBLE\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2280
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[18]/text"
-msgstr ""
+msgstr "Снять наживку."
 
 #: src-en/data/events_special_storage.xml.append:2302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_11\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_11\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_11\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_12\"]/text"
-msgstr ""
+msgstr "Store bait internally: Меньше обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_12\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_12\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Меньше обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_13\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без пушек и уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_13\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_13\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без пушек и уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_14\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_14\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_14\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2422
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_15\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_15\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_15\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_21\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без лома/Меньше обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_21\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_21\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без лома/Меньше обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_22\"]/text"
-msgstr ""
+msgstr "Store bait internally: Меньше обычных рыб/Без пушек и уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_22\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_22\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Меньше обычных рыб/Без пушек и уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_23\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без пушек и уникальных рыб/Без экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_23\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_23\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без пушек и уникальных рыб/Без экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2542
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_24\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без экипажа/Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2544
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_24\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2550
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_24\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без экипажа/Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_25\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без снаряжения/Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2574
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_25\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_25\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без снаряжения/Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2602
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_31\"]/text"
 msgstr ""
+"Store bait internally: Без лома/Меньше обычных рыб/Без пушек и уникальных "
+"рыб"
 
 #: src-en/data/events_special_storage.xml.append:2604
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_31\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2610
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_31\"]/text"
 msgstr ""
+"Экипировать наживку: Без лома/Меньше обычных рыб/Без пушек и уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_32\"]/text"
 msgstr ""
+"Store bait internally: Меньше обычных рыб/Без пушек и уникальных рыб/Без "
+"экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_32\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2640
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_32\"]/text"
 msgstr ""
+"Экипировать наживку: Меньше обычных рыб/Без пушек и уникальных рыб/Без "
+"экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_33\"]/text"
 msgstr ""
+"Store bait internally: Без пушек и уникальных рыб/Без экипажа/Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2664
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_33\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_33\"]/text"
 msgstr ""
+"Экипировать наживку: Без пушек и уникальных рыб/Без экипажа/Без снаряжения"
 
 #: src-en/data/events_special_storage.xml.append:2692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_34\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без экипажа/Без снаряжения/Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2694
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_34\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2700
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_34\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без экипажа/Без снаряжения/Без лома"
 
 #: src-en/data/events_special_storage.xml.append:2722
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_35\"]/text"
-msgstr ""
+msgstr "Store bait internally: Без снаряжения/Без лома/Меньше обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2724
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_35\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2730
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_35\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Без снаряжения/Без лома/Меньше обычных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_DOUBLE\"]/text"
-msgstr ""
+msgstr "Store bait internally: Двойной крючок"
 
 #: src-en/data/events_special_storage.xml.append:2754
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_DOUBLE\"]/event/text"
-msgstr "1"
+msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2760
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_DOUBLE\"]/text"
-msgstr ""
+msgstr "Экипировать наживку: Двойной крючок"
 
 #: src-en/data/events_special_storage.xml.append:2783
 msgid ""
@@ -2878,7 +2921,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2787
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_11\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2793
 msgid ""
@@ -2888,7 +2931,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_12\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2803
 msgid ""
@@ -2898,7 +2941,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2807
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_13\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2813
 msgid ""
@@ -2908,7 +2951,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2817
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_14\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2823
 msgid ""
@@ -2918,7 +2961,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_15\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2833
 msgid ""
@@ -2928,7 +2971,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2837
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_21\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2843
 msgid ""
@@ -2938,7 +2981,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2847
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_22\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2853
 msgid ""
@@ -2948,7 +2991,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2857
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_23\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2863
 msgid ""
@@ -2958,7 +3001,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2867
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_24\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2873
 msgid ""
@@ -2968,7 +3011,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2877
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_25\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2883
 msgid ""
@@ -2978,7 +3021,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2887
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_31\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2893
 msgid ""
@@ -2988,7 +3031,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_32\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2903
 msgid ""
@@ -2998,7 +3041,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2907
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_33\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2913
 msgid ""
@@ -3008,7 +3051,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2917
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_34\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2923
 msgid ""
@@ -3018,7 +3061,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2927
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FISH_INSTALL_BAIT_35\"]/choice/text"
-msgstr ""
+msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:2933
 msgid ""
@@ -3044,943 +3087,943 @@ msgstr "Неважно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 0: Королевская ставрида"
 
 #: src-en/data/events_special_storage.xml.append:2954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 0: Большая корифена"
 
 #: src-en/data/events_special_storage.xml.append:2958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 0: Рыба-херувим"
 
 #: src-en/data/events_special_storage.xml.append:2962
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 0: Групер"
 
 #: src-en/data/events_special_storage.xml.append:2966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 0: Луфарь"
 
 #: src-en/data/events_special_storage.xml.append:2970
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 0: Арапаима"
 
 #: src-en/data/events_special_storage.xml.append:2974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 0: Голубой марлин"
 
 #: src-en/data/events_special_storage.xml.append:2980
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 1: Оранжевый снэппер"
 
 #: src-en/data/events_special_storage.xml.append:2984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 1: Красный императорский луциан"
 
 #: src-en/data/events_special_storage.xml.append:2988
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 1: Полосатый коралловый групер"
 
 #: src-en/data/events_special_storage.xml.append:2992
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 1: Пятнистая макрель"
 
 #: src-en/data/events_special_storage.xml.append:2996
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 1: Оранжевый пятнистый групер"
 
 #: src-en/data/events_special_storage.xml.append:3000
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 1: Голубая нитчатка"
 
 #: src-en/data/events_special_storage.xml.append:3004
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 1: Каменный черный окунь"
 
 #: src-en/data/events_special_storage.xml.append:3008
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 1: Длиннохвостый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3012
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 1: Рифовый осьминог"
 
 #: src-en/data/events_special_storage.xml.append:3016
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 1: Орляковый скат"
 
 #: src-en/data/events_special_storage.xml.append:3022
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 2: Оранжевый снэппер"
 
 #: src-en/data/events_special_storage.xml.append:3026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 2: Красный императорский луциан"
 
 #: src-en/data/events_special_storage.xml.append:3030
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 2: Полосатый коралловый групер"
 
 #: src-en/data/events_special_storage.xml.append:3034
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 2: Пятнистая макрель"
 
 #: src-en/data/events_special_storage.xml.append:3038
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 2: Оранжевый пятнистый групер"
 
 #: src-en/data/events_special_storage.xml.append:3042
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 2: Голубая нитчатка"
 
 #: src-en/data/events_special_storage.xml.append:3046
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 2: Каменный черный окунь"
 
 #: src-en/data/events_special_storage.xml.append:3050
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 2: Длиннохвостый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3054
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 2: Рифовый осьминог"
 
 #: src-en/data/events_special_storage.xml.append:3058
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 2: Орляковый скат"
 
 #: src-en/data/events_special_storage.xml.append:3064
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 3: Оранжевый снэппер"
 
 #: src-en/data/events_special_storage.xml.append:3068
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 3: Красный императорский луциан"
 
 #: src-en/data/events_special_storage.xml.append:3072
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 3: Полосатый коралловый групер"
 
 #: src-en/data/events_special_storage.xml.append:3076
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 3: Пятнистая макрель"
 
 #: src-en/data/events_special_storage.xml.append:3080
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 3: Оранжевый пятнистый групер"
 
 #: src-en/data/events_special_storage.xml.append:3084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 3: Голубая нитчатка"
 
 #: src-en/data/events_special_storage.xml.append:3088
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 3: Каменный черный окунь"
 
 #: src-en/data/events_special_storage.xml.append:3092
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 3: Длиннохвостый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 3: Рифовый осьминог"
 
 #: src-en/data/events_special_storage.xml.append:3100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 3: Орляковый скат"
 
 #: src-en/data/events_special_storage.xml.append:3106
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 4: Оранжевый снэппер"
 
 #: src-en/data/events_special_storage.xml.append:3110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 4: Красный императорский луциан"
 
 #: src-en/data/events_special_storage.xml.append:3114
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 4: Полосатый коралловый групер"
 
 #: src-en/data/events_special_storage.xml.append:3118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 4: Пятнистая макрель"
 
 #: src-en/data/events_special_storage.xml.append:3122
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 4: Оранжевый пятнистый групер"
 
 #: src-en/data/events_special_storage.xml.append:3126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 4: Голубая нитчатка"
 
 #: src-en/data/events_special_storage.xml.append:3130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 4: Каменный черный окунь"
 
 #: src-en/data/events_special_storage.xml.append:3134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 4: Длиннохвостый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 4: Рифовый осьминог"
 
 #: src-en/data/events_special_storage.xml.append:3142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 4: Орляковый скат"
 
 #: src-en/data/events_special_storage.xml.append:3148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 5: Оранжевый снэппер"
 
 #: src-en/data/events_special_storage.xml.append:3152
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 5: Красный императорский луциан"
 
 #: src-en/data/events_special_storage.xml.append:3156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 5: Полосатый коралловый групер"
 
 #: src-en/data/events_special_storage.xml.append:3160
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 5: Пятнистая макрель"
 
 #: src-en/data/events_special_storage.xml.append:3164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 5: Оранжевый пятнистый групер"
 
 #: src-en/data/events_special_storage.xml.append:3168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 5: Голубая нитчатка"
 
 #: src-en/data/events_special_storage.xml.append:3172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 5: Каменный черный окунь"
 
 #: src-en/data/events_special_storage.xml.append:3176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 5: Длиннохвостый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3180
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 5: Рифовый осьминог"
 
 #: src-en/data/events_special_storage.xml.append:3184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 5: Орляковый скат"
 
 #: src-en/data/events_special_storage.xml.append:3196
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 6: Двуперый угорь"
 
 #: src-en/data/events_special_storage.xml.append:3200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 6: Голубой угорь"
 
 #: src-en/data/events_special_storage.xml.append:3204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 6: Желтоперый окунь"
 
 #: src-en/data/events_special_storage.xml.append:3208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 6: Большеглазый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3212
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 6: Пятнистая барракуда"
 
 #: src-en/data/events_special_storage.xml.append:3216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 6: Коричневая форель"
 
 #: src-en/data/events_special_storage.xml.append:3220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 6: Султанка"
 
 #: src-en/data/events_special_storage.xml.append:3224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 6: Вариола радужная"
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 6: Желтоперый горбыль"
 
 #: src-en/data/events_special_storage.xml.append:3232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 6: Микижа"
 
 #: src-en/data/events_special_storage.xml.append:3238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 7: Двуперый угорь"
 
 #: src-en/data/events_special_storage.xml.append:3242
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 7: Голубой угорь"
 
 #: src-en/data/events_special_storage.xml.append:3246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 7: Желтоперый окунь"
 
 #: src-en/data/events_special_storage.xml.append:3250
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 7: Большеглазый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 7: Пятнистая барракуда"
 
 #: src-en/data/events_special_storage.xml.append:3258
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 7: Коричневая форель"
 
 #: src-en/data/events_special_storage.xml.append:3262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 7: Султанка"
 
 #: src-en/data/events_special_storage.xml.append:3266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 7: Вариола радужная"
 
 #: src-en/data/events_special_storage.xml.append:3270
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 7: Желтоперый горбыль"
 
 #: src-en/data/events_special_storage.xml.append:3274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 7: Микижа"
 
 #: src-en/data/events_special_storage.xml.append:3280
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 8: Двуперый угорь"
 
 #: src-en/data/events_special_storage.xml.append:3284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 8: Голубой угорь"
 
 #: src-en/data/events_special_storage.xml.append:3288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 8: Желтоперый окунь"
 
 #: src-en/data/events_special_storage.xml.append:3292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 8: Большеглазый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 8: Пятнистая барракуда"
 
 #: src-en/data/events_special_storage.xml.append:3300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 8: Коричневая форель"
 
 #: src-en/data/events_special_storage.xml.append:3304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 8: Султанка"
 
 #: src-en/data/events_special_storage.xml.append:3308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 8: Вариола радужная"
 
 #: src-en/data/events_special_storage.xml.append:3312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 8: Желтоперый горбыль"
 
 #: src-en/data/events_special_storage.xml.append:3316
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 8: Микижа"
 
 #: src-en/data/events_special_storage.xml.append:3322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 9: Двуперый угорь"
 
 #: src-en/data/events_special_storage.xml.append:3326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 9: Голубой угорь"
 
 #: src-en/data/events_special_storage.xml.append:3330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 9: Желтоперый окунь"
 
 #: src-en/data/events_special_storage.xml.append:3334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 9: Большеглазый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 9: Пятнистая барракуда"
 
 #: src-en/data/events_special_storage.xml.append:3342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 9: Коричневая форель"
 
 #: src-en/data/events_special_storage.xml.append:3346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 9: Султанка"
 
 #: src-en/data/events_special_storage.xml.append:3350
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 9: Вариола радужная"
 
 #: src-en/data/events_special_storage.xml.append:3354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 9: Желтоперый горбыль"
 
 #: src-en/data/events_special_storage.xml.append:3358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 9: Микижа"
 
 #: src-en/data/events_special_storage.xml.append:3364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 10: Двуперый угорь"
 
 #: src-en/data/events_special_storage.xml.append:3368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 10: Голубой угорь"
 
 #: src-en/data/events_special_storage.xml.append:3372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 10: Желтоперый окунь"
 
 #: src-en/data/events_special_storage.xml.append:3376
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 10: Большеглазый тунец"
 
 #: src-en/data/events_special_storage.xml.append:3380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 10: Пятнистая барракуда"
 
 #: src-en/data/events_special_storage.xml.append:3384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 10: Коричневая форель"
 
 #: src-en/data/events_special_storage.xml.append:3388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 10: Султанка"
 
 #: src-en/data/events_special_storage.xml.append:3392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 10: Вариола радужная"
 
 #: src-en/data/events_special_storage.xml.append:3396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 10: Желтоперый горбыль"
 
 #: src-en/data/events_special_storage.xml.append:3400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 10: Микижа"
 
 #: src-en/data/events_special_storage.xml.append:3412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 11: Кижуч"
 
 #: src-en/data/events_special_storage.xml.append:3416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 11: Длинноперая ставрида"
 
 #: src-en/data/events_special_storage.xml.append:3420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 11: Желтоперый лосось"
 
 #: src-en/data/events_special_storage.xml.append:3424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 11: Оливковый сомик"
 
 #: src-en/data/events_special_storage.xml.append:3428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 11: Позолоченный лещ"
 
 #: src-en/data/events_special_storage.xml.append:3432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 11: Черная кобия"
 
 #: src-en/data/events_special_storage.xml.append:3436
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 11: Рыба мудрости"
 
 #: src-en/data/events_special_storage.xml.append:3440
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 11: Золотистая форель"
 
 #: src-en/data/events_special_storage.xml.append:3444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 11: Канальный сомик"
 
 #: src-en/data/events_special_storage.xml.append:3448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 11: Осетр"
 
 #: src-en/data/events_special_storage.xml.append:3454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 12: Кижуч"
 
 #: src-en/data/events_special_storage.xml.append:3458
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 12: Длинноперая ставрида"
 
 #: src-en/data/events_special_storage.xml.append:3462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 12: Желтоперый лосось"
 
 #: src-en/data/events_special_storage.xml.append:3466
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 12: Оливковый сомик"
 
 #: src-en/data/events_special_storage.xml.append:3470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 12: Позолоченный лещ"
 
 #: src-en/data/events_special_storage.xml.append:3474
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 12: Черная кобия"
 
 #: src-en/data/events_special_storage.xml.append:3478
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 12: Рыба мудрости"
 
 #: src-en/data/events_special_storage.xml.append:3482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 12: Золотистая форель"
 
 #: src-en/data/events_special_storage.xml.append:3486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 12: Канальный сомик"
 
 #: src-en/data/events_special_storage.xml.append:3490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 12: Осетр"
 
 #: src-en/data/events_special_storage.xml.append:3496
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 13: Кижуч"
 
 #: src-en/data/events_special_storage.xml.append:3500
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 13: Длинноперая ставрида"
 
 #: src-en/data/events_special_storage.xml.append:3504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 13: Желтоперый лосось"
 
 #: src-en/data/events_special_storage.xml.append:3508
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 13: Оливковый сомик"
 
 #: src-en/data/events_special_storage.xml.append:3512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 13: Позолоченный лещ"
 
 #: src-en/data/events_special_storage.xml.append:3516
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 13: Черная кобия"
 
 #: src-en/data/events_special_storage.xml.append:3520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 13: Рыба мудрости"
 
 #: src-en/data/events_special_storage.xml.append:3524
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 13: Золотистая форель"
 
 #: src-en/data/events_special_storage.xml.append:3528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 13: Канальный сомик"
 
 #: src-en/data/events_special_storage.xml.append:3532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 13: Осетр"
 
 #: src-en/data/events_special_storage.xml.append:3538
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 14: Кижуч"
 
 #: src-en/data/events_special_storage.xml.append:3542
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 14: Длинноперая ставрида"
 
 #: src-en/data/events_special_storage.xml.append:3546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 14: Желтоперый лосось"
 
 #: src-en/data/events_special_storage.xml.append:3550
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 14: Оливковый сомик"
 
 #: src-en/data/events_special_storage.xml.append:3554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 14: Позолоченный лещ"
 
 #: src-en/data/events_special_storage.xml.append:3558
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 14: Черная кобия"
 
 #: src-en/data/events_special_storage.xml.append:3562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 14: Рыба мудрости"
 
 #: src-en/data/events_special_storage.xml.append:3566
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 14: Золотистая форель"
 
 #: src-en/data/events_special_storage.xml.append:3570
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 14: Канальный сомик"
 
 #: src-en/data/events_special_storage.xml.append:3574
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 14: Осетр"
 
 #: src-en/data/events_special_storage.xml.append:3580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Контракт 15: Кижуч"
 
 #: src-en/data/events_special_storage.xml.append:3584
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Контракт 15: Длинноперая ставрида"
 
 #: src-en/data/events_special_storage.xml.append:3588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Контракт 15: Желтоперый лосось"
 
 #: src-en/data/events_special_storage.xml.append:3592
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Контракт 15: Оливковый сомик"
 
 #: src-en/data/events_special_storage.xml.append:3596
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Контракт 15: Позолоченный лещ"
 
 #: src-en/data/events_special_storage.xml.append:3600
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Контракт 15: Черная кобия"
 
 #: src-en/data/events_special_storage.xml.append:3604
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Контракт 15: Рыба мудрости"
 
 #: src-en/data/events_special_storage.xml.append:3608
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Контракт 15: Золотистая форель"
 
 #: src-en/data/events_special_storage.xml.append:3612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Контракт 15: Канальный сомик"
 
 #: src-en/data/events_special_storage.xml.append:3616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Контракт 15: Осетр"
 
 #: src-en/data/events_special_storage.xml.append:3626
 msgid ""

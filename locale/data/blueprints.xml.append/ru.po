@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-10 16:58+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"fishier-than-light/datablueprintsxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:5
 msgid ""
@@ -27,6 +19,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
@@ -42,6 +36,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+36% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:86
 msgid ""
@@ -57,6 +54,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+100 скорость снаряда\n"
+"\t\t+100% вероятность оглушения\n"
+"\t\t+20% бонус к точности"
 
 #: src-en/data/blueprints.xml.append:132
 msgid ""
@@ -72,6 +73,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+45 урон экипажу\n"
+"\t\t+20% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:175
 msgid ""
@@ -87,6 +91,12 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+36% вероятность пробоины\n"
+"\t\t+100 скорость снаряда\n"
+"\t\t+100% вероятность оглушения\n"
+"\t\t+20% бонус к точности"
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
@@ -102,6 +112,12 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+100 скорость снаряда\n"
+"\t\t+100% вероятность оглушения\n"
+"\t\t+20% бонус к точности\n"
+"\t\t+45 урон экипажу\n"
+"\t\t+20% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:272
 msgid ""
@@ -117,6 +133,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+36% вероятность пробоины\n"
+"\t\t+45 урон экипажу\n"
+"\t\t+20% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
@@ -132,6 +153,14 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+36% вероятность пробоины\n"
+"\t\t+100 скорость снаряда\n"
+"\t\t+100% вероятность оглушения\n"
+"\t\t+20% бонус к точности\n"
+"\t\t+45 урон экипажу\n"
+"\t\t+20% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:370
 msgid ""
@@ -147,6 +176,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:409
 msgid ""
@@ -162,6 +193,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел за залп\n"
+"\t\t+1с к перезарядке"
 
 #: src-en/data/blueprints.xml.append:451
 msgid ""
@@ -177,6 +211,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+110 скорость снаряда"
 
 #: src-en/data/blueprints.xml.append:494
 msgid ""
@@ -192,6 +229,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-1 урон корпусу\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+50% вероятность поджога\n"
+"\t\t+50% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:540
 msgid ""
@@ -207,6 +249,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел за залп\n"
+"\t\t+1с к перезарядке\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+110 скорость снаряда"
 
 #: src-en/data/blueprints.xml.append:585
 msgid ""
@@ -222,6 +269,13 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+110 скорость снаряда\n"
+"\t\t-1 урон корпусу\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+50% вероятность поджога\n"
+"\t\t+50% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:634
 msgid ""
@@ -237,6 +291,13 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел за залп\n"
+"\t\t+1с к перезарядке\n"
+"\t\t-1 урон корпусу\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+50% вероятность поджога\n"
+"\t\t+50% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:682
 msgid ""
@@ -252,6 +313,15 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел за залп\n"
+"\t\t+1с к перезарядке\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+110 скорость снаряда\n"
+"\t\t-1 урон корпусу\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+50% вероятность поджога\n"
+"\t\t+50% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:735
 msgid ""
@@ -267,6 +337,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:775
 msgid ""
@@ -282,6 +354,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон"
 
 #: src-en/data/blueprints.xml.append:817
 msgid ""
@@ -297,6 +371,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:859
 msgid ""
@@ -312,6 +388,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+30% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:902
 msgid ""
@@ -327,6 +406,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:945
 msgid ""
@@ -342,6 +424,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+30% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:989
 msgid ""
@@ -357,6 +443,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+30% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
@@ -372,6 +462,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_200\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 damage"
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
@@ -387,6 +479,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_020\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:1117
 msgid ""
@@ -402,6 +496,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_210\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 damage\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:1160
 msgid ""
@@ -417,6 +514,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_120\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон\n"
+"\t\t+2 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:1203
 msgid ""
@@ -432,6 +532,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_021\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 проникновение щита\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+30% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:1247
 msgid ""
@@ -447,6 +551,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_201\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 урона\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+30% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
@@ -462,6 +570,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+30% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:1336
 msgid ""
@@ -477,6 +590,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_300\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 урона"
 
 #: src-en/data/blueprints.xml.append:1378
 msgid ""
@@ -492,6 +607,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_030\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:1422
 msgid ""
@@ -507,6 +624,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:1461
 msgid ""
@@ -522,6 +641,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел"
 
 #: src-en/data/blueprints.xml.append:1502
 msgid ""
@@ -537,6 +658,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-2с к перезарядке\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30 вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:1546
 msgid ""
@@ -552,6 +677,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+двойной урон отсекам без систем"
 
 #: src-en/data/blueprints.xml.append:1588
 msgid ""
@@ -567,6 +694,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t-2с к перезарядке\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30 вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:1633
 msgid ""
@@ -582,6 +714,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-2с к перезарядке\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30 вероятность поджога\n"
+"\t\t+двойной урон отсекам без систем"
 
 #: src-en/data/blueprints.xml.append:1679
 msgid ""
@@ -597,6 +734,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t+двойной урон отсекам без систем"
 
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
@@ -612,6 +752,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_200\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела"
 
 #: src-en/data/blueprints.xml.append:1763
 msgid ""
@@ -627,6 +769,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_020\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-4с к перезарядке\n"
+"\t\t+30 урон экипажу\n"
+"\t\t+60 вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:1807
 msgid ""
@@ -642,6 +788,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_210\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела\n"
+"\t\t-2с к перезарядке\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30 вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:1852
 msgid ""
@@ -657,6 +808,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_120\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t-4с к перезарядке\n"
+"\t\t+30 урон экипажу\n"
+"\t\t+60 вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:1897
 msgid ""
@@ -672,6 +828,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_201\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела\n"
+"\t\t+двойной урон отсекам без систем"
 
 #: src-en/data/blueprints.xml.append:1940
 msgid ""
@@ -687,6 +846,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_021\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-4с к перезарядке\n"
+"\t\t+30 урон экипажу\n"
+"\t\t+60 вероятность поджога\n"
+"\t\t+двойной урон отсекам без систем"
 
 #: src-en/data/blueprints.xml.append:1986
 msgid ""
@@ -702,6 +866,12 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t-2с к перезарядке\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30 вероятность поджога\n"
+"\t\t+двойной урон отсекам без систем"
 
 #: src-en/data/blueprints.xml.append:2033
 msgid ""
@@ -717,6 +887,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_300\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 выстрела"
 
 #: src-en/data/blueprints.xml.append:2074
 msgid ""
@@ -732,6 +904,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_030\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-6с к перезарядке\n"
+"\t\t+45 урон экипажу\n"
+"\t\t+90 вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:2120
 msgid ""
@@ -747,6 +923,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:2146
 msgid ""
@@ -762,6 +940,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча"
 
 #: src-en/data/blueprints.xml.append:2174
 msgid ""
@@ -777,6 +957,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+25 скорость луча\n"
+"\t\t+1 урон системам"
 
 #: src-en/data/blueprints.xml.append:2204
 msgid ""
@@ -792,6 +975,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-1 урон корпусу\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+60% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:2235
 msgid ""
@@ -807,6 +994,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча\n"
+"\t\t+25 скорость луча\n"
+"\t\t+1 урон системам"
 
 #: src-en/data/blueprints.xml.append:2266
 msgid ""
@@ -822,6 +1013,12 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+25 скорость луча\n"
+"\t\t+1 урон системам\n"
+"\t\t-1 урон корпусу\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+60% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:2299
 msgid ""
@@ -837,6 +1034,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча\n"
+"\t\t-1 урон корпусу\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+60% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:2331
 msgid ""
@@ -852,6 +1054,13 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча\n"
+"\t\t+25 скорость луча\n"
+"\t\t+1 урон системам\n"
+"\t\t-1 урон корпусу\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+60% вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:2367
 msgid ""
@@ -867,6 +1076,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:2392
 msgid ""
@@ -882,6 +1093,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча"
 
 #: src-en/data/blueprints.xml.append:2419
 msgid ""
@@ -897,6 +1110,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:2446
 msgid ""
@@ -912,6 +1127,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 увеличение урона за выстрел"
 
 #: src-en/data/blueprints.xml.append:2478
 msgid ""
@@ -927,6 +1144,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:2506
 msgid ""
@@ -942,6 +1162,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+1 увеличение урона за выстрел"
 
 #: src-en/data/blueprints.xml.append:2539
 msgid ""
@@ -957,6 +1180,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча\n"
+"\t\t+1 увеличение урона за выстрел"
 
 #: src-en/data/blueprints.xml.append:2572
 msgid ""
@@ -972,6 +1198,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_200\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+60 длина луча"
 
 #: src-en/data/blueprints.xml.append:2599
 msgid ""
@@ -987,6 +1215,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_020\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:2626
 msgid ""
@@ -1002,6 +1232,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_210\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+60 длина луча\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:2654
 msgid ""
@@ -1017,6 +1250,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_120\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча\n"
+"\t\t+2 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:2682
 msgid ""
@@ -1032,6 +1268,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_201\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+60 длина луча\n"
+"\t\t+1 увеличение урона за выстрел"
 
 #: src-en/data/blueprints.xml.append:2715
 msgid ""
@@ -1047,6 +1286,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_021\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 проникновение щита\n"
+"\t\t+1 увеличение урона за выстрел"
 
 #: src-en/data/blueprints.xml.append:2748
 msgid ""
@@ -1062,6 +1304,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 длина луча\n"
+"\t\t+1 проникновение щита\n"
+"\t\t+1 увеличение урона за выстрел"
 
 #: src-en/data/blueprints.xml.append:2782
 msgid ""
@@ -1077,6 +1323,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_300\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+90 длина луча"
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
@@ -1092,6 +1340,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_030\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:2838
 msgid ""
@@ -1107,6 +1357,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:2864
 msgid ""
@@ -1122,6 +1374,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон"
 
 #: src-en/data/blueprints.xml.append:2892
 msgid ""
@@ -1137,6 +1391,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:2920
 msgid ""
@@ -1152,6 +1408,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-2 урона\n"
+"\t\t+4 ионного урона"
 
 #: src-en/data/blueprints.xml.append:2951
 msgid ""
@@ -1167,6 +1426,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:2980
 msgid ""
@@ -1182,6 +1444,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 проникновение щита\n"
+"\t\t-2 урона\n"
+"\t\t+4 ионного урона"
 
 #: src-en/data/blueprints.xml.append:3012
 msgid ""
@@ -1197,6 +1463,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон\n"
+"\t\t-2 урона\n"
+"\t\t+4 ионного урона"
 
 #: src-en/data/blueprints.xml.append:3044
 msgid ""
@@ -1212,6 +1482,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_200\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 урона"
 
 #: src-en/data/blueprints.xml.append:3072
 msgid ""
@@ -1227,6 +1499,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_020\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:3100
 msgid ""
@@ -1242,6 +1516,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_210\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 урона\n"
+"\t\t+1 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:3129
 msgid ""
@@ -1257,6 +1534,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_120\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон\n"
+"\t\t+2 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:3158
 msgid ""
@@ -1272,6 +1552,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_201\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 урона\n"
+"\t\t-2 урона\n"
+"\t\t+4 ионного урона"
 
 #: src-en/data/blueprints.xml.append:3190
 msgid ""
@@ -1287,6 +1571,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_021\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 проникновение щита\n"
+"\t\t-2 урона\n"
+"\t\t+4 ионного урона"
 
 #: src-en/data/blueprints.xml.append:3222
 msgid ""
@@ -1302,6 +1590,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 урон\n"
+"\t\t+1 проникновение щита\n"
+"\t\t-2 урона\n"
+"\t\t+4 ионный урон"
 
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
@@ -1317,6 +1610,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_300\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 урона"
 
 #: src-en/data/blueprints.xml.append:3283
 msgid ""
@@ -1332,6 +1627,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_030\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 проникновение щита"
 
 #: src-en/data/blueprints.xml.append:3313
 msgid ""
@@ -1347,6 +1644,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:3353
 msgid ""
@@ -1362,6 +1661,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-3 урон корпусу\n"
+"\t\t+2 урон системам\n"
+"\t\t+40% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:3398
 msgid ""
@@ -1377,6 +1680,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрелов в очереди\n"
+"\t\t+3с к перезарядке"
 
 #: src-en/data/blueprints.xml.append:3441
 msgid ""
@@ -1392,6 +1698,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-1 урон корпусу\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:3484
 msgid ""
@@ -1407,6 +1716,12 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-3 урон корпусу\n"
+"\t\t+2 урон системам\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+1 выстрелов в очереди\n"
+"\t\t+3с к перезарядке"
 
 #: src-en/data/blueprints.xml.append:3531
 msgid ""
@@ -1422,6 +1737,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрелов в очереди\n"
+"\t\t+3с к перезарядке\n"
+"\t\t-1 урон корпусу\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
@@ -1437,6 +1757,12 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-3 урон корпусу\n"
+"\t\t+2 урон системам\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t-1 урон корпусу\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:3623
 msgid ""
@@ -1452,6 +1778,14 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-3 урон корпусу\n"
+"\t\t+2 урон системам\n"
+"\t\t+40% вероятность поджога\n"
+"\t\t+1 выстрелов в очереди\n"
+"\t\t+3с к перезарядке\n"
+"\t\t-1 урон корпусу\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:3674
 msgid ""
@@ -1467,6 +1801,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:3706
 msgid ""
@@ -1482,6 +1818,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел"
 
 #: src-en/data/blueprints.xml.append:3740
 msgid ""
@@ -1497,6 +1835,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:3775
 msgid ""
@@ -1512,6 +1853,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:3809
 msgid ""
@@ -1527,6 +1870,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:3845
 msgid ""
@@ -1542,6 +1889,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30% вероятность поджога\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:3881
 msgid ""
@@ -1557,6 +1908,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:3916
 msgid ""
@@ -1572,6 +1926,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_200\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела"
 
 #: src-en/data/blueprints.xml.append:3950
 msgid ""
@@ -1587,6 +1943,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_020\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 урон экипажу\n"
+"\t\t+60% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:3985
 msgid ""
@@ -1602,6 +1961,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_210\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:4021
 msgid ""
@@ -1617,6 +1980,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_120\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t+30 урон экипажу\n"
+"\t\t+60% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:4057
 msgid ""
@@ -1632,6 +1999,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_201\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:4092
 msgid ""
@@ -1647,6 +2017,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_021\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+30 урон экипажу\n"
+"\t\t+60% вероятность поджога\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:4128
 msgid ""
@@ -1662,6 +2036,11 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t+15 урон экипажу\n"
+"\t\t+30% вероятность поджога\n"
+"\t\t-1 потребление боеголовок"
 
 #: src-en/data/blueprints.xml.append:4165
 msgid ""
@@ -1677,6 +2056,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_300\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 выстрела"
 
 #: src-en/data/blueprints.xml.append:4199
 msgid ""
@@ -1692,16 +2073,19 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_030\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+45 урон экипажу\n"
+"\t\t+90% вероятность поджога"
 
 #: src-en/data/blueprints.xml.append:4235
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_maw_recon\"]/title"
-msgstr ""
+msgstr "Разведдрон"
 
 #: src-en/data/blueprints.xml.append:4236
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_maw_recon\"]/short"
-msgstr ""
+msgstr "Разведдрон"
 
 #: src-en/data/blueprints.xml.append:4237
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_maw_recon\"]/desc"
@@ -1721,6 +2105,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_000\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада"
+" после того, как он будет достаточно сыт."
 
 #: src-en/data/blueprints.xml.append:4287
 msgid ""
@@ -1736,6 +2122,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_100\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел"
 
 #: src-en/data/blueprints.xml.append:4329
 msgid ""
@@ -1751,6 +2139,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_010\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 возникновение Разведдрона"
 
 #: src-en/data/blueprints.xml.append:4377
 msgid ""
@@ -1766,6 +2156,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_001\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+запирание отсеков"
 
 #: src-en/data/blueprints.xml.append:4420
 msgid ""
@@ -1781,6 +2173,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_110\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t+1 возникновение Разведдрона"
 
 #: src-en/data/blueprints.xml.append:4469
 msgid ""
@@ -1796,6 +2191,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_011\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 возникновение Разведдрона\n"
+"\t\t+запирание отсеков"
 
 #: src-en/data/blueprints.xml.append:4519
 msgid ""
@@ -1811,6 +2209,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_101\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t+запирание отсеков"
 
 #: src-en/data/blueprints.xml.append:4563
 msgid ""
@@ -1826,6 +2227,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_200\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела"
 
 #: src-en/data/blueprints.xml.append:4605
 msgid ""
@@ -1841,6 +2244,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_020\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 возникновения Разведдрона"
 
 #: src-en/data/blueprints.xml.append:4653
 msgid ""
@@ -1856,6 +2261,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_210\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела\n"
+"\t\t+1 возникновение Разведдрона"
 
 #: src-en/data/blueprints.xml.append:4702
 msgid ""
@@ -1871,6 +2279,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_120\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t+2 возникновения Разведдрона"
 
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
@@ -1886,6 +2297,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_201\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 выстрела\n"
+"\t\t+запирание отсеков"
 
 #: src-en/data/blueprints.xml.append:4795
 msgid ""
@@ -1901,6 +2315,9 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_021\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+2 возникновения Разведдрона\n"
+"\t\t+запирание отсеков"
 
 #: src-en/data/blueprints.xml.append:4845
 msgid ""
@@ -1916,6 +2333,10 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_111\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+1 выстрел\n"
+"\t\t+1 возникновение Разведдрона\n"
+"\t\t+запирание отсеков"
 
 #: src-en/data/blueprints.xml.append:4896
 msgid ""
@@ -1931,6 +2352,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_300\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 выстрела"
 
 #: src-en/data/blueprints.xml.append:4938
 msgid ""
@@ -1946,6 +2369,8 @@ msgstr "Мав"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_030\"]/desc"
 msgstr ""
+"Мав питается живыми организмами, его можно улучшить и изменить в меню склада после того, как он будет достаточно сыт.\n"
+"\t\t+3 возникновения Разведдрона"
 
 #: src-en/data/blueprints.xml.append:4989
 msgid ""
@@ -2001,47 +2426,53 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5215
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY\"]/class"
-msgstr ""
+msgstr "Дноуглубительное судно"
 
 #: src-en/data/blueprints.xml.append:5216
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY\"]/name"
-msgstr ""
+msgstr "Пекод"
 
 #: src-en/data/blueprints.xml.append:5217
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY\"]/desc"
 msgstr ""
+"Небольшое судно со встроенным гарпуном, который делает его чрезвычайно "
+"эффективным для рыбалки."
 
 #: src-en/data/blueprints.xml.append:5289
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_2\"]/class"
-msgstr ""
+msgstr "Дноуглубительное судно"
 
 #: src-en/data/blueprints.xml.append:5290
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_2\"]/name"
-msgstr ""
+msgstr "Крайт"
 
 #: src-en/data/blueprints.xml.append:5291
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_2\"]/desc"
 msgstr ""
+"Пара Ясновидящих решила оставить боевые действия другим участникам, а вместо"
+" этого сосредоточить свои усилия на космической рыбалке."
 
 #: src-en/data/blueprints.xml.append:5363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_3\"]/class"
-msgstr ""
+msgstr "Дноуглубительное судно"
 
 #: src-en/data/blueprints.xml.append:5364
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_3\"]/name"
-msgstr ""
+msgstr "Мав"
 
 #: src-en/data/blueprints.xml.append:5365
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_3\"]/desc"
 msgstr ""
+"Находясь где-то между живым животным и неодушевленным кораблем, Мав должен "
+"поглотить все."
 
 #: src-en/data/blueprints.xml.append:5439
 msgid ""
@@ -2051,7 +2482,7 @@ msgstr "Ржавый гарпун мод. I"
 #: src-en/data/blueprints.xml.append:5440
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_0\"]/short"
-msgstr "Р. гарпун мод. I"
+msgstr "Р. гарпун I"
 
 #: src-en/data/blueprints.xml.append:5441
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_0\"]/desc"
@@ -2067,7 +2498,7 @@ msgstr "Гарпун мод. I"
 #: src-en/data/blueprints.xml.append:5472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_1\"]/short"
-msgstr "Гарпун мод. I"
+msgstr "Гарпун I"
 
 #: src-en/data/blueprints.xml.append:5473
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_1\"]/desc"
@@ -2083,7 +2514,7 @@ msgstr "Гарпун мод. II"
 #: src-en/data/blueprints.xml.append:5504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2\"]/short"
-msgstr "Гарпун мод. II"
+msgstr "Гарпун II"
 
 #: src-en/data/blueprints.xml.append:5505
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2\"]/desc"
@@ -2099,7 +2530,7 @@ msgstr "Гарпун мод. II"
 #: src-en/data/blueprints.xml.append:5536
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2_P\"]/short"
-msgstr "Гарпун мод. II"
+msgstr "Гарпун II"
 
 #: src-en/data/blueprints.xml.append:5537
 msgid ""
@@ -2116,7 +2547,7 @@ msgstr "Гарпун мод. III"
 #: src-en/data/blueprints.xml.append:5568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3\"]/short"
-msgstr "Гарпун мод. III"
+msgstr "Гарпун III"
 
 #: src-en/data/blueprints.xml.append:5569
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3\"]/desc"
@@ -2132,7 +2563,7 @@ msgstr "Гарпун мод. III"
 #: src-en/data/blueprints.xml.append:5600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3_P\"]/short"
-msgstr "Гарпун мод. III"
+msgstr "Гарпун III"
 
 #: src-en/data/blueprints.xml.append:5601
 msgid ""
@@ -2149,7 +2580,7 @@ msgstr "Гарпун мод. III"
 #: src-en/data/blueprints.xml.append:5632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3_PP\"]/short"
-msgstr "Гарпун мод. III"
+msgstr "Гарпун III"
 
 #: src-en/data/blueprints.xml.append:5633
 msgid ""
@@ -2166,17 +2597,23 @@ msgstr "Гарпун мод. I"
 #: src-en/data/blueprints.xml.append:5664
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_1\"]/short"
-msgstr "Гарпун мод. I"
+msgstr "Гарпун I"
 
 #: src-en/data/blueprints.xml.append:5665
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_1\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 20] Этот гарпун может стрелять несколько раз за бой, "
+"при этом время перезарядки удваивается после каждого выстрела. 1-й выстрел ="
+" мод. III, 2-й выстрел = мод. II, 3-й+ выстрел = мод. I."
 
 #: src-en/data/blueprints.xml.append:5666
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_1\"]/tooltip"
 msgstr ""
+"Артиллерия: Мощный рыболовный гарпун, способный ловить рыбу несколько раз за"
+" бой. При каждом выстреле он заряжается на 50% медленнее, чем в предыдущем "
+"выстреле."
 
 #: src-en/data/blueprints.xml.append:5698
 msgid ""
@@ -2186,17 +2623,23 @@ msgstr "Гарпун мод. I"
 #: src-en/data/blueprints.xml.append:5699
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_2\"]/short"
-msgstr "Гарпун мод. I"
+msgstr "Гарпун I"
 
 #: src-en/data/blueprints.xml.append:5700
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_2\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 30] Этот гарпун стреляет двумя гарпунами одновременно,"
+" время перезарядки удваивается после каждого выстрела. 1-й выстрел = мод. "
+"III, 2-й выстрел = мод. II, 3-й+ выстрел = мод. I."
 
 #: src-en/data/blueprints.xml.append:5701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_2\"]/tooltip"
 msgstr ""
+"Артиллерия: Мощный рыболовный гарпун, способный ловить рыбу несколько раз за"
+" бой. При каждом выстреле он заряжается на 50% медленнее, чем в предыдущем "
+"выстреле."
 
 #: src-en/data/blueprints.xml.append:5733
 msgid ""
@@ -2211,11 +2654,13 @@ msgstr "Мав"
 #: src-en/data/blueprints.xml.append:5735
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 15] Мав должен питаться.\n"
+"Время перезарядки не опускается ниже 1х, вместо этого энергия зависит от количества выстрелов."
 
 #: src-en/data/blueprints.xml.append:5737
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW\"]/tooltip"
-msgstr ""
+msgstr "Артиллерия: Мав."
 
 #: src-en/data/blueprints.xml.append:5770
 msgid ""
@@ -2230,12 +2675,12 @@ msgstr "Мав"
 #: src-en/data/blueprints.xml.append:5772
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW_ENEMY\"]/desc"
-msgstr ""
+msgstr "[Базовая перезарядка: 12] Мав должен питаться."
 
 #: src-en/data/blueprints.xml.append:5773
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Артиллерия: Мав."
 
 #: src-en/data/blueprints.xml.append:5807
 msgid ""
@@ -2245,7 +2690,7 @@ msgstr "Старая жестяная банка"
 #: src-en/data/blueprints.xml.append:5808
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_TINCAN\"]/short"
-msgstr "Старая жестяная банка"
+msgstr "Банка"
 
 #: src-en/data/blueprints.xml.append:5809
 msgid ""
@@ -2260,7 +2705,7 @@ msgstr "Старый ботинок"
 #: src-en/data/blueprints.xml.append:5829
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_BOOT\"]/short"
-msgstr "Старый ботинок"
+msgstr "Ботинок"
 
 #: src-en/data/blueprints.xml.append:5830
 msgid ""
@@ -2310,6 +2755,8 @@ msgstr "Рыба-шок"
 #: src-en/data/blueprints.xml.append:5913
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_ION\"]/desc"
 msgstr ""
+"Похож на ионное оружие, но поражает экипаж и заставляет их бежать в "
+"случайный отсек."
 
 #: src-en/data/blueprints.xml.append:5956
 msgid ""
@@ -2511,582 +2958,681 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6285
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_11\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннер"
 
 #: src-en/data/blueprints.xml.append:6286
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_11\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни одного лома."
 
 #: src-en/data/blueprints.xml.append:6293
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_12\"]/title"
-msgstr ""
+msgstr "Наживка: Виброхвост"
 
 #: src-en/data/blueprints.xml.append:6294
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_12\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6301
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_13\"]/title"
-msgstr ""
+msgstr "Наживка: Зоб"
 
 #: src-en/data/blueprints.xml.append:6302
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_13\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни рыб-пушек, ни уникальных."
 
 #: src-en/data/blueprints.xml.append:6309
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_14\"]/title"
-msgstr ""
+msgstr "Наживка: Личинка"
 
 #: src-en/data/blueprints.xml.append:6310
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_14\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите членов экипажа."
 
 #: src-en/data/blueprints.xml.append:6317
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_15\"]/title"
-msgstr ""
+msgstr "Наживка: Крючок Джин"
 
 #: src-en/data/blueprints.xml.append:6318
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_15\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите снаряжение."
 
 #: src-en/data/blueprints.xml.append:6325
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_11\"]/title"
-msgstr ""
+msgstr "Наживка без лома"
 
 #: src-en/data/blueprints.xml.append:6326
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_11\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни одного лома."
 
 #: src-en/data/blueprints.xml.append:6333
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_12\"]/title"
-msgstr ""
+msgstr "Наживка без рыбы"
 
 #: src-en/data/blueprints.xml.append:6334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_12\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6341
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_13\"]/title"
-msgstr ""
+msgstr "Наживка без странной рыбы"
 
 #: src-en/data/blueprints.xml.append:6342
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_13\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни рыб-пушек, ни уникальных."
 
 #: src-en/data/blueprints.xml.append:6349
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_14\"]/title"
-msgstr ""
+msgstr "Наживка без экипажа"
 
 #: src-en/data/blueprints.xml.append:6350
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_14\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите членов экипажа."
 
 #: src-en/data/blueprints.xml.append:6357
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_15\"]/title"
-msgstr ""
+msgstr "Наживка без рыбы"
 
 #: src-en/data/blueprints.xml.append:6358
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_15\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите снаряжение."
 
 #: src-en/data/blueprints.xml.append:6365
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_21\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннинг, виброхвост"
 
 #: src-en/data/blueprints.xml.append:6366
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_21\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите лом, зато у вас будет гораздо меньше шансов "
+"выловить обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6373
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_22\"]/title"
-msgstr ""
+msgstr "Наживка: Зоб, хвост"
 
 #: src-en/data/blueprints.xml.append:6374
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_22\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычных рыб, "
+"рыб-пушек и уникальных рыб."
 
 #: src-en/data/blueprints.xml.append:6381
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_23\"]/title"
-msgstr ""
+msgstr "Наживка: Зоб, личинка"
 
 #: src-en/data/blueprints.xml.append:6382
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_23\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите рыб-пушек, уникальных рыб и членов экипажа "
+"рыб."
 
 #: src-en/data/blueprints.xml.append:6389
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_24\"]/title"
-msgstr ""
+msgstr "Наживка: Личинка, крючок"
 
 #: src-en/data/blueprints.xml.append:6390
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_24\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни членов экипажа, ни снаряжения."
 
 #: src-en/data/blueprints.xml.append:6397
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_25\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннинг, крючок Джин"
 
 #: src-en/data/blueprints.xml.append:6398
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_25\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни снаряжения, ни лома."
 
 #: src-en/data/blueprints.xml.append:6405
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_21\"]/title"
-msgstr ""
+msgstr "Наживка без лома/рыбы"
 
 #: src-en/data/blueprints.xml.append:6406
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_21\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите лом, зато у вас будет гораздо меньше шансов "
+"выловить обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6413
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_22\"]/title"
-msgstr ""
+msgstr "Наживка без рыбы"
 
 #: src-en/data/blueprints.xml.append:6414
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_22\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычных рыб, "
+"рыб-пушек и уникальных рыб."
 
 #: src-en/data/blueprints.xml.append:6421
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_23\"]/title"
-msgstr ""
+msgstr "Наживка без странной рыбы"
 
 #: src-en/data/blueprints.xml.append:6422
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_23\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите рыб-пушек, уникальных рыб и членов экипажа "
+"рыб."
 
 #: src-en/data/blueprints.xml.append:6429
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_24\"]/title"
-msgstr ""
+msgstr "Наживка без экипажа"
 
 #: src-en/data/blueprints.xml.append:6430
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_24\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни членов экипажа, ни снаряжения."
 
 #: src-en/data/blueprints.xml.append:6437
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_25\"]/title"
-msgstr ""
+msgstr "Наживка без рыбы"
 
 #: src-en/data/blueprints.xml.append:6438
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_25\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни снаряжения, ни лома."
 
 #: src-en/data/blueprints.xml.append:6445
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_31\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннинг, хвост, зоб"
 
 #: src-en/data/blueprints.xml.append:6446
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_31\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите лом, гораздо реже вы выловите обычных рыб, "
+"вы не выловите рыб-пушек и уникальных рыб."
 
 #: src-en/data/blueprints.xml.append:6453
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_32\"]/title"
-msgstr ""
+msgstr "Наживка: Зоб, личинка, хвост"
 
 #: src-en/data/blueprints.xml.append:6454
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_32\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычных рыб, вы "
+"не выловите рыб-пушек, уникальных рыб и членов экипажа."
 
 #: src-en/data/blueprints.xml.append:6461
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_33\"]/title"
-msgstr ""
+msgstr "Наживка: Крючок, зоб, личинка"
 
 #: src-en/data/blueprints.xml.append:6462
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_33\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите рыб-пушек, уникальных рыб, членов экипажа "
+"рыб и снаряжение."
 
 #: src-en/data/blueprints.xml.append:6469
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_34\"]/title"
-msgstr ""
+msgstr "Наживка: Крючок Джин, личинка"
 
 #: src-en/data/blueprints.xml.append:6470
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_34\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите членов экипажа рыб, снаряжения и лом."
 
 #: src-en/data/blueprints.xml.append:6477
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_35\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннинг, виброхвост, крючок"
 
 #: src-en/data/blueprints.xml.append:6478
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_35\"]/desc"
 msgstr ""
+"Во время рыбалки вы не будете вылавливать снаряжение и лом, вы с гораздо "
+"меньшей вероятностью выловите обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6485
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_31\"]/title"
-msgstr ""
+msgstr "Наживка без лома/рыбы"
 
 #: src-en/data/blueprints.xml.append:6486
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_31\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите лом, гораздо реже вы выловите обычных рыб, "
+"вы не выловите рыб-пушек и уникальных рыб."
 
 #: src-en/data/blueprints.xml.append:6493
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_32\"]/title"
-msgstr ""
+msgstr "Наживка без рыбы"
 
 #: src-en/data/blueprints.xml.append:6494
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_32\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычных рыб, вы "
+"не выловите рыб-пушек, уникальных рыб и членов экипажа."
 
 #: src-en/data/blueprints.xml.append:6501
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_33\"]/title"
-msgstr ""
+msgstr "Наживка без странной рыбы"
 
 #: src-en/data/blueprints.xml.append:6502
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_33\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите рыб-пушек, уникальных рыб, членов экипажа "
+"рыб и снаряжение."
 
 #: src-en/data/blueprints.xml.append:6509
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_34\"]/title"
-msgstr ""
+msgstr "Наживка без экипажа"
 
 #: src-en/data/blueprints.xml.append:6510
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_34\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите членов экипажа рыб, снаряжения и лом."
 
 #: src-en/data/blueprints.xml.append:6517
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_35\"]/title"
-msgstr ""
+msgstr "Наживка без рыбы"
 
 #: src-en/data/blueprints.xml.append:6518
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_35\"]/desc"
 msgstr ""
+"Во время рыбалки вы не будете вылавливать снаряжение и лом, вы с гораздо "
+"меньшей вероятностью выловите обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6525
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_DOUBLE\"]/title"
-msgstr ""
+msgstr "Наживка: Двойной крючок"
 
 #: src-en/data/blueprints.xml.append:6526
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_DOUBLE\"]/desc"
 msgstr ""
+"Во время рыбалки вы выловите вторую рыбу, которая находится на уровень ниже "
+"первой. Не влияет на уже удвоенные гарпуны."
 
 #: src-en/data/blueprints.xml.append:6533
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_DOUBLE\"]/title"
-msgstr ""
+msgstr "Двойной крючок"
 
 #: src-en/data/blueprints.xml.append:6534
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_DOUBLE\"]/desc"
 msgstr ""
+"Во время рыбалки вы выловите вторую рыбу, которая находится на уровень ниже "
+"первой. Не влияет на уже удвоенные гарпуны."
 
 #: src-en/data/blueprints.xml.append:6544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_DOUBLE\"]/title"
-msgstr ""
+msgstr "Наживка: Двойной крючок"
 
 #: src-en/data/blueprints.xml.append:6545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_DOUBLE\"]/short"
-msgstr ""
+msgstr "Двойной крючок"
 
 #: src-en/data/blueprints.xml.append:6546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_DOUBLE\"]/desc"
 msgstr ""
+"Во время рыбалки вы выловите вторую рыбу, которая находится на уровень ниже "
+"первой. Не влияет на уже удвоенные гарпуны."
 
 #: src-en/data/blueprints.xml.append:6547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_DOUBLE\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы выловите вторую рыбу, которая находится на уровень ниже первой. Не влияет на уже удвоенные гарпуны.\n"
+"\n"
+"Покупка: 200~ - Продажа: 100~"
 
 #: src-en/data/blueprints.xml.append:6568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_11\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннер"
 
 #: src-en/data/blueprints.xml.append:6569
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_11\"]/short"
-msgstr ""
+msgstr "Спиннер"
 
 #: src-en/data/blueprints.xml.append:6570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_11\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни одного лома."
 
 #: src-en/data/blueprints.xml.append:6571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_11\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите ни одного лома.\n"
+"\n"
+"Покупка: 40~ - Продажа: 20~"
 
 #: src-en/data/blueprints.xml.append:6591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_12\"]/title"
-msgstr ""
+msgstr "Наживка: Виброхвост"
 
 #: src-en/data/blueprints.xml.append:6592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_12\"]/short"
-msgstr ""
+msgstr "Виброхвост"
 
 #: src-en/data/blueprints.xml.append:6593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_12\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_12\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычную рыбу.\n"
+"\n"
+"Покупка: 40~ - Продажа: 20~"
 
 #: src-en/data/blueprints.xml.append:6614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_13\"]/title"
-msgstr ""
+msgstr "Наживка: Зоб"
 
 #: src-en/data/blueprints.xml.append:6615
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_13\"]/short"
-msgstr ""
+msgstr "Зоб"
 
 #: src-en/data/blueprints.xml.append:6616
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_13\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни рыб-пушек, ни уникальных."
 
 #: src-en/data/blueprints.xml.append:6617
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_13\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите ни рыб-пушек, ни уникальных.\n"
+"\n"
+"Покупка: 40~ - Продажа: 20~"
 
 #: src-en/data/blueprints.xml.append:6637
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_14\"]/title"
-msgstr ""
+msgstr "Наживка: Личинка"
 
 #: src-en/data/blueprints.xml.append:6638
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_14\"]/short"
-msgstr ""
+msgstr "Личинка"
 
 #: src-en/data/blueprints.xml.append:6639
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_14\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите членов экипажа."
 
 #: src-en/data/blueprints.xml.append:6640
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_14\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите членов экипажа.\n"
+"\n"
+"Покупка: 40~ - Продажа: 20~"
 
 #: src-en/data/blueprints.xml.append:6660
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_15\"]/title"
-msgstr ""
+msgstr "Наживка: Крючок Джин"
 
 #: src-en/data/blueprints.xml.append:6661
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_15\"]/short"
-msgstr ""
+msgstr "Крючок Джин"
 
 #: src-en/data/blueprints.xml.append:6662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_15\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите снаряжение."
 
 #: src-en/data/blueprints.xml.append:6663
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_15\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите снаряжение.\n"
+"\n"
+"Покупка: 40~ - Продажа: 20~"
 
 #: src-en/data/blueprints.xml.append:6684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_21\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннинг, виброхвост"
 
 #: src-en/data/blueprints.xml.append:6685
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_21\"]/short"
-msgstr ""
+msgstr "Спиннинг, виброхвост"
 
 #: src-en/data/blueprints.xml.append:6686
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_21\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите лом, зато у вас будет гораздо меньше шансов "
+"выловить обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_21\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите лом, зато у вас будет гораздо меньше шансов выловить обычную рыбу.\n"
+"\n"
+"Покупка: 60~ - Продажа: 30~"
 
 #: src-en/data/blueprints.xml.append:6707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_22\"]/title"
-msgstr ""
+msgstr "Наживка: Хвост, зоб"
 
 #: src-en/data/blueprints.xml.append:6708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_22\"]/short"
-msgstr ""
+msgstr "Хвост, зоб"
 
 #: src-en/data/blueprints.xml.append:6709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_22\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычных рыб, "
+"рыб-пушек и уникальных рыб."
 
 #: src-en/data/blueprints.xml.append:6710
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_22\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычных рыб, рыб-пушек и уникальных рыб.\n"
+"\n"
+"Покупка: 60~ - Продажа: 30~"
 
 #: src-en/data/blueprints.xml.append:6730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_23\"]/title"
-msgstr ""
+msgstr "Наживка: Зоб, личинка"
 
 #: src-en/data/blueprints.xml.append:6731
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_23\"]/short"
-msgstr ""
+msgstr "Зоб, личинка"
 
 #: src-en/data/blueprints.xml.append:6732
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_23\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите рыб-пушек, уникальных рыб и членов экипажа "
+"рыб."
 
 #: src-en/data/blueprints.xml.append:6733
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_23\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите рыб-пушек, уникальных рыб и членов экипажа рыб.\n"
+"\n"
+"Покупка: 60~ - Продажа: 30~"
 
 #: src-en/data/blueprints.xml.append:6753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_24\"]/title"
-msgstr ""
+msgstr "Наживка: Крючок, личинка"
 
 #: src-en/data/blueprints.xml.append:6754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_24\"]/short"
-msgstr ""
+msgstr "Крючок, личинка"
 
 #: src-en/data/blueprints.xml.append:6755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_24\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни членов экипажа, ни снаряжения."
 
 #: src-en/data/blueprints.xml.append:6756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_24\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите ни членов экипажа, ни снаряжения.\n"
+"\n"
+"Покупка: 60~ - Продажа: 30~"
 
 #: src-en/data/blueprints.xml.append:6776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_25\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннинг, крючок Джин"
 
 #: src-en/data/blueprints.xml.append:6777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_25\"]/short"
-msgstr ""
+msgstr "Спиннинг, крючок Джин"
 
 #: src-en/data/blueprints.xml.append:6778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_25\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите ни снаряжения, ни лома."
 
 #: src-en/data/blueprints.xml.append:6779
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_25\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите ни снаряжения, ни лома.\n"
+"\n"
+"Покупка: 60~ - Продажа: 30~"
 
 #: src-en/data/blueprints.xml.append:6800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_31\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннинг, хвост, зоб"
 
 #: src-en/data/blueprints.xml.append:6801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_31\"]/short"
-msgstr ""
+msgstr "Спиннинг, хвост, зоб"
 
 #: src-en/data/blueprints.xml.append:6802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_31\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите лом, гораздо реже вы выловите обычных рыб, "
+"вы не выловите рыб-пушек и уникальных рыб."
 
 #: src-en/data/blueprints.xml.append:6803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_31\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите лом, гораздо реже вы выловите обычных рыб, вы не выловите рыб-пушек и уникальных рыб.\n"
+"\n"
+"Покупка: 80~ - Продажа: 40~"
 
 #: src-en/data/blueprints.xml.append:6823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_32\"]/title"
-msgstr ""
+msgstr "Наживка: Зоб, личинка, хвост"
 
 #: src-en/data/blueprints.xml.append:6824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_32\"]/short"
-msgstr ""
+msgstr "Зоб, личинка, хвост"
 
 #: src-en/data/blueprints.xml.append:6825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_32\"]/desc"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычных рыб, вы "
+"не выловите рыб-пушек, уникальных рыб и членов экипажа."
 
 #: src-en/data/blueprints.xml.append:6826
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_32\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы с гораздо меньшей вероятностью выловите обычных рыб, вы не выловите рыб-пушек, уникальных рыб и членов экипажа.\n"
+"\n"
+"Покупка: 80~ - Продажа: 40~"
 
 #: src-en/data/blueprints.xml.append:6846
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_33\"]/title"
-msgstr ""
+msgstr "Наживка: Крючок, зоб, личинка"
 
 #: src-en/data/blueprints.xml.append:6847
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_33\"]/short"
-msgstr ""
+msgstr "Крючок, зоб, личинка"
 
 #: src-en/data/blueprints.xml.append:6848
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_33\"]/desc"
 msgstr ""
+"Во время рыбалки вы не выловите рыб-пушек, уникальных рыб, членов экипажа "
+"рыб и снаряжение."
 
 #: src-en/data/blueprints.xml.append:6849
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_33\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите рыб-пушек, уникальных рыб, членов экипажа рыб и снаряжение.\n"
+"\n"
+"Покупка: 80~ - Продажа: 40~"
 
 #: src-en/data/blueprints.xml.append:6869
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_34\"]/title"
-msgstr ""
+msgstr "Наживка: Крючок Джин, личинка"
 
 #: src-en/data/blueprints.xml.append:6870
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_34\"]/short"
-msgstr ""
+msgstr "Крючок Джин, личинка"
 
 #: src-en/data/blueprints.xml.append:6871
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_34\"]/desc"
-msgstr ""
+msgstr "Во время рыбалки вы не выловите членов экипажа рыб, снаряжения и лом."
 
 #: src-en/data/blueprints.xml.append:6872
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_34\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не выловите членов экипажа рыб, снаряжения и лом.\n"
+"\n"
+"Покупка: 80~ - Продажа: 40~"
 
 #: src-en/data/blueprints.xml.append:6892
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_35\"]/title"
-msgstr ""
+msgstr "Наживка: Спиннинг, хвост, крючок"
 
 #: src-en/data/blueprints.xml.append:6893
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_35\"]/short"
-msgstr ""
+msgstr "Спиннинг, хвост, крючок"
 
 #: src-en/data/blueprints.xml.append:6894
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_35\"]/desc"
 msgstr ""
+"Во время рыбалки вы не будете вылавливать снаряжение и лом, вы с гораздо "
+"меньшей вероятностью выловите обычную рыбу."
 
 #: src-en/data/blueprints.xml.append:6895
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_35\"]/descriptionOverride"
 msgstr ""
+"Во время рыбалки вы не будете вылавливать снаряжение и лом, вы с гораздо меньшей вероятностью выловите обычную рыбу.\n"
+"\n"
+"Покупка: 80~ - Продажа: 40~"
 
 #: src-en/data/blueprints.xml.append:6915
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_1\"]/title"
@@ -3188,7 +3734,7 @@ msgstr "Красный императорский луциан"
 
 #: src-en/data/blueprints.xml.append:7020
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_2\"]/short"
-msgstr "Красный императорский луциан"
+msgstr "Крас. импер. луциан"
 
 #: src-en/data/blueprints.xml.append:7021
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_2\"]/desc"
@@ -3212,11 +3758,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7061
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4\"]/title"
-msgstr ""
+msgstr "Пятнистая макрель"
 
 #: src-en/data/blueprints.xml.append:7062
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4\"]/short"
-msgstr ""
+msgstr "Пятнистая макрель"
 
 #: src-en/data/blueprints.xml.append:7063
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4\"]/desc"
@@ -3833,7 +4379,7 @@ msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_32\"]/desc
 msgstr ""
 "Легендарная космическая рыба, при употреблении делает весь экипаж и дронов "
 "на вашем корабле неспособными к бою, но при этом наносят вражескому экипажу "
-"и дронам 2 урона в секунду"
+"и дронам 5 урона в секунду"
 
 #: src-en/data/blueprints.xml.append:7900
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_33\"]/title"
@@ -3846,6 +4392,9 @@ msgstr "Рыба херувим"
 #: src-en/data/blueprints.xml.append:7902
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_33\"]/desc"
 msgstr ""
+"Легендарная космическая рыба, после употребления которой экипаж становится "
+"неспособным к ремонту, однако все системы теперь автоматически ремонтируются"
+" со скоростью, равной скорости ремонта двух членов экипажа."
 
 #: src-en/data/blueprints.xml.append:7921
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_34\"]/title"
@@ -4220,6 +4769,8 @@ msgstr "Древняя рыба"
 #: src-en/data/blueprints.xml.append:8402
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4D\"]/desc"
 msgstr ""
+"Уникальная космическая рыба, при употреблении которой можно улучшить оружие "
+"обелисков до Дворянской версии."
 
 #: src-en/data/blueprints.xml.append:8421
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4E\"]/title"
@@ -4227,7 +4778,7 @@ msgstr "Сильвоперая рыба"
 
 #: src-en/data/blueprints.xml.append:8422
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4E\"]/short"
-msgstr "Сильвоперая рыба"
+msgstr "Сильвоп. рыба"
 
 #: src-en/data/blueprints.xml.append:8423
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4E\"]/desc"
