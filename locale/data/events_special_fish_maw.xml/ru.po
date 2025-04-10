@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-10 16:58+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"fishier-than-light/dataevents_special_fish_mawxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_fish_maw.xml:5
 msgid ""
@@ -97,432 +105,432 @@ msgstr "Неважно."
 #: src-en/data/events_special_fish_maw.xml:107
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:111
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:115
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:119
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:123
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:127
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:131
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:135
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_111\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:140
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:144
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:148
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:152
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:156
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:160
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:164
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:168
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_111\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:173
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:177
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:181
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:185
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:189
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:193
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:197
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:201
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_111\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:206
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:210
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:214
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:218
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:222
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:226
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:230
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:234
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_111\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:239
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:243
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:247
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:251
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:255
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:259
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:263
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:267
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_200\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:271
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_020\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:276
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:280
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:284
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:288
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:292
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:296
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:300
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:304
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_200\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:308
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_020\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:313
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:317
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:321
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:325
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:329
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:333
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:337
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:341
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_200\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:345
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_020\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:350
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:354
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:358
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:362
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:366
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:370
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:374
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:378
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_200\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:382
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_020\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:387
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:391
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:395
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:399
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:403
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:407
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:411
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:415
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_200\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:419
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_020\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:424
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_000\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:428
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_100\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:432
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_010\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:436
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_001\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:440
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_110\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:444
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_011\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:448
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_101\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:452
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_200\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:456
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_020\"]/text"
-msgstr ""
+msgstr "Улучшить Мав."
 
 #: src-en/data/events_special_fish_maw.xml:461
 msgid ""
