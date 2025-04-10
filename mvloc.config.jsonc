@@ -59,6 +59,10 @@
         "//achievement/header",
         "//achievement/secretName",
         "//achievement/secretDescription",
+		
+		// metadata
+		"//metadata/title",
+		"//metadata/description",
     ],
 
     "useDummyRoot": true,

@@ -1,0 +1,579 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_fish_maw_up_1.xml:5
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//textList[@name=\"MAW_UPGRADE_TEXT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:6
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//textList[@name=\"MAW_UPGRADE_TEXT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:10
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:15
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[1]/text"
+msgstr "No importa."
+
+#: src-en/data/events_special_fish_maw_up_1.xml:19
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:21
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:27
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:29
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:35
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:37
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:43
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:52
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:54
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:60
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:69
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:71
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[8]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:77
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:86
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[10]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:88
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_000_UPGRADE\"]/choice[10]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:96
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:101
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[1]/text"
+msgstr "No importa."
+
+#: src-en/data/events_special_fish_maw_up_1.xml:105
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:107
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:113
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:115
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:121
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:123
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:129
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:138
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:140
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:146
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:155
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:157
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_100_UPGRADE\"]/choice[8]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:165
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:170
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[1]/text"
+msgstr "No importa."
+
+#: src-en/data/events_special_fish_maw_up_1.xml:174
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:176
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:182
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:184
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:190
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:192
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:199
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:208
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:210
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:216
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:225
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:227
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_010_UPGRADE\"]/choice[8]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:235
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:240
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[1]/text"
+msgstr "No importa."
+
+#: src-en/data/events_special_fish_maw_up_1.xml:244
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:246
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:252
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:254
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:260
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:262
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:268
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:277
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:279
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:285
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:294
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:296
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_001_UPGRADE\"]/choice[8]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:305
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:310
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[1]/text"
+msgstr "No importa."
+
+#: src-en/data/events_special_fish_maw_up_1.xml:314
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:323
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:325
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:332
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:341
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:343
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:350
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:359
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:361
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[7]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:369
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[@req=\"fish_maw_upgrade\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:378
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:380
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_110_UPGRADE\"]/choice[9]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:388
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:393
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[1]/text"
+msgstr "No importa."
+
+#: src-en/data/events_special_fish_maw_up_1.xml:397
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:406
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:408
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:415
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:424
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:426
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:433
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:442
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:444
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[7]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:452
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[@req=\"fish_maw_upgrade\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:461
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:463
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_011_UPGRADE\"]/choice[9]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:471
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:476
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[1]/text"
+msgstr "No importa."
+
+#: src-en/data/events_special_fish_maw_up_1.xml:480
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:489
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:491
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:498
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:507
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:509
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:516
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:525
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:527
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[7]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:535
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[@req=\"fish_maw_upgrade\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:544
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:546
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_101_UPGRADE\"]/choice[9]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:554
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:559
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[1]/text"
+msgstr "No importa."
+
+#: src-en/data/events_special_fish_maw_up_1.xml:563
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:572
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:574
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:581
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:590
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:592
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:599
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:608
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_1.xml:610
+msgid ""
+"data/events_special_fish_maw_up_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_1_111_UPGRADE\"]/choice[7]/event/text"
+msgstr ""

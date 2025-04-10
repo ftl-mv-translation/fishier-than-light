@@ -1,0 +1,5906 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_fishing.xml:4
+msgid "data/events_special_fishing.xml$//event[@name=\"ADDON_FISH\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:26
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_special_fishing.xml:28
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:38
+msgid ""
+"data/events_special_fishing.xml$//eventButton[@name=\"UI_FISH_BOARD\"]/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:39
+msgid ""
+"data/events_special_fishing.xml$//eventButton[@name=\"UI_FISH_BOARD\"]/inactiveTooltip"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:44
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE\"]/choice/event/choice[1]/text"
+msgstr "Hacer algo abordo de la nave."
+
+#: src-en/data/events_special_fishing.xml:48
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE\"]/choice/event/choice[2]/text"
+msgstr "No hacer nada."
+
+#: src-en/data/events_special_fishing.xml:58
+msgid ""
+"data/events_special_fishing.xml$//textList[@name=\"FISH_ARRIVE_TEXT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:59
+msgid ""
+"data/events_special_fishing.xml$//textList[@name=\"FISH_ARRIVE_TEXT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:60
+msgid ""
+"data/events_special_fishing.xml$//textList[@name=\"FISH_ARRIVE_TEXT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:64
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:67
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:71
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/choice[@req=\"fishing_store_opened\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:78
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:82
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:88
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:90
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:96
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:102
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:108
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:114
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:120
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:126
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:132
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:141
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:147
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:153
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:159
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:165
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:171
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:177
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:183
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:189
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:195
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:203
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:209
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:215
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:221
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:227
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:233
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:239
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:245
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:251
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:257
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:265
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:271
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:277
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:283
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:289
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:295
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:301
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:307
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:313
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:319
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:327
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:333
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:339
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:345
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:351
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:357
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:363
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:369
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:375
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:381
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:389
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:395
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:401
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:407
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:413
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:419
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:425
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:431
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:437
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:443
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:457
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:463
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:469
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:475
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:481
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:487
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:493
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:499
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:505
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:511
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:519
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:525
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:531
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:537
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:543
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:549
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:555
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:561
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:567
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:573
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:581
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:587
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:593
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:599
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:605
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:611
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:617
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:623
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:629
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:635
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:643
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:649
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:655
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:661
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:667
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:673
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:679
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:685
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:691
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:697
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:705
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:711
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:717
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:723
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:729
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:735
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:741
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:747
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:753
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:759
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:773
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:779
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:785
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:791
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:797
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:803
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:809
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:815
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:821
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:827
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:835
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:841
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:847
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:853
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:859
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:865
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:871
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:877
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:883
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:889
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:897
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:903
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:909
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:915
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:921
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:927
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:933
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:939
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:945
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:951
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:959
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:965
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:971
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:977
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:983
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:989
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:995
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1001
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1007
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1013
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1021
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1027
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1033
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1039
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1045
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1051
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1057
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1063
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1069
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1075
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
+" and @lvl=\"10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1087
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1089
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1091
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1097
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1106
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1110
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1118
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1120
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1122
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1128
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1137
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1141
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1149
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1151
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1153
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1159
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1168
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1172
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1180
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1182
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1184
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1190
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1199
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1203
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1211
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1213
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1215
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1221
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1230
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1234
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1242
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1244
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1246
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1252
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1261
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1265
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1273
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1275
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1277
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1283
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1292
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1296
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1304
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1306
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1308
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1314
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1323
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1327
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1335
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1337
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1339
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1345
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1354
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1358
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1366
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1368
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1370
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1376
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1385
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1389
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1399
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1401
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1403
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1409
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1418
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1422
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1430
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1432
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1434
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1440
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1449
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1453
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1461
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1463
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1465
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1471
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1480
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1484
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1492
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1494
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1496
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1502
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1511
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1515
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1523
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1525
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1527
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1533
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1542
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1546
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1554
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1556
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1558
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1564
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1573
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1577
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1585
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1587
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1589
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1595
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1604
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1608
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1616
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1618
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1620
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1626
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1635
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1639
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1647
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1649
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1651
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1657
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1666
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1670
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1678
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1680
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1682
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1688
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1697
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1701
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1711
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1713
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1715
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1721
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1730
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1734
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1742
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1744
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1746
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1752
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1761
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1765
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1773
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1775
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1777
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1783
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1792
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1796
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1804
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1806
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1808
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1814
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1823
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1827
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1835
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1837
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1839
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1845
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1854
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1858
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1866
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1868
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1870
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1876
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1885
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1889
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1897
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1899
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1901
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1907
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1916
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1920
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1928
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1930
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1932
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1938
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1947
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1951
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1959
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1961
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1963
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1969
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1978
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1982
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1990
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1992
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:1994
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2000
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2009
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2013
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2023
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2025
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2027
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2033
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2042
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2046
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2054
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2056
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2058
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2064
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2073
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2077
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2085
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2087
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2089
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2095
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2104
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2108
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2116
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2118
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2120
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2126
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2135
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2139
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2147
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2149
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2151
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2157
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2166
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2170
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2178
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2180
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2182
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2188
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2197
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2201
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2209
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2211
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2213
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2219
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2228
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2232
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2240
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2242
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2244
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2250
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2259
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2263
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2271
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2273
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2275
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2281
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2290
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2294
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2302
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2304
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2306
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2312
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2321
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2325
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2335
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2337
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2339
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2345
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2354
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_1\"]/choice[@req=\"FISH_FOOD_1\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2358
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2366
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2368
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2370
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2376
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2385
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_2\"]/choice[@req=\"FISH_FOOD_2\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2389
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2397
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2399
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2401
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2407
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2416
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_3\"]/choice[@req=\"FISH_FOOD_3\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2420
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2428
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2430
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2432
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2438
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2447
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_4\"]/choice[@req=\"FISH_FOOD_4\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2451
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2459
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2461
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2463
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2469
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2478
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[@req=\"FISH_FOOD_5\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2482
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2490
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2492
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2494
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2500
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2509
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_6\"]/choice[@req=\"FISH_FOOD_6\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2513
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2521
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2523
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2525
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2531
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2540
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_7\"]/choice[@req=\"FISH_FOOD_7\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2544
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2552
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2554
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2556
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2562
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2571
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_8\"]/choice[@req=\"FISH_FOOD_8\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2575
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2583
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2585
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2587
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2593
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2602
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_9\"]/choice[@req=\"FISH_FOOD_9\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2606
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2614
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2616
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2618
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2624
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2633
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_10\"]/choice[@req=\"FISH_FOOD_0\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2637
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2645
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2647
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2649
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2655
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2664
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2668
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2676
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2678
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2680
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2686
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2695
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2699
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2707
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2709
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2711
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2717
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2726
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2730
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2738
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2740
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2742
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2748
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2757
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2761
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2769
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2771
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2773
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2779
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2788
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2792
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2800
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2802
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2804
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2810
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2819
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2823
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2831
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2833
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2835
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2841
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2850
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2854
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2862
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2864
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2866
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2872
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2881
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2885
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2893
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2895
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2897
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2903
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2912
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2916
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2924
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2926
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2928
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2934
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2943
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2947
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2957
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2959
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2961
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2967
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2976
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2980
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2988
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2990
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2992
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:2998
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3007
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3011
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3019
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3021
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3023
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3029
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3038
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3042
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3050
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3052
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3054
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3060
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3069
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3073
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3081
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3083
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3085
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3091
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3100
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3104
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3112
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3114
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3116
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3122
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3131
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3135
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3143
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3145
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3147
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3153
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3162
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3166
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3174
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3176
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3178
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3184
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3193
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3197
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3205
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3207
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3209
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3215
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3224
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3228
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3236
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3238
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3240
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3246
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3255
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3259
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3269
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3271
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3273
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3279
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3288
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3292
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3300
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3302
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3304
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3310
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3319
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3323
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3331
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3333
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3335
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3341
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3350
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3354
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3362
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3364
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3366
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3372
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3381
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3385
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3393
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3395
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3397
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3403
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3412
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3416
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3424
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3426
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3428
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3434
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3443
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3447
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3455
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3457
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3459
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3465
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3474
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3478
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3486
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3488
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3490
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3496
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3505
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3509
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3517
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3519
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3521
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3527
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3536
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3540
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3548
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3550
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3552
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3558
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3567
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3571
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3581
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3583
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3585
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3591
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3600
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3604
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3612
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3614
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3616
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3622
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3631
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3635
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3643
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3645
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3647
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3653
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3662
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3666
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3674
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3676
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3678
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3684
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3693
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3697
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3705
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3707
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3709
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3715
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3724
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3728
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3736
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3738
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3740
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3746
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3755
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3759
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3767
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3769
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3771
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3777
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3786
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3790
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3798
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3800
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3802
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3808
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3817
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3821
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3829
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3831
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3833
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3839
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3848
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3852
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3860
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3862
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3864
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3870
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3879
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3883
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3893
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3895
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3897
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3903
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3912
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_1\"]/choice[@req=\"FISH_FOOD_11\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3916
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3924
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3926
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3928
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3934
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3943
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_2\"]/choice[@req=\"FISH_FOOD_12\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3947
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3955
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3957
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3959
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3965
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3974
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_3\"]/choice[@req=\"FISH_FOOD_13\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3978
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3986
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3988
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3990
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:3996
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4005
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_4\"]/choice[@req=\"FISH_FOOD_14\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4009
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4017
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4019
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4021
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4027
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4036
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_5\"]/choice[@req=\"FISH_FOOD_15\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4040
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4048
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4050
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4052
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4058
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4067
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_6\"]/choice[@req=\"FISH_FOOD_16\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4071
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4079
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4081
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4083
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4089
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4098
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_7\"]/choice[@req=\"FISH_FOOD_17\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4102
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4110
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4112
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4114
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4120
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4129
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_8\"]/choice[@req=\"FISH_FOOD_18\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4133
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4141
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4143
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4145
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4151
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4160
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_9\"]/choice[@req=\"FISH_FOOD_19\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4164
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4172
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4174
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4176
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4182
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4191
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_10\"]/choice[@req=\"FISH_FOOD_10\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4195
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4203
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4205
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4207
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4213
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4222
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4226
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4234
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4236
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4238
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4244
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4253
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4257
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4265
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4267
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4269
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4275
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4284
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4288
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4296
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4298
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4300
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4306
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4315
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4319
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4327
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4329
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4331
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4337
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4346
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4350
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4358
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4360
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4362
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4368
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4377
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4381
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4389
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4391
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4393
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4399
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4408
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4412
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4420
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4422
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4424
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4430
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4439
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4443
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4451
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4453
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4455
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4461
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4470
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4474
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4482
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4484
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4486
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4492
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4501
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4505
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4515
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4517
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4519
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4525
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4534
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4538
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4546
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4548
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4550
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4556
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4565
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4569
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4577
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4579
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4581
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4587
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4596
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4600
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4608
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4610
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4612
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4618
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4627
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4631
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4639
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4641
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4643
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4649
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4658
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4662
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4670
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4672
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4674
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4680
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4689
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4693
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4701
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4703
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4705
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4711
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4720
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4724
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4732
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4734
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4736
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4742
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4751
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4755
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4763
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4765
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4767
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4773
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4782
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4786
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4794
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4796
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4798
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4804
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4813
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4817
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4827
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4829
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4831
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4837
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4846
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4850
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4858
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4860
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4862
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4868
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4877
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4881
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4889
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4891
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4893
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4899
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4908
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4912
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4920
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4922
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4924
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4930
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4939
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4943
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4951
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4953
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4955
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4961
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4970
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4974
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4982
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4984
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4986
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:4992
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5001
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5005
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5013
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5015
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5017
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5023
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5032
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5036
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5044
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5046
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5048
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5054
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5063
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5067
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5075
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5077
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5079
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5085
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5094
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5098
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5106
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5108
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5110
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5116
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5125
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5129
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5139
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5141
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5143
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5149
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5158
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5162
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5170
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5172
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5174
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5180
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5189
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5193
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5201
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5203
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5205
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5211
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5220
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5224
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5232
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5234
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5236
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5242
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5251
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5255
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5263
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5265
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5267
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5273
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5282
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5286
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5294
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5296
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5298
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5304
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5313
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5317
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5325
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5327
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5329
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5335
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5344
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5348
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5356
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5358
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5360
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5366
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5375
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5379
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5387
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5389
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5391
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5397
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5406
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5410
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5418
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5420
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5422
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5428
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5437
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5441
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5451
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5453
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5455
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5461
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5470
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_1\"]/choice[@req=\"FISH_FOOD_21\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5474
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5482
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5484
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5486
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5492
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5501
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_2\"]/choice[@req=\"FISH_FOOD_22\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5505
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5513
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5515
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5517
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5523
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5532
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_3\"]/choice[@req=\"FISH_FOOD_23\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5536
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5544
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5546
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5548
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5554
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5563
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_4\"]/choice[@req=\"FISH_FOOD_24\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5567
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5575
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5577
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5579
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5585
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5594
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_5\"]/choice[@req=\"FISH_FOOD_25\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5598
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5606
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5608
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5610
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5616
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5625
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_6\"]/choice[@req=\"FISH_FOOD_26\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5629
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5637
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5639
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5641
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5647
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5656
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_7\"]/choice[@req=\"FISH_FOOD_27\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5660
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_7\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5668
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_8\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5670
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_8\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5672
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_8\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5678
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5687
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_8\"]/choice[@req=\"FISH_FOOD_28\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5691
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_8\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5699
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_9\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5701
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_9\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5703
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_9\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5709
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5718
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_9\"]/choice[@req=\"FISH_FOOD_29\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5722
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_9\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5730
+msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5732
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_10\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5734
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_10\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5740
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5749
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_10\"]/choice[@req=\"FISH_FOOD_20\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5753
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_10\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5763
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5765
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5767
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_1\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5773
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_1\"]/choice[@req=\"FISH_FOOD_31\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5783
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_1\"]/choice[@req=\"FISH_FOOD_31\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5787
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_1\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5795
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5797
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5799
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_2\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5805
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_2\"]/choice[@req=\"FISH_FOOD_32\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5815
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_2\"]/choice[@req=\"FISH_FOOD_32\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5819
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_2\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5827
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5829
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5831
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_3\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5837
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_3\"]/choice[@req=\"FISH_FOOD_33\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5847
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_3\"]/choice[@req=\"FISH_FOOD_33\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5851
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_3\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5859
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5861
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_4\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5863
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_4\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5869
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_4\"]/choice[@req=\"FISH_FOOD_34\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5879
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_4\"]/choice[@req=\"FISH_FOOD_34\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5883
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_4\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5891
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5893
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_5\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5895
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_5\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5901
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_5\"]/choice[@req=\"FISH_FOOD_35\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5911
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_5\"]/choice[@req=\"FISH_FOOD_35\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5915
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_5\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5923
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5925
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_6\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5927
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_6\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5933
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_6\"]/choice[@req=\"FISH_FOOD_36\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5943
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_6\"]/choice[@req=\"FISH_FOOD_36\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5947
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_6\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5955
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_7\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5957
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_7\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5959
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_7\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5965
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_7\"]/choice[@req=\"FISH_FOOD_37\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5975
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_7\"]/choice[@req=\"FISH_FOOD_37\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fishing.xml:5979
+msgid ""
+"data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_7\"]/choice[4]/text"
+msgstr ""

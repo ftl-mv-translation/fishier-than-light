@@ -1,0 +1,480 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:4
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:9
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:14
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:23
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:25
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:32
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:41
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:43
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:50
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:59
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:61
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_000_UPGRADE\"]/choice[7]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:69
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:74
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:79
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:88
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:90
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:97
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:106
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:108
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:115
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:124
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:126
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_100_UPGRADE\"]/choice[7]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:134
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:139
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:144
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:153
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:155
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:162
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:171
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:173
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:180
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:189
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:191
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_010_UPGRADE\"]/choice[7]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:199
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:204
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:209
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:218
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:220
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:227
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:236
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:238
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:245
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:254
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:256
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_001_UPGRADE\"]/choice[7]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:264
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:269
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:274
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:284
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:286
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:293
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:303
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:305
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:312
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:322
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:324
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_110_UPGRADE\"]/choice[7]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:332
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_011_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:337
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_011_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:342
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_011_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:352
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_011_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:354
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_011_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:361
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_011_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:371
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_011_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:373
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_011_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:381
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_101_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:386
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_101_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:391
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_101_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:401
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_101_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:403
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_101_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:410
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_101_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:420
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_101_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:422
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_101_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:430
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:435
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:440
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:450
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:452
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:459
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:469
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:471
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:478
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:488
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:490
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_200_UPGRADE\"]/choice[7]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:498
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:503
+#, fuzzy
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[1]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:508
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:518
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:520
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[3]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:527
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:537
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:539
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[5]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:546
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:556
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw_up_3_6.xml:558
+msgid ""
+"data/events_special_fish_maw_up_3_6.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_6_020_UPGRADE\"]/choice[7]/event/text"
+msgstr "1"
