@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-14 07:59+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"fishier-than-light/datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/hyperspace.xml.append:560
 msgid ""
@@ -13,7 +21,7 @@ msgstr "Весь ваш груз должен быть заполнен рыбо
 #: src-en/data/hyperspace.xml.append:566
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/description"
-msgstr "Храните на корабле 4 различных вида наживок."
+msgstr "Храните на корабле 8 различных вида наживок."
 
 #: src-en/data/hyperspace.xml.append:573
 msgid ""
@@ -23,32 +31,32 @@ msgstr "Успешно поймайте рыбу во время боя с фл�
 #: src-en/data/hyperspace.xml.append:591
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_1\"]/description"
-msgstr ""
+msgstr "Порыбачьте 4 раза на одном маяке в бою."
 
 #: src-en/data/hyperspace.xml.append:597
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_2\"]/description"
-msgstr ""
+msgstr "Установите на артиллерийский гарпун наживку с двойным крючком."
 
 #: src-en/data/hyperspace.xml.append:603
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_3\"]/description"
-msgstr ""
+msgstr "Выловите 16 членов экипажа, названных \"Рыба\", за одно прохождение."
 
 #: src-en/data/hyperspace.xml.append:705
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[1]/customTitle"
-msgstr ""
+msgstr "РЫБА"
 
 #: src-en/data/hyperspace.xml.append:720
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[2]/customTitle"
-msgstr ""
+msgstr "РЫБА"
 
 #: src-en/data/hyperspace.xml.append:735
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[3]/customTitle"
-msgstr ""
+msgstr "РЫБА"
 
 #: src-en/data/hyperspace.xml.append:1310
 msgid ""
@@ -302,7 +310,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1527
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/description"
-msgstr "Поймайте Wisdomfish."
+msgstr "Поймайте Рыбу мудрости."
 
 #: src-en/data/hyperspace.xml.append:1528
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/header"
@@ -675,9 +683,10 @@ msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/header
 msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1775
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/secretName"
-msgstr ""
+msgstr "??????"
 
 #: src-en/data/hyperspace.xml.append:1776
 msgid ""
