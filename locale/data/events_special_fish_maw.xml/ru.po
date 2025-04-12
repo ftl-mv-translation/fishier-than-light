@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-14 07:59+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"fishier-than-light/dataevents_special_fish_mawxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_fish_maw.xml:5
 msgid ""
@@ -764,7 +772,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:646
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_21\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:648
 msgid ""
@@ -774,7 +782,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:654
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_22\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:656
 msgid ""
@@ -784,7 +792,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:662
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_23\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:664
 msgid ""
@@ -794,7 +802,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:670
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_24\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:672
 msgid ""
@@ -804,7 +812,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:678
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_25\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:680
 msgid ""
@@ -814,7 +822,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:686
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_26\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:688
 msgid ""
@@ -824,7 +832,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:694
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_27\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:696
 msgid ""
@@ -834,7 +842,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:702
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_28\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:704
 msgid ""
@@ -844,7 +852,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:710
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_29\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:712
 msgid ""
@@ -854,7 +862,7 @@ msgstr ""
 #: src-en/data/events_special_fish_maw.xml:718
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_20\"]/text"
-msgstr "Накормить Мав: (+1)"
+msgstr "Накормить Мав: (+4)"
 
 #: src-en/data/events_special_fish_maw.xml:720
 msgid ""
