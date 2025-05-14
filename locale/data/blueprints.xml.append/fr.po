@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-15 12:50+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
+"datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:5
 msgid ""
@@ -2402,7 +2409,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6220
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_BAIT\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6227
 msgid ""
@@ -2412,7 +2419,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6228
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_BAIT_ALT\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6235
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_SAFE\"]/title"
@@ -2420,7 +2427,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6236
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_SAFE\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6243
 msgid ""
@@ -2429,7 +2436,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6244
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_REPEL\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6251
 msgid ""
@@ -2438,7 +2445,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6252
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_PREIG\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6259
 msgid ""
@@ -2447,7 +2454,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6260
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_SPEED\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6267
 msgid ""
@@ -2457,7 +2464,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6268
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_HIGHER\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6275
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_GRAV\"]/title"
@@ -2465,7 +2472,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6276
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_GRAV\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6285
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_11\"]/title"
@@ -3048,39 +3055,39 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6915
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_1\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6916
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_1\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6923
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_2\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6924
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_2\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6931
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_3\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6932
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_3\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6939
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_4\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6940
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_4\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6947
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_5\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6948
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_5\"]/desc"
@@ -3088,7 +3095,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6955
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_6\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6956
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_6\"]/desc"
@@ -3252,7 +3259,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7208
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_11\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7215
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_12\"]/title"
@@ -3272,15 +3279,15 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7231
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_14\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7232
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_14\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7239
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_15\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7240
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_15\"]/desc"
@@ -3288,19 +3295,19 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7247
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_16\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7248
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_16\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7255
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_17\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7256
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_17\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7263
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_18\"]/title"
@@ -3308,7 +3315,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7264
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_18\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7271
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_19\"]/title"
@@ -3316,7 +3323,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7272
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_19\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7279
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_10\"]/title"
@@ -3324,7 +3331,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7280
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_10\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7290
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_11\"]/title"
@@ -3456,7 +3463,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7507
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_22\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7508
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_22\"]/desc"
@@ -3468,7 +3475,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7516
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_23\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7523
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_24\"]/title"
@@ -3476,7 +3483,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7524
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_24\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7531
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_25\"]/title"
@@ -3488,11 +3495,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7539
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_26\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7540
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_26\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7547
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_27\"]/title"
@@ -3508,15 +3515,15 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7556
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_28\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7563
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_29\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7564
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_29\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7571
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_20\"]/title"
@@ -3524,7 +3531,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7572
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_20\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7582
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_21\"]/title"
@@ -3648,7 +3655,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7791
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_31\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7792
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_31\"]/desc"
@@ -3656,7 +3663,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7799
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_32\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7800
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_32\"]/desc"
@@ -3664,7 +3671,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7807
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_33\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7808
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_33\"]/desc"
@@ -3684,11 +3691,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7824
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_342\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7831
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_35\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7832
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_35\"]/desc"
@@ -3696,15 +3703,15 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:7839
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_36\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7840
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_36\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7847
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_37\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7848
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_37\"]/desc"
@@ -3804,7 +3811,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:8012
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_42\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8013
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_42\"]/desc"
@@ -3812,7 +3819,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:8020
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_43\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8021
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_43\"]/desc"
@@ -3820,7 +3827,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:8028
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_44\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8029
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_44\"]/desc"
@@ -3832,7 +3839,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:8037
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_45\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8044
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_46\"]/title"
@@ -3860,7 +3867,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:8068
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_49\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8069
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_49\"]/desc"
@@ -3868,11 +3875,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:8076
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_40\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8077
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_40\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8084
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_4A\"]/title"
@@ -3896,11 +3903,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:8101
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_4C\"]/desc"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8108
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_4D\"]/title"
-msgstr ""
+msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8109
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_4D\"]/desc"
