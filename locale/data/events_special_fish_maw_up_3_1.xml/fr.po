@@ -455,7 +455,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_1.xml:503
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_1.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_1_020_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
