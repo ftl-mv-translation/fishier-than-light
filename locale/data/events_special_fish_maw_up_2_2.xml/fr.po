@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 12:50+0000\n"
+"PO-Revision-Date: 2025-05-16 13:49+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "dataevents_special_fish_maw_up_2_2xml/fr/>\n"
@@ -32,7 +32,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:15
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_000_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -41,6 +40,8 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_000_UPGRADE\"]/choice[2]/text"
 msgstr ""
+"Coût : 15, Nécessite l’amélioration Longueur et 1 autre amélioration, "
+"Amélioration impossible"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:21
 msgid ""
@@ -51,6 +52,8 @@ msgstr "1"
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_000_UPGRADE\"]/choice[3]/text"
 msgstr ""
+"Coût : 15, Nécessite l’amélioration Vitesse et 1 autre amélioration, "
+"Amélioration impossible"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:29
 msgid ""
@@ -111,7 +114,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:93
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_100_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -129,7 +131,7 @@ msgstr "1"
 #: src-en/data/events_special_fish_maw_up_2_2.xml:105
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_100_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Coût : 15, Nécessite l’amélioration Vitesse, Amélioration impossible"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:107
 msgid ""
@@ -175,7 +177,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:155
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_010_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -183,7 +184,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_fish_maw_up_2_2.xml:159
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_010_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Coût : 15, Nécessite l’amélioration Longueur, Amélioration impossible"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:161
 msgid ""
@@ -239,7 +240,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:217
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_001_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -247,7 +247,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_fish_maw_up_2_2.xml:221
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_001_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Coût : 15, Nécessite l’amélioration Longueur, Amélioration impossible"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:223
 msgid ""
@@ -257,7 +257,7 @@ msgstr "1"
 #: src-en/data/events_special_fish_maw_up_2_2.xml:229
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_001_UPGRADE\"]/choice[3]/text"
-msgstr ""
+msgstr "Coût : 15, Nécessite l’amélioration Vitesse, Amélioration impossible"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:231
 msgid ""
@@ -303,7 +303,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:280
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_110_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -363,7 +362,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:346
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_011_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -371,7 +369,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_fish_maw_up_2_2.xml:351
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_011_UPGRADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Coût : 15, Nécessite l’amélioration Longueur, Amélioration impossible"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:353
 msgid ""
@@ -419,7 +417,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:403
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_101_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -475,7 +472,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_2_2.xml:460
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_2_2.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_2_2_111_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
