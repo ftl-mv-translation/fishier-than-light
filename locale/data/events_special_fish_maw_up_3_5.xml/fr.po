@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 12:50+0000\n"
+"PO-Revision-Date: 2025-05-16 13:49+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "dataevents_special_fish_maw_up_3_5xml/fr/>\n"
@@ -21,7 +21,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:9
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_000_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -80,7 +79,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:74
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_100_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -139,7 +137,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:139
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_010_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -198,7 +195,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:204
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_001_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -257,7 +253,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:269
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_110_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -316,7 +311,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:337
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_011_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -360,7 +354,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:386
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_101_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -404,7 +397,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:435
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_200_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -463,7 +455,6 @@ msgstr ""
 "Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw_up_3_5.xml:503
-#, fuzzy
 msgid ""
 "data/events_special_fish_maw_up_3_5.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_3_5_020_UPGRADE\"]/choice[1]/text"
 msgstr "Laisser tomber."
