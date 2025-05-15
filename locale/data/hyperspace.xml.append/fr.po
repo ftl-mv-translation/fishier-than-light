@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 12:49+0000\n"
+"PO-Revision-Date: 2025-05-16 13:49+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "datahyperspace-xml-append/fr/>\n"
@@ -45,7 +45,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:705
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[1]/customTitle"
-msgstr ""
+msgstr "POISSON"
 
 #: src-en/data/hyperspace.xml.append:720
 msgid ""
@@ -69,7 +69,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1314
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1321
 msgid ""
@@ -78,7 +78,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1322
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1329
 msgid ""
@@ -87,7 +87,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1330
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1337
 msgid ""
@@ -96,7 +96,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1338
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1345
 msgid ""
@@ -105,7 +105,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1346
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1353
 msgid ""
@@ -114,7 +114,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1354
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1361
 msgid ""
@@ -123,7 +123,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1362
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1369
 msgid ""
@@ -132,7 +132,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1370
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1377
 msgid ""
@@ -141,7 +141,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1378
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1385
 msgid ""
@@ -150,7 +150,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1386
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1393
 msgid ""
@@ -164,7 +164,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1397
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1404
 msgid ""
@@ -173,7 +173,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1405
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1412
 msgid ""
@@ -182,7 +182,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1413
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1420
 msgid ""
@@ -191,7 +191,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1421
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1428
 msgid ""
@@ -200,7 +200,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1429
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1436
 msgid ""
@@ -209,7 +209,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1437
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1444
 msgid ""
@@ -218,7 +218,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1445
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1452
 msgid ""
@@ -227,7 +227,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1453
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1460
 msgid ""
@@ -236,7 +236,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1461
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1468
 msgid ""
@@ -245,7 +245,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1469
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1476
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1480
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1487
 msgid ""
@@ -268,7 +268,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1488
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1495
 msgid ""
@@ -277,7 +277,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1496
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1503
 msgid ""
@@ -286,7 +286,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1504
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1511
 msgid ""
@@ -295,7 +295,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1512
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1519
 msgid ""
@@ -304,7 +304,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1520
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1527
 msgid ""
@@ -313,7 +313,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1528
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1535
 msgid ""
@@ -322,7 +322,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1536
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1543
 msgid ""
@@ -331,7 +331,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1544
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1551
 msgid ""
@@ -340,7 +340,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1552
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1559
 msgid ""
@@ -354,7 +354,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1563
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1570
 msgid ""
@@ -363,7 +363,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1571
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1578
 msgid ""
@@ -372,7 +372,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1579
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1586
 msgid ""
@@ -381,7 +381,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1587
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1594
 msgid ""
@@ -390,7 +390,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1595
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1602
 msgid ""
@@ -399,7 +399,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1603
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1610
 msgid ""
@@ -408,7 +408,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1611
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1618
 msgid ""
@@ -418,7 +418,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1621
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1622
 msgid ""
@@ -432,12 +432,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1624
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1632
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1633
 msgid ""
@@ -451,12 +451,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1635
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1643
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1644
 msgid ""
@@ -470,12 +470,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1646
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1654
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1655
 msgid ""
@@ -489,12 +489,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1657
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1665
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1666
 msgid ""
@@ -508,12 +508,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1668
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1676
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1677
 msgid ""
@@ -527,12 +527,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1679
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1687
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1688
 msgid ""
@@ -546,12 +546,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1690
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1698
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1699
 msgid ""
@@ -565,12 +565,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1701
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1709
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1710
 msgid ""
@@ -584,12 +584,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1712
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1720
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1721
 msgid ""
@@ -603,12 +603,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1723
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1731
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1732
 msgid ""
@@ -622,12 +622,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1734
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1742
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1743
 msgid ""
@@ -641,12 +641,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1745
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1753
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1754
 msgid ""
@@ -660,12 +660,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1756
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1764
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/secretName"
-msgstr ""
+msgstr "??? Poisson"
 
 #: src-en/data/hyperspace.xml.append:1765
 msgid ""
@@ -679,12 +679,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1767
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1775
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/secretName"
-msgstr ""
+msgstr "??????"
 
 #: src-en/data/hyperspace.xml.append:1776
 msgid ""
@@ -698,7 +698,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1778
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1786
 msgid ""
@@ -713,7 +713,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1790
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1797
 msgid ""
@@ -722,7 +722,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:1798
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1805
 msgid ""
@@ -732,7 +732,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1806
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1813
 msgid ""
@@ -742,7 +742,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1814
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1821
 msgid ""
@@ -752,7 +752,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1822
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1829
 msgid ""
@@ -762,7 +762,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1837
 msgid ""
@@ -772,7 +772,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:1838
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/header"
-msgstr ""
+msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1844
 msgid ""
