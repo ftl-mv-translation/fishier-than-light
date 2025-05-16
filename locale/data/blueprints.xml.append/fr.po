@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-16 13:49+0000\n"
+"PO-Revision-Date: 2025-05-17 16:49+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "datablueprintsxmlappend/fr/>\n"
@@ -26,6 +26,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:44
 msgid ""
@@ -146,6 +148,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:409
 msgid ""
@@ -266,6 +270,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:775
 msgid ""
@@ -506,6 +512,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:1461
 msgid ""
@@ -746,6 +754,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:2146
 msgid ""
@@ -872,6 +882,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:2392
 msgid ""
@@ -1112,6 +1124,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:2864
 msgid ""
@@ -1352,6 +1366,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:3353
 msgid ""
@@ -1472,6 +1488,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:3706
 msgid ""
@@ -1726,6 +1744,8 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_000\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie."
 
 #: src-en/data/blueprints.xml.append:4287
 msgid ""
