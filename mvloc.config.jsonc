@@ -55,6 +55,7 @@
 
         "//customStore/category/customTitle",
         "//achievements/page/section/@text",
+		"//achievement/name",
         "//achievement/description",
         "//achievement/header",
         "//achievement/secretName",
@@ -63,6 +64,7 @@
 		// metadata
 		"//metadata/title",
 		"//metadata/description",
+		"//metadata/author",
     ],
 
     "useDummyRoot": true,
