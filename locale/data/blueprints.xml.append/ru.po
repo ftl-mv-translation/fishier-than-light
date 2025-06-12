@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-14 07:59+0000\n"
+"PO-Revision-Date: 2025-06-13 19:50+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "fishier-than-light/datablueprintsxmlappend/ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:5
 msgid ""
@@ -2411,7 +2411,7 @@ msgstr "Желе"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING_2\"]/desc"
 msgstr ""
-"Опытный рыбак-слизень отправился со своим ребенком на эир небольшое "
+"Опытный рыбак-слизень отправился со своим ребенком на это небольшое "
 "траулерное судно, чтобы дожить остаток своих дней, ловя рыбу."
 
 #: src-en/data/blueprints.xml.append:5139
