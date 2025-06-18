@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-14 07:59+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-06-18 16:12+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "fishier-than-light/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_misc.xml.append:4
 msgid ""
@@ -48,8 +48,7 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHARTY_3_unlock\"]"
 msgstr ""
-"Устройте саботаж на станции, найдите Мав и приведите его в окончательный "
-"вид."
+"Устройте саботаж на станции, найдите Мав и приведите его в окончательный вид."
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_fish_food\"]"
