@@ -1,14 +1,22 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-19 17:46+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"fishier-than-light/datahyperspace-xml-append/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:558
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_1\"]/name"
-msgstr ""
+msgstr "Большой улов"
 
 #: src-en/data/hyperspace.xml.append:559
 msgid ""
@@ -18,7 +26,7 @@ msgstr "Весь ваш груз должен быть заполнен рыбо
 #: src-en/data/hyperspace.xml.append:564
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/name"
-msgstr ""
+msgstr "Мастер наживок"
 
 #: src-en/data/hyperspace.xml.append:565
 msgid ""
@@ -28,7 +36,7 @@ msgstr "Храните на корабле 8 различных вида наж�
 #: src-en/data/hyperspace.xml.append:571
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_3\"]/name"
-msgstr ""
+msgstr "Подержите мою удочку"
 
 #: src-en/data/hyperspace.xml.append:572
 msgid ""
@@ -38,7 +46,7 @@ msgstr "Успешно поймайте рыбу во время боя с фл�
 #: src-en/data/hyperspace.xml.append:589
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_1\"]/name"
-msgstr ""
+msgstr "Уничтожение вида"
 
 #: src-en/data/hyperspace.xml.append:590
 msgid ""
@@ -48,7 +56,7 @@ msgstr "Порыбачьте 4 раза на одном маяке в бою."
 #: src-en/data/hyperspace.xml.append:595
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_2\"]/name"
-msgstr ""
+msgstr "Переизбыток рыбы"
 
 #: src-en/data/hyperspace.xml.append:596
 msgid ""
@@ -58,7 +66,7 @@ msgstr "Установите на артиллерийский гарпун на
 #: src-en/data/hyperspace.xml.append:601
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_3\"]/name"
-msgstr ""
+msgstr "Технически рыба"
 
 #: src-en/data/hyperspace.xml.append:602
 msgid ""
@@ -67,23 +75,23 @@ msgstr "Выловите 16 членов экипажа, названных \"Р
 
 #: src-en/data/hyperspace.xml.append:617
 msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Jimmy\"]/@name"
-msgstr ""
+msgstr "Джимми"
 
 #: src-en/data/hyperspace.xml.append:618
 msgid "data/hyperspace.xml.append$//slug[@name=\"Jimmy Jr.\"]/@name"
-msgstr ""
+msgstr "Джимми мл."
 
 #: src-en/data/hyperspace.xml.append:636
 msgid "data/hyperspace.xml.append$//slug_saboteur[@name=\"Silas\"]/@name"
-msgstr ""
+msgstr "Сайлас"
 
 #: src-en/data/hyperspace.xml.append:637
 msgid "data/hyperspace.xml.append$//slug_saboteur[@name=\"Sylvester\"]/@name"
-msgstr ""
+msgstr "Сильвестр"
 
 #: src-en/data/hyperspace.xml.append:648
 msgid "data/hyperspace.xml.append$//slug_clansman[@name=\"Bob\"]/@name"
-msgstr ""
+msgstr "Боб"
 
 #: src-en/data/hyperspace.xml.append:704
 msgid ""
@@ -107,7 +115,7 @@ msgstr "Обычная рыба"
 
 #: src-en/data/hyperspace.xml.append:1311
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/name"
-msgstr ""
+msgstr "Оранжевый снэппер"
 
 #: src-en/data/hyperspace.xml.append:1312
 msgid ""
@@ -120,7 +128,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1319
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/name"
-msgstr ""
+msgstr "Красный императорский луциан"
 
 #: src-en/data/hyperspace.xml.append:1320
 msgid ""
@@ -133,7 +141,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1327
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/name"
-msgstr ""
+msgstr "Полосатый коралловый групер"
 
 #: src-en/data/hyperspace.xml.append:1328
 msgid ""
@@ -146,7 +154,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1335
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/name"
-msgstr ""
+msgstr "Пятнистая макрель"
 
 #: src-en/data/hyperspace.xml.append:1336
 msgid ""
@@ -159,7 +167,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1343
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/name"
-msgstr ""
+msgstr "Оранжевый пятнистый групер"
 
 #: src-en/data/hyperspace.xml.append:1344
 msgid ""
@@ -172,7 +180,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1351
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/name"
-msgstr ""
+msgstr "Голубая нитчатка"
 
 #: src-en/data/hyperspace.xml.append:1352
 msgid ""
@@ -185,7 +193,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1359
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/name"
-msgstr ""
+msgstr "Каменный черный окунь"
 
 #: src-en/data/hyperspace.xml.append:1360
 msgid ""
@@ -198,7 +206,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1367
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/name"
-msgstr ""
+msgstr "Длиннохвостый тунец"
 
 #: src-en/data/hyperspace.xml.append:1368
 msgid ""
@@ -211,7 +219,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1375
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/name"
-msgstr ""
+msgstr "Рифовый осьминог"
 
 #: src-en/data/hyperspace.xml.append:1376
 msgid ""
@@ -224,7 +232,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1383
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/name"
-msgstr ""
+msgstr "Орляковый скат"
 
 #: src-en/data/hyperspace.xml.append:1384
 msgid ""
@@ -242,7 +250,7 @@ msgstr "Необычная рыба"
 
 #: src-en/data/hyperspace.xml.append:1394
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/name"
-msgstr ""
+msgstr "Двуперый угорь"
 
 #: src-en/data/hyperspace.xml.append:1395
 msgid ""
@@ -255,7 +263,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1402
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/name"
-msgstr ""
+msgstr "Голубой угорь"
 
 #: src-en/data/hyperspace.xml.append:1403
 msgid ""
@@ -268,7 +276,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1410
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/name"
-msgstr ""
+msgstr "Желтоперый окунь"
 
 #: src-en/data/hyperspace.xml.append:1411
 msgid ""
@@ -281,7 +289,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1418
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/name"
-msgstr ""
+msgstr "Большеглазый тунец"
 
 #: src-en/data/hyperspace.xml.append:1419
 msgid ""
@@ -294,7 +302,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1426
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/name"
-msgstr ""
+msgstr "Пятнистая барракуда"
 
 #: src-en/data/hyperspace.xml.append:1427
 msgid ""
@@ -307,7 +315,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1434
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/name"
-msgstr ""
+msgstr "Коричневая форель"
 
 #: src-en/data/hyperspace.xml.append:1435
 msgid ""
@@ -320,7 +328,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1442
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/name"
-msgstr ""
+msgstr "Султанка"
 
 #: src-en/data/hyperspace.xml.append:1443
 msgid ""
@@ -333,7 +341,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1450
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/name"
-msgstr ""
+msgstr "Вариола радужная"
 
 #: src-en/data/hyperspace.xml.append:1451
 msgid ""
@@ -346,7 +354,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1458
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/name"
-msgstr ""
+msgstr "Желтоперый горбыль"
 
 #: src-en/data/hyperspace.xml.append:1459
 msgid ""
@@ -359,7 +367,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1466
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/name"
-msgstr ""
+msgstr "Микижа"
 
 #: src-en/data/hyperspace.xml.append:1467
 msgid ""
@@ -377,7 +385,7 @@ msgstr "Редкая рыба"
 
 #: src-en/data/hyperspace.xml.append:1477
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/name"
-msgstr ""
+msgstr "Кижуч"
 
 #: src-en/data/hyperspace.xml.append:1478
 msgid ""
@@ -390,7 +398,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1485
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/name"
-msgstr ""
+msgstr "Длинноперая ставрида"
 
 #: src-en/data/hyperspace.xml.append:1486
 msgid ""
@@ -403,7 +411,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1493
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/name"
-msgstr ""
+msgstr "Желтоперый лосось"
 
 #: src-en/data/hyperspace.xml.append:1494
 msgid ""
@@ -416,7 +424,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1501
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/name"
-msgstr ""
+msgstr "Оливковый сомик"
 
 #: src-en/data/hyperspace.xml.append:1502
 msgid ""
@@ -429,7 +437,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1509
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/name"
-msgstr ""
+msgstr "Позолоченный лещ"
 
 #: src-en/data/hyperspace.xml.append:1510
 msgid ""
@@ -442,7 +450,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1517
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/name"
-msgstr ""
+msgstr "Черная кобия"
 
 #: src-en/data/hyperspace.xml.append:1518
 msgid ""
@@ -455,7 +463,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1525
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/name"
-msgstr ""
+msgstr "Рыба мудрости"
 
 #: src-en/data/hyperspace.xml.append:1526
 msgid ""
@@ -468,7 +476,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1533
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/name"
-msgstr ""
+msgstr "Золотистая форель"
 
 #: src-en/data/hyperspace.xml.append:1534
 msgid ""
@@ -481,7 +489,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1541
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/name"
-msgstr ""
+msgstr "Канальный сомик"
 
 #: src-en/data/hyperspace.xml.append:1542
 msgid ""
@@ -494,7 +502,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1549
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/name"
-msgstr ""
+msgstr "Осетр"
 
 #: src-en/data/hyperspace.xml.append:1550
 msgid ""
@@ -512,7 +520,7 @@ msgstr "Легендарная рыба"
 
 #: src-en/data/hyperspace.xml.append:1560
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/name"
-msgstr ""
+msgstr "Королевская ставрида"
 
 #: src-en/data/hyperspace.xml.append:1561
 msgid ""
@@ -525,7 +533,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1568
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/name"
-msgstr ""
+msgstr "Большая корифена"
 
 #: src-en/data/hyperspace.xml.append:1569
 msgid ""
@@ -538,7 +546,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1576
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/name"
-msgstr ""
+msgstr "Рыба-херувим"
 
 #: src-en/data/hyperspace.xml.append:1577
 msgid ""
@@ -551,7 +559,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1584
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/name"
-msgstr ""
+msgstr "Групер"
 
 #: src-en/data/hyperspace.xml.append:1585
 msgid ""
@@ -564,7 +572,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1592
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/name"
-msgstr ""
+msgstr "Луфарь"
 
 #: src-en/data/hyperspace.xml.append:1593
 msgid ""
@@ -577,7 +585,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1600
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/name"
-msgstr ""
+msgstr "Арапаима"
 
 #: src-en/data/hyperspace.xml.append:1601
 msgid ""
@@ -590,7 +598,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1608
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/name"
-msgstr ""
+msgstr "Голубой марлин"
 
 #: src-en/data/hyperspace.xml.append:1609
 msgid ""
@@ -608,7 +616,7 @@ msgstr "Уникальная рыба"
 
 #: src-en/data/hyperspace.xml.append:1619
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/name"
-msgstr ""
+msgstr "Рыба объединитель"
 
 #: src-en/data/hyperspace.xml.append:1620
 msgid ""
@@ -631,7 +639,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1630
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/name"
-msgstr ""
+msgstr "Рыба коммандос"
 
 #: src-en/data/hyperspace.xml.append:1631
 msgid ""
@@ -654,7 +662,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1641
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/name"
-msgstr ""
+msgstr "Рыба гармонии"
 
 #: src-en/data/hyperspace.xml.append:1642
 msgid ""
@@ -677,7 +685,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1652
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/name"
-msgstr ""
+msgstr "Энергорыба"
 
 #: src-en/data/hyperspace.xml.append:1653
 msgid ""
@@ -700,7 +708,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1663
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/name"
-msgstr ""
+msgstr "Рыба ламинария"
 
 #: src-en/data/hyperspace.xml.append:1664
 msgid ""
@@ -723,7 +731,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1674
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/name"
-msgstr ""
+msgstr "Рыба богомол"
 
 #: src-en/data/hyperspace.xml.append:1675
 msgid ""
@@ -746,7 +754,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1685
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/name"
-msgstr ""
+msgstr "Ледяная рыба"
 
 #: src-en/data/hyperspace.xml.append:1686
 msgid ""
@@ -769,7 +777,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1696
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/name"
-msgstr ""
+msgstr "Каменная рыба"
 
 #: src-en/data/hyperspace.xml.append:1697
 msgid ""
@@ -792,7 +800,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1707
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/name"
-msgstr ""
+msgstr "Рыба бунтовщик"
 
 #: src-en/data/hyperspace.xml.append:1708
 msgid ""
@@ -815,7 +823,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1718
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/name"
-msgstr ""
+msgstr "Рыба-вор"
 
 #: src-en/data/hyperspace.xml.append:1719
 msgid ""
@@ -838,7 +846,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1729
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/name"
-msgstr ""
+msgstr "Рыба-анаэроб"
 
 #: src-en/data/hyperspace.xml.append:1730
 msgid ""
@@ -861,7 +869,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1740
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/name"
-msgstr ""
+msgstr "Слизневый скат"
 
 #: src-en/data/hyperspace.xml.append:1741
 msgid ""
@@ -884,7 +892,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1751
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/name"
-msgstr ""
+msgstr "Пиявка?"
 
 #: src-en/data/hyperspace.xml.append:1752
 msgid ""
@@ -907,7 +915,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1762
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/name"
-msgstr ""
+msgstr "Древняя рыба"
 
 #: src-en/data/hyperspace.xml.append:1763
 msgid ""
@@ -930,10 +938,9 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1773
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/name"
-msgstr ""
+msgstr "Сильвоперая рыба"
 
 #: src-en/data/hyperspace.xml.append:1774
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/secretName"
 msgstr "??????"
@@ -959,7 +966,7 @@ msgstr "Рыбы-пушки"
 
 #: src-en/data/hyperspace.xml.append:1787
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/name"
-msgstr ""
+msgstr "Лазерная рыба"
 
 #: src-en/data/hyperspace.xml.append:1788
 msgid ""
@@ -973,7 +980,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1795
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/name"
-msgstr ""
+msgstr "Шоковая рыба"
 
 #: src-en/data/hyperspace.xml.append:1796
 msgid ""
@@ -986,7 +993,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1803
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/name"
-msgstr ""
+msgstr "Осколочная рыба"
 
 #: src-en/data/hyperspace.xml.append:1804
 msgid ""
@@ -1000,7 +1007,7 @@ msgstr "Рыба поймана!"
 
 #: src-en/data/hyperspace.xml.append:1811
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/name"
-msgstr ""
+msgstr "Лучеперая рыба"
 
 #: src-en/data/hyperspace.xml.append:1812
 msgid ""
@@ -1015,7 +1022,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1819
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/name"
-msgstr ""
+msgstr "Магнитная рыба"
 
 #: src-en/data/hyperspace.xml.append:1820
 msgid ""
@@ -1030,7 +1037,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1827
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/name"
-msgstr ""
+msgstr "Пробойная рыба"
 
 #: src-en/data/hyperspace.xml.append:1828
 msgid ""
@@ -1045,7 +1052,7 @@ msgstr "Рыба поймана!"
 #: src-en/data/hyperspace.xml.append:1835
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/name"
-msgstr ""
+msgstr "Рыба-парусник"
 
 #: src-en/data/hyperspace.xml.append:1836
 msgid ""
@@ -1064,7 +1071,7 @@ msgstr "Дар рыб"
 
 #: src-en/data/hyperspace.xml.append:1845
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/name"
-msgstr ""
+msgstr "Благословение рыбы"
 
 #: src-en/data/hyperspace.xml.append:1846
 msgid ""
