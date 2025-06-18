@@ -9,6 +9,12 @@ msgstr ""
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
 msgstr "Fishier Than Light"
 
+#: src-en/mod-appendix/metadata.xml:9
+msgid "mod-appendix/metadata.xml$/dummyroot/metadata/author"
+msgstr ""
+"Arc\n"
+"additional credit: Lizzard - fishing music track"
+
 #: src-en/mod-appendix/metadata.xml:16
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/description"
 msgstr "Fishing in FTL."

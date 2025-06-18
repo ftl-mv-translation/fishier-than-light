@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 16:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/fishier-than-light/"
-"dataevents_special_fish_mawxml/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_fish_maw.xml:5
 msgid ""
@@ -42,1708 +35,1708 @@ msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_KILLED\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:51
+#: src-en/data/events_special_fish_maw.xml:52
 msgid "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:58
+#: src-en/data/events_special_fish_maw.xml:59
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:60
+#: src-en/data/events_special_fish_maw.xml:61
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:63
+#: src-en/data/events_special_fish_maw.xml:64
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[1]/event/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:69
+#: src-en/data/events_special_fish_maw.xml:70
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/text"
 msgstr "거절하고 떠난다."
 
-#: src-en/data/events_special_fish_maw.xml:71
+#: src-en/data/events_special_fish_maw.xml:72
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:73
+#: src-en/data/events_special_fish_maw.xml:74
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/event/choice[1]/text"
 msgstr "함선에서 무언가를 한다."
 
-#: src-en/data/events_special_fish_maw.xml:77
+#: src-en/data/events_special_fish_maw.xml:78
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/event/choice[2]/text"
 msgstr "아무것도 하지 않는다."
 
-#: src-en/data/events_special_fish_maw.xml:85
+#: src-en/data/events_special_fish_maw.xml:86
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"DESTROYED_FISH_MAW_ENEMY\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:91
+#: src-en/data/events_special_fish_maw.xml:92
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"DESTROYED_FISH_MAW_ENEMY\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:101
+#: src-en/data/events_special_fish_maw.xml:102
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/text"
 msgstr "무엇을 하시겠습니까?"
 
-#: src-en/data/events_special_fish_maw.xml:103
+#: src-en/data/events_special_fish_maw.xml:104
 #, fuzzy
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[1]/text"
 msgstr "아무것도 아니다."
 
-#: src-en/data/events_special_fish_maw.xml:107
+#: src-en/data/events_special_fish_maw.xml:108
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:111
+#: src-en/data/events_special_fish_maw.xml:112
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:115
+#: src-en/data/events_special_fish_maw.xml:116
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:119
+#: src-en/data/events_special_fish_maw.xml:120
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:123
+#: src-en/data/events_special_fish_maw.xml:124
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:127
+#: src-en/data/events_special_fish_maw.xml:128
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:131
+#: src-en/data/events_special_fish_maw.xml:132
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:135
+#: src-en/data/events_special_fish_maw.xml:136
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_111\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:140
+#: src-en/data/events_special_fish_maw.xml:141
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:144
+#: src-en/data/events_special_fish_maw.xml:145
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:148
+#: src-en/data/events_special_fish_maw.xml:149
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:152
+#: src-en/data/events_special_fish_maw.xml:153
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:156
+#: src-en/data/events_special_fish_maw.xml:157
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:160
+#: src-en/data/events_special_fish_maw.xml:161
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:164
+#: src-en/data/events_special_fish_maw.xml:165
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:168
+#: src-en/data/events_special_fish_maw.xml:169
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_111\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:173
+#: src-en/data/events_special_fish_maw.xml:174
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:177
+#: src-en/data/events_special_fish_maw.xml:178
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:181
+#: src-en/data/events_special_fish_maw.xml:182
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:185
+#: src-en/data/events_special_fish_maw.xml:186
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:189
+#: src-en/data/events_special_fish_maw.xml:190
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:193
+#: src-en/data/events_special_fish_maw.xml:194
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:197
+#: src-en/data/events_special_fish_maw.xml:198
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:201
+#: src-en/data/events_special_fish_maw.xml:202
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_111\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:206
+#: src-en/data/events_special_fish_maw.xml:207
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:210
+#: src-en/data/events_special_fish_maw.xml:211
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:214
+#: src-en/data/events_special_fish_maw.xml:215
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:218
+#: src-en/data/events_special_fish_maw.xml:219
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:222
+#: src-en/data/events_special_fish_maw.xml:223
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:226
+#: src-en/data/events_special_fish_maw.xml:227
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:230
+#: src-en/data/events_special_fish_maw.xml:231
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:234
+#: src-en/data/events_special_fish_maw.xml:235
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_111\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:239
+#: src-en/data/events_special_fish_maw.xml:240
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:243
+#: src-en/data/events_special_fish_maw.xml:244
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:247
+#: src-en/data/events_special_fish_maw.xml:248
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:251
+#: src-en/data/events_special_fish_maw.xml:252
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:255
+#: src-en/data/events_special_fish_maw.xml:256
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:259
+#: src-en/data/events_special_fish_maw.xml:260
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:263
+#: src-en/data/events_special_fish_maw.xml:264
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:267
+#: src-en/data/events_special_fish_maw.xml:268
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_200\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:271
+#: src-en/data/events_special_fish_maw.xml:272
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_020\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:276
+#: src-en/data/events_special_fish_maw.xml:277
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:280
+#: src-en/data/events_special_fish_maw.xml:281
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:284
+#: src-en/data/events_special_fish_maw.xml:285
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:288
+#: src-en/data/events_special_fish_maw.xml:289
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:292
+#: src-en/data/events_special_fish_maw.xml:293
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:296
+#: src-en/data/events_special_fish_maw.xml:297
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:300
+#: src-en/data/events_special_fish_maw.xml:301
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:304
+#: src-en/data/events_special_fish_maw.xml:305
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_200\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:308
+#: src-en/data/events_special_fish_maw.xml:309
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_020\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:313
+#: src-en/data/events_special_fish_maw.xml:314
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:317
+#: src-en/data/events_special_fish_maw.xml:318
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:321
+#: src-en/data/events_special_fish_maw.xml:322
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:325
+#: src-en/data/events_special_fish_maw.xml:326
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:329
+#: src-en/data/events_special_fish_maw.xml:330
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:333
+#: src-en/data/events_special_fish_maw.xml:334
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:337
+#: src-en/data/events_special_fish_maw.xml:338
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:341
+#: src-en/data/events_special_fish_maw.xml:342
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_200\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:345
+#: src-en/data/events_special_fish_maw.xml:346
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_020\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:350
+#: src-en/data/events_special_fish_maw.xml:351
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:354
+#: src-en/data/events_special_fish_maw.xml:355
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:358
+#: src-en/data/events_special_fish_maw.xml:359
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:362
+#: src-en/data/events_special_fish_maw.xml:363
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:366
+#: src-en/data/events_special_fish_maw.xml:367
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:370
+#: src-en/data/events_special_fish_maw.xml:371
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:374
+#: src-en/data/events_special_fish_maw.xml:375
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:378
+#: src-en/data/events_special_fish_maw.xml:379
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_200\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:382
+#: src-en/data/events_special_fish_maw.xml:383
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_020\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:387
+#: src-en/data/events_special_fish_maw.xml:388
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:391
+#: src-en/data/events_special_fish_maw.xml:392
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:395
+#: src-en/data/events_special_fish_maw.xml:396
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:399
+#: src-en/data/events_special_fish_maw.xml:400
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:403
+#: src-en/data/events_special_fish_maw.xml:404
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:407
+#: src-en/data/events_special_fish_maw.xml:408
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:411
+#: src-en/data/events_special_fish_maw.xml:412
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:415
+#: src-en/data/events_special_fish_maw.xml:416
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_200\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:419
+#: src-en/data/events_special_fish_maw.xml:420
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_020\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:424
+#: src-en/data/events_special_fish_maw.xml:425
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_000\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:428
+#: src-en/data/events_special_fish_maw.xml:429
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_100\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:432
+#: src-en/data/events_special_fish_maw.xml:433
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_010\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:436
+#: src-en/data/events_special_fish_maw.xml:437
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_001\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:440
+#: src-en/data/events_special_fish_maw.xml:441
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_110\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:444
+#: src-en/data/events_special_fish_maw.xml:445
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_011\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:448
+#: src-en/data/events_special_fish_maw.xml:449
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_101\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:452
+#: src-en/data/events_special_fish_maw.xml:453
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_200\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:456
+#: src-en/data/events_special_fish_maw.xml:457
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_020\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:461
+#: src-en/data/events_special_fish_maw.xml:462
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[88]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:473
+#: src-en/data/events_special_fish_maw.xml:474
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:478
+#: src-en/data/events_special_fish_maw.xml:479
 #, fuzzy
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[1]/text"
 msgstr "아무것도 아니다."
 
-#: src-en/data/events_special_fish_maw.xml:482
+#: src-en/data/events_special_fish_maw.xml:483
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:484
+#: src-en/data/events_special_fish_maw.xml:485
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_1\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:490
+#: src-en/data/events_special_fish_maw.xml:491
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_2\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:492
+#: src-en/data/events_special_fish_maw.xml:493
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_2\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:498
+#: src-en/data/events_special_fish_maw.xml:499
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_3\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:500
+#: src-en/data/events_special_fish_maw.xml:501
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_3\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:506
+#: src-en/data/events_special_fish_maw.xml:507
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:508
+#: src-en/data/events_special_fish_maw.xml:509
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:514
+#: src-en/data/events_special_fish_maw.xml:515
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_5\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:516
+#: src-en/data/events_special_fish_maw.xml:517
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_5\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:522
+#: src-en/data/events_special_fish_maw.xml:523
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_6\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:524
+#: src-en/data/events_special_fish_maw.xml:525
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_6\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:530
+#: src-en/data/events_special_fish_maw.xml:531
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_7\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:532
+#: src-en/data/events_special_fish_maw.xml:533
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_7\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:538
+#: src-en/data/events_special_fish_maw.xml:539
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_8\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:540
+#: src-en/data/events_special_fish_maw.xml:541
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_8\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:546
+#: src-en/data/events_special_fish_maw.xml:547
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_9\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:548
+#: src-en/data/events_special_fish_maw.xml:549
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_9\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:554
+#: src-en/data/events_special_fish_maw.xml:555
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_0\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:556
+#: src-en/data/events_special_fish_maw.xml:557
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_0\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:564
+#: src-en/data/events_special_fish_maw.xml:565
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_11\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:566
+#: src-en/data/events_special_fish_maw.xml:567
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_11\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:572
+#: src-en/data/events_special_fish_maw.xml:573
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_12\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:574
+#: src-en/data/events_special_fish_maw.xml:575
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_12\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:580
+#: src-en/data/events_special_fish_maw.xml:581
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_13\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:582
+#: src-en/data/events_special_fish_maw.xml:583
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_13\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:588
+#: src-en/data/events_special_fish_maw.xml:589
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_14\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:590
+#: src-en/data/events_special_fish_maw.xml:591
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_14\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:596
+#: src-en/data/events_special_fish_maw.xml:597
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_15\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:598
+#: src-en/data/events_special_fish_maw.xml:599
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_15\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:604
+#: src-en/data/events_special_fish_maw.xml:605
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_16\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:606
+#: src-en/data/events_special_fish_maw.xml:607
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_16\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:612
+#: src-en/data/events_special_fish_maw.xml:613
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_17\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:614
+#: src-en/data/events_special_fish_maw.xml:615
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_17\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:620
+#: src-en/data/events_special_fish_maw.xml:621
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_18\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:622
+#: src-en/data/events_special_fish_maw.xml:623
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_18\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:628
+#: src-en/data/events_special_fish_maw.xml:629
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_19\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:630
+#: src-en/data/events_special_fish_maw.xml:631
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_19\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:636
+#: src-en/data/events_special_fish_maw.xml:637
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_10\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:638
+#: src-en/data/events_special_fish_maw.xml:639
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_10\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:646
+#: src-en/data/events_special_fish_maw.xml:647
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_21\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:648
+#: src-en/data/events_special_fish_maw.xml:649
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_21\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:654
+#: src-en/data/events_special_fish_maw.xml:655
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_22\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:656
+#: src-en/data/events_special_fish_maw.xml:657
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_22\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:662
+#: src-en/data/events_special_fish_maw.xml:663
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_23\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:664
+#: src-en/data/events_special_fish_maw.xml:665
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_23\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:670
+#: src-en/data/events_special_fish_maw.xml:671
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_24\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:672
+#: src-en/data/events_special_fish_maw.xml:673
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_24\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:678
+#: src-en/data/events_special_fish_maw.xml:679
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_25\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:680
+#: src-en/data/events_special_fish_maw.xml:681
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_25\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:686
+#: src-en/data/events_special_fish_maw.xml:687
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_26\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:688
+#: src-en/data/events_special_fish_maw.xml:689
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_26\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:694
+#: src-en/data/events_special_fish_maw.xml:695
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_27\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:696
+#: src-en/data/events_special_fish_maw.xml:697
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_27\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:702
+#: src-en/data/events_special_fish_maw.xml:703
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_28\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:704
+#: src-en/data/events_special_fish_maw.xml:705
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_28\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:710
+#: src-en/data/events_special_fish_maw.xml:711
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_29\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:712
+#: src-en/data/events_special_fish_maw.xml:713
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_29\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:718
+#: src-en/data/events_special_fish_maw.xml:719
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_20\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:720
+#: src-en/data/events_special_fish_maw.xml:721
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_20\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:728
+#: src-en/data/events_special_fish_maw.xml:729
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_31\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:730
+#: src-en/data/events_special_fish_maw.xml:731
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_31\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:736
+#: src-en/data/events_special_fish_maw.xml:737
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_32\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:738
+#: src-en/data/events_special_fish_maw.xml:739
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_32\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:744
+#: src-en/data/events_special_fish_maw.xml:745
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_33\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:746
+#: src-en/data/events_special_fish_maw.xml:747
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_33\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:752
+#: src-en/data/events_special_fish_maw.xml:753
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_34\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:754
+#: src-en/data/events_special_fish_maw.xml:755
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_34\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:760
+#: src-en/data/events_special_fish_maw.xml:761
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_35\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:762
+#: src-en/data/events_special_fish_maw.xml:763
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_35\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:768
+#: src-en/data/events_special_fish_maw.xml:769
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_36\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:770
+#: src-en/data/events_special_fish_maw.xml:771
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_36\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:776
+#: src-en/data/events_special_fish_maw.xml:777
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_37\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:778
+#: src-en/data/events_special_fish_maw.xml:779
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_37\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:786
+#: src-en/data/events_special_fish_maw.xml:787
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_41\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:788
+#: src-en/data/events_special_fish_maw.xml:789
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_41\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:794
+#: src-en/data/events_special_fish_maw.xml:795
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_42\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:796
+#: src-en/data/events_special_fish_maw.xml:797
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_42\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:802
+#: src-en/data/events_special_fish_maw.xml:803
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_43\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:804
+#: src-en/data/events_special_fish_maw.xml:805
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_43\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:810
+#: src-en/data/events_special_fish_maw.xml:811
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_44\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:812
+#: src-en/data/events_special_fish_maw.xml:813
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_44\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:818
+#: src-en/data/events_special_fish_maw.xml:819
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_45\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:820
+#: src-en/data/events_special_fish_maw.xml:821
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_45\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:826
+#: src-en/data/events_special_fish_maw.xml:827
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_46\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:828
+#: src-en/data/events_special_fish_maw.xml:829
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_46\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:834
+#: src-en/data/events_special_fish_maw.xml:835
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_47\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:836
+#: src-en/data/events_special_fish_maw.xml:837
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_47\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:842
+#: src-en/data/events_special_fish_maw.xml:843
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_48\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:844
+#: src-en/data/events_special_fish_maw.xml:845
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_48\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:850
+#: src-en/data/events_special_fish_maw.xml:851
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_49\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:852
+#: src-en/data/events_special_fish_maw.xml:853
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_49\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:858
+#: src-en/data/events_special_fish_maw.xml:859
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_40\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:860
+#: src-en/data/events_special_fish_maw.xml:861
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_40\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:866
+#: src-en/data/events_special_fish_maw.xml:867
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4A\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:868
+#: src-en/data/events_special_fish_maw.xml:869
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4A\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:874
+#: src-en/data/events_special_fish_maw.xml:875
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4B\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:876
+#: src-en/data/events_special_fish_maw.xml:877
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4B\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:882
+#: src-en/data/events_special_fish_maw.xml:883
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4C\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:884
+#: src-en/data/events_special_fish_maw.xml:885
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4C\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:890
+#: src-en/data/events_special_fish_maw.xml:891
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4D\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:892
+#: src-en/data/events_special_fish_maw.xml:893
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4D\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:898
+#: src-en/data/events_special_fish_maw.xml:899
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4E\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:900
+#: src-en/data/events_special_fish_maw.xml:901
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4E\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:907
+#: src-en/data/events_special_fish_maw.xml:908
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_LASER\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:909
+#: src-en/data/events_special_fish_maw.xml:910
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_LASER\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:915
+#: src-en/data/events_special_fish_maw.xml:916
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_ION\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:917
+#: src-en/data/events_special_fish_maw.xml:918
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_ION\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:923
+#: src-en/data/events_special_fish_maw.xml:924
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_FLAK\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:925
+#: src-en/data/events_special_fish_maw.xml:926
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_FLAK\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:931
+#: src-en/data/events_special_fish_maw.xml:932
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_BEAM\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:933
+#: src-en/data/events_special_fish_maw.xml:934
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_BEAM\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:939
+#: src-en/data/events_special_fish_maw.xml:940
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MINELAYER\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:941
+#: src-en/data/events_special_fish_maw.xml:942
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MINELAYER\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:947
+#: src-en/data/events_special_fish_maw.xml:948
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MISSILE_1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:949
+#: src-en/data/events_special_fish_maw.xml:950
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MISSILE_1\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:955
+#: src-en/data/events_special_fish_maw.xml:956
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MISSILE_2\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:957
+#: src-en/data/events_special_fish_maw.xml:958
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MISSILE_2\"]/event/text"
 msgstr "1"
 
-#: src-en/data/events_special_fish_maw.xml:965
+#: src-en/data/events_special_fish_maw.xml:966
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:969
+#: src-en/data/events_special_fish_maw.xml:970
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_1\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:975
+#: src-en/data/events_special_fish_maw.xml:976
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_2\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:979
+#: src-en/data/events_special_fish_maw.xml:980
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_2\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:985
+#: src-en/data/events_special_fish_maw.xml:986
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_3\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:989
+#: src-en/data/events_special_fish_maw.xml:990
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_3\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:995
+#: src-en/data/events_special_fish_maw.xml:996
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:999
+#: src-en/data/events_special_fish_maw.xml:1000
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1005
+#: src-en/data/events_special_fish_maw.xml:1006
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_5\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1009
+#: src-en/data/events_special_fish_maw.xml:1010
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_5\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1015
+#: src-en/data/events_special_fish_maw.xml:1016
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_6\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1019
+#: src-en/data/events_special_fish_maw.xml:1020
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_6\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1025
+#: src-en/data/events_special_fish_maw.xml:1026
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_7\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1029
+#: src-en/data/events_special_fish_maw.xml:1030
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_7\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1035
+#: src-en/data/events_special_fish_maw.xml:1036
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_8\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1039
+#: src-en/data/events_special_fish_maw.xml:1040
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_8\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1045
+#: src-en/data/events_special_fish_maw.xml:1046
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_9\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1049
+#: src-en/data/events_special_fish_maw.xml:1050
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_9\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1055
+#: src-en/data/events_special_fish_maw.xml:1056
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_0\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1059
+#: src-en/data/events_special_fish_maw.xml:1060
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_0\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1067
+#: src-en/data/events_special_fish_maw.xml:1068
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_11\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1071
+#: src-en/data/events_special_fish_maw.xml:1072
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_11\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1077
+#: src-en/data/events_special_fish_maw.xml:1078
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_12\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1081
+#: src-en/data/events_special_fish_maw.xml:1082
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_12\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1087
+#: src-en/data/events_special_fish_maw.xml:1088
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_13\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1091
+#: src-en/data/events_special_fish_maw.xml:1092
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_13\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1097
+#: src-en/data/events_special_fish_maw.xml:1098
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_14\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1101
+#: src-en/data/events_special_fish_maw.xml:1102
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_14\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1107
+#: src-en/data/events_special_fish_maw.xml:1108
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_15\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1111
+#: src-en/data/events_special_fish_maw.xml:1112
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_15\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1117
+#: src-en/data/events_special_fish_maw.xml:1118
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_16\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1121
+#: src-en/data/events_special_fish_maw.xml:1122
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_16\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1127
+#: src-en/data/events_special_fish_maw.xml:1128
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_17\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1131
+#: src-en/data/events_special_fish_maw.xml:1132
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_17\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1137
+#: src-en/data/events_special_fish_maw.xml:1138
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_18\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1141
+#: src-en/data/events_special_fish_maw.xml:1142
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_18\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1147
+#: src-en/data/events_special_fish_maw.xml:1148
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_19\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1151
+#: src-en/data/events_special_fish_maw.xml:1152
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_19\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1157
+#: src-en/data/events_special_fish_maw.xml:1158
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_10\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1161
+#: src-en/data/events_special_fish_maw.xml:1162
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_10\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1169
+#: src-en/data/events_special_fish_maw.xml:1170
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_21\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1173
+#: src-en/data/events_special_fish_maw.xml:1174
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_21\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1179
+#: src-en/data/events_special_fish_maw.xml:1180
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_22\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1183
+#: src-en/data/events_special_fish_maw.xml:1184
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_22\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1189
+#: src-en/data/events_special_fish_maw.xml:1190
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_23\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1193
+#: src-en/data/events_special_fish_maw.xml:1194
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_23\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1199
+#: src-en/data/events_special_fish_maw.xml:1200
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_24\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1203
+#: src-en/data/events_special_fish_maw.xml:1204
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_24\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1209
+#: src-en/data/events_special_fish_maw.xml:1210
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_25\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1213
+#: src-en/data/events_special_fish_maw.xml:1214
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_25\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1219
+#: src-en/data/events_special_fish_maw.xml:1220
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_26\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1223
+#: src-en/data/events_special_fish_maw.xml:1224
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_26\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1229
+#: src-en/data/events_special_fish_maw.xml:1230
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_27\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1233
+#: src-en/data/events_special_fish_maw.xml:1234
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_27\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1239
+#: src-en/data/events_special_fish_maw.xml:1240
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_28\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1243
+#: src-en/data/events_special_fish_maw.xml:1244
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_28\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1249
+#: src-en/data/events_special_fish_maw.xml:1250
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_29\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1253
+#: src-en/data/events_special_fish_maw.xml:1254
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_29\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1259
+#: src-en/data/events_special_fish_maw.xml:1260
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_20\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1263
+#: src-en/data/events_special_fish_maw.xml:1264
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_20\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1271
+#: src-en/data/events_special_fish_maw.xml:1272
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_31\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1275
+#: src-en/data/events_special_fish_maw.xml:1276
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_31\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1281
+#: src-en/data/events_special_fish_maw.xml:1282
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_32\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1285
+#: src-en/data/events_special_fish_maw.xml:1286
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_32\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1291
+#: src-en/data/events_special_fish_maw.xml:1292
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_33\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1295
+#: src-en/data/events_special_fish_maw.xml:1296
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_33\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1301
+#: src-en/data/events_special_fish_maw.xml:1302
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_34\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1305
+#: src-en/data/events_special_fish_maw.xml:1306
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_34\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1311
+#: src-en/data/events_special_fish_maw.xml:1312
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_35\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1315
+#: src-en/data/events_special_fish_maw.xml:1316
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_35\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1321
+#: src-en/data/events_special_fish_maw.xml:1322
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_36\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1325
+#: src-en/data/events_special_fish_maw.xml:1326
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_36\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1331
+#: src-en/data/events_special_fish_maw.xml:1332
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_37\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1335
+#: src-en/data/events_special_fish_maw.xml:1336
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_37\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1343
+#: src-en/data/events_special_fish_maw.xml:1344
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_41\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1347
+#: src-en/data/events_special_fish_maw.xml:1348
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_41\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1353
+#: src-en/data/events_special_fish_maw.xml:1354
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_42\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1357
+#: src-en/data/events_special_fish_maw.xml:1358
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_42\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1363
+#: src-en/data/events_special_fish_maw.xml:1364
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_43\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1367
+#: src-en/data/events_special_fish_maw.xml:1368
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_43\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1373
+#: src-en/data/events_special_fish_maw.xml:1374
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_44\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1377
+#: src-en/data/events_special_fish_maw.xml:1378
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_44\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1383
+#: src-en/data/events_special_fish_maw.xml:1384
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_45\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1387
+#: src-en/data/events_special_fish_maw.xml:1388
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_45\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1393
+#: src-en/data/events_special_fish_maw.xml:1394
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_46\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1397
+#: src-en/data/events_special_fish_maw.xml:1398
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_46\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1403
+#: src-en/data/events_special_fish_maw.xml:1404
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_47\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1407
+#: src-en/data/events_special_fish_maw.xml:1408
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_47\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1413
+#: src-en/data/events_special_fish_maw.xml:1414
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_48\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1417
+#: src-en/data/events_special_fish_maw.xml:1418
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_48\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1423
+#: src-en/data/events_special_fish_maw.xml:1424
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_49\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1427
+#: src-en/data/events_special_fish_maw.xml:1428
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_49\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1433
+#: src-en/data/events_special_fish_maw.xml:1434
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_40\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1437
+#: src-en/data/events_special_fish_maw.xml:1438
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_40\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1443
+#: src-en/data/events_special_fish_maw.xml:1444
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4A\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1447
+#: src-en/data/events_special_fish_maw.xml:1448
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4A\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1453
+#: src-en/data/events_special_fish_maw.xml:1454
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4B\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1457
+#: src-en/data/events_special_fish_maw.xml:1458
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4B\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1463
+#: src-en/data/events_special_fish_maw.xml:1464
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4C\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1467
+#: src-en/data/events_special_fish_maw.xml:1468
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4C\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1473
+#: src-en/data/events_special_fish_maw.xml:1474
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4D\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1477
+#: src-en/data/events_special_fish_maw.xml:1478
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4D\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1483
+#: src-en/data/events_special_fish_maw.xml:1484
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4E\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1487
+#: src-en/data/events_special_fish_maw.xml:1488
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4E\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1496
+#: src-en/data/events_special_fish_maw.xml:1497
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_LASER\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1500
+#: src-en/data/events_special_fish_maw.xml:1501
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_LASER\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1505
+#: src-en/data/events_special_fish_maw.xml:1506
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_ION\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1509
+#: src-en/data/events_special_fish_maw.xml:1510
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_ION\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1514
+#: src-en/data/events_special_fish_maw.xml:1515
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_FLAK\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1518
+#: src-en/data/events_special_fish_maw.xml:1519
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_FLAK\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1523
+#: src-en/data/events_special_fish_maw.xml:1524
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_BEAM\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1527
+#: src-en/data/events_special_fish_maw.xml:1528
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_BEAM\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1532
+#: src-en/data/events_special_fish_maw.xml:1533
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MINELAYER\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1536
+#: src-en/data/events_special_fish_maw.xml:1537
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MINELAYER\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1541
+#: src-en/data/events_special_fish_maw.xml:1542
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MISSILE_1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1545
+#: src-en/data/events_special_fish_maw.xml:1546
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MISSILE_1\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1550
+#: src-en/data/events_special_fish_maw.xml:1551
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MISSILE_2\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1554
+#: src-en/data/events_special_fish_maw.xml:1555
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MISSILE_2\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1562
+#: src-en/data/events_special_fish_maw.xml:1563
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_UNCOMMON\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1564
+#: src-en/data/events_special_fish_maw.xml:1565
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_UNCOMMON\"]/choice/text"
 msgstr "계속..."
 
-#: src-en/data/events_special_fish_maw.xml:1570
+#: src-en/data/events_special_fish_maw.xml:1571
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_RARE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_fish_maw.xml:1572
+#: src-en/data/events_special_fish_maw.xml:1573
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_RARE\"]/choice/text"
 msgstr "계속..."

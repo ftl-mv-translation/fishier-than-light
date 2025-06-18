@@ -5,785 +5,1078 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/hyperspace.xml.append:560
+#: src-en/data/hyperspace.xml.append:558
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_1\"]/name"
+msgstr "Big Catch"
+
+#: src-en/data/hyperspace.xml.append:559
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_1\"]/description"
 msgstr "Have your entire cargo full of fish."
 
-#: src-en/data/hyperspace.xml.append:566
+#: src-en/data/hyperspace.xml.append:564
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/name"
+msgstr "Master Baiter"
+
+#: src-en/data/hyperspace.xml.append:565
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/description"
 msgstr "Store 8 different types of bait internally on your ship."
 
-#: src-en/data/hyperspace.xml.append:573
+#: src-en/data/hyperspace.xml.append:571
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_3\"]/name"
+msgstr "Hold My Fishing Rod"
+
+#: src-en/data/hyperspace.xml.append:572
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_3\"]/description"
 msgstr "Successfully catch a fish during the fight with the rebel flagship."
 
-#: src-en/data/hyperspace.xml.append:591
+#: src-en/data/hyperspace.xml.append:589
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_1\"]/name"
+msgstr "Eliminating a Species"
+
+#: src-en/data/hyperspace.xml.append:590
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_1\"]/description"
 msgstr "Fish 4 times at the same beacon in combat."
 
-#: src-en/data/hyperspace.xml.append:597
+#: src-en/data/hyperspace.xml.append:595
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_2\"]/name"
+msgstr "Fish Overload"
+
+#: src-en/data/hyperspace.xml.append:596
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_2\"]/description"
 msgstr "Equip the double hook bait on an artillery harpoon."
 
-#: src-en/data/hyperspace.xml.append:603
+#: src-en/data/hyperspace.xml.append:601
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_3\"]/name"
+msgstr "Technically Fish"
+
+#: src-en/data/hyperspace.xml.append:602
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_3\"]/description"
 msgstr "Fish up 16 crew named fish during a run."
 
-#: src-en/data/hyperspace.xml.append:705
+#: src-en/data/hyperspace.xml.append:617
+msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Jimmy\"]/@name"
+msgstr "Jimmy"
+
+#: src-en/data/hyperspace.xml.append:618
+msgid "data/hyperspace.xml.append$//slug[@name=\"Jimmy Jr.\"]/@name"
+msgstr "Jimmy Jr."
+
+#: src-en/data/hyperspace.xml.append:636
+msgid "data/hyperspace.xml.append$//slug_saboteur[@name=\"Silas\"]/@name"
+msgstr "Silas"
+
+#: src-en/data/hyperspace.xml.append:637
+msgid "data/hyperspace.xml.append$//slug_saboteur[@name=\"Sylvester\"]/@name"
+msgstr "Sylvester"
+
+#: src-en/data/hyperspace.xml.append:648
+msgid "data/hyperspace.xml.append$//slug_clansman[@name=\"Bob\"]/@name"
+msgstr "Bob"
+
+#: src-en/data/hyperspace.xml.append:704
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[1]/customTitle"
 msgstr "FISH"
 
-#: src-en/data/hyperspace.xml.append:720
+#: src-en/data/hyperspace.xml.append:719
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[2]/customTitle"
 msgstr "FISH"
 
-#: src-en/data/hyperspace.xml.append:735
+#: src-en/data/hyperspace.xml.append:734
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[3]/customTitle"
 msgstr "FISH"
 
-#: src-en/data/hyperspace.xml.append:1310
+#: src-en/data/hyperspace.xml.append:1309
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[1]/@text"
 msgstr "Basic Fish"
 
-#: src-en/data/hyperspace.xml.append:1313
+#: src-en/data/hyperspace.xml.append:1311
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/name"
+msgstr "Orange Snapper"
+
+#: src-en/data/hyperspace.xml.append:1312
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/description"
 msgstr "Catch an Orange Snapper."
 
-#: src-en/data/hyperspace.xml.append:1314
+#: src-en/data/hyperspace.xml.append:1313
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1321
+#: src-en/data/hyperspace.xml.append:1319
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/name"
+msgstr "Red Emperor"
+
+#: src-en/data/hyperspace.xml.append:1320
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/description"
 msgstr "Catch a Red Emperor."
 
-#: src-en/data/hyperspace.xml.append:1322
+#: src-en/data/hyperspace.xml.append:1321
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1329
+#: src-en/data/hyperspace.xml.append:1327
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/name"
+msgstr "Striped Coral Trout"
+
+#: src-en/data/hyperspace.xml.append:1328
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/description"
 msgstr "Catch a Striped Coral Trout."
 
-#: src-en/data/hyperspace.xml.append:1330
+#: src-en/data/hyperspace.xml.append:1329
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1337
+#: src-en/data/hyperspace.xml.append:1335
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/name"
+msgstr "Spotted Mackerel"
+
+#: src-en/data/hyperspace.xml.append:1336
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/description"
 msgstr "Catch a Spotted Mackerel."
 
-#: src-en/data/hyperspace.xml.append:1338
+#: src-en/data/hyperspace.xml.append:1337
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1345
+#: src-en/data/hyperspace.xml.append:1343
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/name"
+msgstr "Estuary Rockcod"
+
+#: src-en/data/hyperspace.xml.append:1344
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/description"
 msgstr "Catch an Estuary Rockcod."
 
-#: src-en/data/hyperspace.xml.append:1346
+#: src-en/data/hyperspace.xml.append:1345
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1353
+#: src-en/data/hyperspace.xml.append:1351
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/name"
+msgstr "Blue Threadfin"
+
+#: src-en/data/hyperspace.xml.append:1352
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/description"
 msgstr "Catch a Blue Threadfin."
 
-#: src-en/data/hyperspace.xml.append:1354
+#: src-en/data/hyperspace.xml.append:1353
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1361
+#: src-en/data/hyperspace.xml.append:1359
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/name"
+msgstr "Rock Blackfish"
+
+#: src-en/data/hyperspace.xml.append:1360
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/description"
 msgstr "Catch a Rock Blackfish."
 
-#: src-en/data/hyperspace.xml.append:1362
+#: src-en/data/hyperspace.xml.append:1361
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1369
+#: src-en/data/hyperspace.xml.append:1367
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/name"
+msgstr "Longtail Tuna"
+
+#: src-en/data/hyperspace.xml.append:1368
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/description"
 msgstr "Catch a Longtail Tuna."
 
-#: src-en/data/hyperspace.xml.append:1370
+#: src-en/data/hyperspace.xml.append:1369
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1377
+#: src-en/data/hyperspace.xml.append:1375
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/name"
+msgstr "Reef Octopus"
+
+#: src-en/data/hyperspace.xml.append:1376
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/description"
 msgstr "Catch a Reef Octopus."
 
-#: src-en/data/hyperspace.xml.append:1378
+#: src-en/data/hyperspace.xml.append:1377
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1385
+#: src-en/data/hyperspace.xml.append:1383
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/name"
+msgstr "Eagle Ray"
+
+#: src-en/data/hyperspace.xml.append:1384
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/description"
 msgstr "Catch a Eagle Ray."
 
-#: src-en/data/hyperspace.xml.append:1386
+#: src-en/data/hyperspace.xml.append:1385
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1393
+#: src-en/data/hyperspace.xml.append:1392
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[2]/@text"
 msgstr "Uncommon Fish"
 
-#: src-en/data/hyperspace.xml.append:1396
+#: src-en/data/hyperspace.xml.append:1394
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/name"
+msgstr "Doublefin Eel"
+
+#: src-en/data/hyperspace.xml.append:1395
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/description"
 msgstr "Catch a Doublefin Eel."
 
-#: src-en/data/hyperspace.xml.append:1397
+#: src-en/data/hyperspace.xml.append:1396
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1404
+#: src-en/data/hyperspace.xml.append:1402
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/name"
+msgstr "Blue Eel"
+
+#: src-en/data/hyperspace.xml.append:1403
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/description"
 msgstr "Catch a Blue Eel."
 
-#: src-en/data/hyperspace.xml.append:1405
+#: src-en/data/hyperspace.xml.append:1404
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1412
+#: src-en/data/hyperspace.xml.append:1410
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/name"
+msgstr "Yellowfin Sunfish"
+
+#: src-en/data/hyperspace.xml.append:1411
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/description"
 msgstr "Catch a Yellowfin Sunfish."
 
-#: src-en/data/hyperspace.xml.append:1413
+#: src-en/data/hyperspace.xml.append:1412
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1420
+#: src-en/data/hyperspace.xml.append:1418
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/name"
+msgstr "Big Eye Tuna"
+
+#: src-en/data/hyperspace.xml.append:1419
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/description"
 msgstr "Catch a Big Eye Tuna."
 
-#: src-en/data/hyperspace.xml.append:1421
+#: src-en/data/hyperspace.xml.append:1420
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1428
+#: src-en/data/hyperspace.xml.append:1426
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/name"
+msgstr "Spotted Barracuda"
+
+#: src-en/data/hyperspace.xml.append:1427
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/description"
 msgstr "Catch a Spotted Barracuda."
 
-#: src-en/data/hyperspace.xml.append:1429
+#: src-en/data/hyperspace.xml.append:1428
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1436
+#: src-en/data/hyperspace.xml.append:1434
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/name"
+msgstr "Brown Trout"
+
+#: src-en/data/hyperspace.xml.append:1435
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/description"
 msgstr "Catch a Brown Trout."
 
-#: src-en/data/hyperspace.xml.append:1437
+#: src-en/data/hyperspace.xml.append:1436
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1444
+#: src-en/data/hyperspace.xml.append:1442
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/name"
+msgstr "Goatfish"
+
+#: src-en/data/hyperspace.xml.append:1443
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/description"
 msgstr "Catch a Goatfish."
 
-#: src-en/data/hyperspace.xml.append:1445
+#: src-en/data/hyperspace.xml.append:1444
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1452
+#: src-en/data/hyperspace.xml.append:1450
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/name"
+msgstr "Coronation Trout"
+
+#: src-en/data/hyperspace.xml.append:1451
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/description"
 msgstr "Catch a Coronation Trout."
 
-#: src-en/data/hyperspace.xml.append:1453
+#: src-en/data/hyperspace.xml.append:1452
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1460
+#: src-en/data/hyperspace.xml.append:1458
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/name"
+msgstr "Yellowfin Kingfish"
+
+#: src-en/data/hyperspace.xml.append:1459
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/description"
 msgstr "Catch a Yellowfin Kingfish."
 
-#: src-en/data/hyperspace.xml.append:1461
+#: src-en/data/hyperspace.xml.append:1460
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1468
+#: src-en/data/hyperspace.xml.append:1466
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/name"
+msgstr "Rainbow Trout"
+
+#: src-en/data/hyperspace.xml.append:1467
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/description"
 msgstr "Catch a Rainbow Trout."
 
-#: src-en/data/hyperspace.xml.append:1469
+#: src-en/data/hyperspace.xml.append:1468
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1476
+#: src-en/data/hyperspace.xml.append:1475
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[3]/@text"
 msgstr "Rare Fish"
 
-#: src-en/data/hyperspace.xml.append:1479
+#: src-en/data/hyperspace.xml.append:1477
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/name"
+msgstr "Coho Salmon"
+
+#: src-en/data/hyperspace.xml.append:1478
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/description"
 msgstr "Catch a Coho Salmon."
 
-#: src-en/data/hyperspace.xml.append:1480
+#: src-en/data/hyperspace.xml.append:1479
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1487
+#: src-en/data/hyperspace.xml.append:1485
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/name"
+msgstr "Roosterfish"
+
+#: src-en/data/hyperspace.xml.append:1486
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/description"
 msgstr "Catch a Roosterfish."
 
-#: src-en/data/hyperspace.xml.append:1488
+#: src-en/data/hyperspace.xml.append:1487
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1495
+#: src-en/data/hyperspace.xml.append:1493
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/name"
+msgstr "Yellowfin Salmon"
+
+#: src-en/data/hyperspace.xml.append:1494
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/description"
 msgstr "Catch a Yellowfin Salmon."
 
-#: src-en/data/hyperspace.xml.append:1496
+#: src-en/data/hyperspace.xml.append:1495
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1503
+#: src-en/data/hyperspace.xml.append:1501
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/name"
+msgstr "Flathead Catfish"
+
+#: src-en/data/hyperspace.xml.append:1502
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/description"
 msgstr "Catch a Flathead Catfish."
 
-#: src-en/data/hyperspace.xml.append:1504
+#: src-en/data/hyperspace.xml.append:1503
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1511
+#: src-en/data/hyperspace.xml.append:1509
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/name"
+msgstr "Golden Bream"
+
+#: src-en/data/hyperspace.xml.append:1510
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/description"
 msgstr "Catch a Golden Bream."
 
-#: src-en/data/hyperspace.xml.append:1512
+#: src-en/data/hyperspace.xml.append:1511
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1519
+#: src-en/data/hyperspace.xml.append:1517
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/name"
+msgstr "Black Cobia"
+
+#: src-en/data/hyperspace.xml.append:1518
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/description"
 msgstr "Catch a Black Cobia."
 
-#: src-en/data/hyperspace.xml.append:1520
+#: src-en/data/hyperspace.xml.append:1519
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1527
+#: src-en/data/hyperspace.xml.append:1525
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/name"
+msgstr "Wisdomfish"
+
+#: src-en/data/hyperspace.xml.append:1526
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/description"
 msgstr "Catch a Wisdomfish."
 
-#: src-en/data/hyperspace.xml.append:1528
+#: src-en/data/hyperspace.xml.append:1527
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1535
+#: src-en/data/hyperspace.xml.append:1533
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/name"
+msgstr "Golden Trout"
+
+#: src-en/data/hyperspace.xml.append:1534
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/description"
 msgstr "Catch a Golden Trout."
 
-#: src-en/data/hyperspace.xml.append:1536
+#: src-en/data/hyperspace.xml.append:1535
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1543
+#: src-en/data/hyperspace.xml.append:1541
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/name"
+msgstr "Channel Catfish"
+
+#: src-en/data/hyperspace.xml.append:1542
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/description"
 msgstr "Catch a Channel Catfish."
 
-#: src-en/data/hyperspace.xml.append:1544
+#: src-en/data/hyperspace.xml.append:1543
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1551
+#: src-en/data/hyperspace.xml.append:1549
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/name"
+msgstr "Common Sturgeon"
+
+#: src-en/data/hyperspace.xml.append:1550
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/description"
 msgstr "Catch a Common Sturgeon."
 
-#: src-en/data/hyperspace.xml.append:1552
+#: src-en/data/hyperspace.xml.append:1551
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1559
+#: src-en/data/hyperspace.xml.append:1558
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[4]/@text"
 msgstr "Legendary Fish"
 
-#: src-en/data/hyperspace.xml.append:1562
+#: src-en/data/hyperspace.xml.append:1560
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/name"
+msgstr "Queenfish"
+
+#: src-en/data/hyperspace.xml.append:1561
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/description"
 msgstr "Catch a Queenfish."
 
-#: src-en/data/hyperspace.xml.append:1563
+#: src-en/data/hyperspace.xml.append:1562
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1570
+#: src-en/data/hyperspace.xml.append:1568
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/name"
+msgstr "Mahi Mahi"
+
+#: src-en/data/hyperspace.xml.append:1569
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/description"
 msgstr "Catch a Mahi Mahi."
 
-#: src-en/data/hyperspace.xml.append:1571
+#: src-en/data/hyperspace.xml.append:1570
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1578
+#: src-en/data/hyperspace.xml.append:1576
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/name"
+msgstr "Shorefish"
+
+#: src-en/data/hyperspace.xml.append:1577
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/description"
 msgstr "Catch a Shorefish."
 
-#: src-en/data/hyperspace.xml.append:1579
+#: src-en/data/hyperspace.xml.append:1578
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1586
+#: src-en/data/hyperspace.xml.append:1584
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/name"
+msgstr "Grouper"
+
+#: src-en/data/hyperspace.xml.append:1585
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/description"
 msgstr "Catch a Grouper."
 
-#: src-en/data/hyperspace.xml.append:1587
+#: src-en/data/hyperspace.xml.append:1586
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1594
+#: src-en/data/hyperspace.xml.append:1592
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/name"
+msgstr "Bluefish"
+
+#: src-en/data/hyperspace.xml.append:1593
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/description"
 msgstr "Catch a Bluefish."
 
-#: src-en/data/hyperspace.xml.append:1595
+#: src-en/data/hyperspace.xml.append:1594
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1602
+#: src-en/data/hyperspace.xml.append:1600
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/name"
+msgstr "Arapaima"
+
+#: src-en/data/hyperspace.xml.append:1601
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/description"
 msgstr "Catch a Arapaima."
 
-#: src-en/data/hyperspace.xml.append:1603
+#: src-en/data/hyperspace.xml.append:1602
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1610
+#: src-en/data/hyperspace.xml.append:1608
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/name"
+msgstr "Blue Marlin"
+
+#: src-en/data/hyperspace.xml.append:1609
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/description"
 msgstr "Catch a Blue Marlin."
 
-#: src-en/data/hyperspace.xml.append:1611
+#: src-en/data/hyperspace.xml.append:1610
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1618
+#: src-en/data/hyperspace.xml.append:1617
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[5]/@text"
 msgstr "Unique Fish"
 
-#: src-en/data/hyperspace.xml.append:1621
+#: src-en/data/hyperspace.xml.append:1619
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/name"
+msgstr "Alliance Fish"
+
+#: src-en/data/hyperspace.xml.append:1620
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1622
+#: src-en/data/hyperspace.xml.append:1621
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/secretDescription"
 msgstr "Catch a unique fish from the Federation Droppoint."
 
-#: src-en/data/hyperspace.xml.append:1623
+#: src-en/data/hyperspace.xml.append:1622
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/description"
 msgstr "Catch a Alliance Fish."
 
-#: src-en/data/hyperspace.xml.append:1624
+#: src-en/data/hyperspace.xml.append:1623
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1632
+#: src-en/data/hyperspace.xml.append:1630
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/name"
+msgstr "Commando Fish"
+
+#: src-en/data/hyperspace.xml.append:1631
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1633
+#: src-en/data/hyperspace.xml.append:1632
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/secretDescription"
 msgstr "Catch a unique fish from a Civilian sector."
 
-#: src-en/data/hyperspace.xml.append:1634
+#: src-en/data/hyperspace.xml.append:1633
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/description"
 msgstr "Catch a Commando Fish."
 
-#: src-en/data/hyperspace.xml.append:1635
+#: src-en/data/hyperspace.xml.append:1634
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1643
+#: src-en/data/hyperspace.xml.append:1641
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/name"
+msgstr "Harmony Fish"
+
+#: src-en/data/hyperspace.xml.append:1642
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1644
+#: src-en/data/hyperspace.xml.append:1643
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/secretDescription"
 msgstr "Catch a unique fish from an Engi sector."
 
-#: src-en/data/hyperspace.xml.append:1645
+#: src-en/data/hyperspace.xml.append:1644
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/description"
 msgstr "Catch a Harmony Fish."
 
-#: src-en/data/hyperspace.xml.append:1646
+#: src-en/data/hyperspace.xml.append:1645
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1654
+#: src-en/data/hyperspace.xml.append:1652
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/name"
+msgstr "Energy Fish"
+
+#: src-en/data/hyperspace.xml.append:1653
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1655
+#: src-en/data/hyperspace.xml.append:1654
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/secretDescription"
 msgstr "Catch a unique fish from a Zoltan sector."
 
-#: src-en/data/hyperspace.xml.append:1656
+#: src-en/data/hyperspace.xml.append:1655
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/description"
 msgstr "Catch an Energy Fish."
 
-#: src-en/data/hyperspace.xml.append:1657
+#: src-en/data/hyperspace.xml.append:1656
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1665
+#: src-en/data/hyperspace.xml.append:1663
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/name"
+msgstr "Kelp Fish"
+
+#: src-en/data/hyperspace.xml.append:1664
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1666
+#: src-en/data/hyperspace.xml.append:1665
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/secretDescription"
 msgstr "Catch a unique fish from an Orchid sector."
 
-#: src-en/data/hyperspace.xml.append:1667
+#: src-en/data/hyperspace.xml.append:1666
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/description"
 msgstr "Catch a Kelp Fish."
 
-#: src-en/data/hyperspace.xml.append:1668
+#: src-en/data/hyperspace.xml.append:1667
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1676
+#: src-en/data/hyperspace.xml.append:1674
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/name"
+msgstr "Mantis Fish"
+
+#: src-en/data/hyperspace.xml.append:1675
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1677
+#: src-en/data/hyperspace.xml.append:1676
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/secretDescription"
 msgstr "Catch a unique fish from a Mantis sector."
 
-#: src-en/data/hyperspace.xml.append:1678
+#: src-en/data/hyperspace.xml.append:1677
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/description"
 msgstr "Catch a Mantis Fish."
 
-#: src-en/data/hyperspace.xml.append:1679
+#: src-en/data/hyperspace.xml.append:1678
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1687
+#: src-en/data/hyperspace.xml.append:1685
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/name"
+msgstr "Ice Fish"
+
+#: src-en/data/hyperspace.xml.append:1686
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1688
+#: src-en/data/hyperspace.xml.append:1687
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/secretDescription"
 msgstr "Catch a unique fish from a Crystal sector."
 
-#: src-en/data/hyperspace.xml.append:1689
+#: src-en/data/hyperspace.xml.append:1688
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/description"
 msgstr "Catch an Ice Fish."
 
-#: src-en/data/hyperspace.xml.append:1690
+#: src-en/data/hyperspace.xml.append:1689
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1698
+#: src-en/data/hyperspace.xml.append:1696
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/name"
+msgstr "Stone Fish"
+
+#: src-en/data/hyperspace.xml.append:1697
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1699
+#: src-en/data/hyperspace.xml.append:1698
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/secretDescription"
 msgstr "Catch a unique fish from a Rock sector."
 
-#: src-en/data/hyperspace.xml.append:1700
+#: src-en/data/hyperspace.xml.append:1699
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/description"
 msgstr "Catch a Stone Fish."
 
-#: src-en/data/hyperspace.xml.append:1701
+#: src-en/data/hyperspace.xml.append:1700
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1709
+#: src-en/data/hyperspace.xml.append:1707
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/name"
+msgstr "Insurgent Fish"
+
+#: src-en/data/hyperspace.xml.append:1708
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1710
+#: src-en/data/hyperspace.xml.append:1709
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/secretDescription"
 msgstr "Catch a unique fish from a Rebel sector."
 
-#: src-en/data/hyperspace.xml.append:1711
+#: src-en/data/hyperspace.xml.append:1710
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/description"
 msgstr "Catch an Insurgent Fish."
 
-#: src-en/data/hyperspace.xml.append:1712
+#: src-en/data/hyperspace.xml.append:1711
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1720
+#: src-en/data/hyperspace.xml.append:1718
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/name"
+msgstr "Thief Fish"
+
+#: src-en/data/hyperspace.xml.append:1719
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1721
+#: src-en/data/hyperspace.xml.append:1720
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/secretDescription"
 msgstr "Catch a unique fish from a Pirate sector."
 
-#: src-en/data/hyperspace.xml.append:1722
+#: src-en/data/hyperspace.xml.append:1721
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/description"
 msgstr "Catch a Thief Fish."
 
-#: src-en/data/hyperspace.xml.append:1723
+#: src-en/data/hyperspace.xml.append:1722
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1731
+#: src-en/data/hyperspace.xml.append:1729
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/name"
+msgstr "Anaerobic Fish"
+
+#: src-en/data/hyperspace.xml.append:1730
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1732
+#: src-en/data/hyperspace.xml.append:1731
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/secretDescription"
 msgstr "Catch a unique fish from a Lanius or Ghost sector."
 
-#: src-en/data/hyperspace.xml.append:1733
+#: src-en/data/hyperspace.xml.append:1732
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/description"
 msgstr "Catch an Anaerobic Fish."
 
-#: src-en/data/hyperspace.xml.append:1734
+#: src-en/data/hyperspace.xml.append:1733
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1742
+#: src-en/data/hyperspace.xml.append:1740
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/name"
+msgstr "Slug Ray"
+
+#: src-en/data/hyperspace.xml.append:1741
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1743
+#: src-en/data/hyperspace.xml.append:1742
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/secretDescription"
 msgstr "Catch a unique fish from a Lanius or Ghost sector."
 
-#: src-en/data/hyperspace.xml.append:1744
+#: src-en/data/hyperspace.xml.append:1743
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/description"
 msgstr "Catch a Slug Ray."
 
-#: src-en/data/hyperspace.xml.append:1745
+#: src-en/data/hyperspace.xml.append:1744
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1753
+#: src-en/data/hyperspace.xml.append:1751
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/name"
+msgstr "Leech?"
+
+#: src-en/data/hyperspace.xml.append:1752
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1754
+#: src-en/data/hyperspace.xml.append:1753
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/secretDescription"
 msgstr "Catch a unique fish from a Leech sector."
 
-#: src-en/data/hyperspace.xml.append:1755
+#: src-en/data/hyperspace.xml.append:1754
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/description"
 msgstr "Catch a Leech?"
 
-#: src-en/data/hyperspace.xml.append:1756
+#: src-en/data/hyperspace.xml.append:1755
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1764
+#: src-en/data/hyperspace.xml.append:1762
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/name"
+msgstr "Ancient Fish"
+
+#: src-en/data/hyperspace.xml.append:1763
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/secretName"
 msgstr "??? Fish"
 
-#: src-en/data/hyperspace.xml.append:1765
+#: src-en/data/hyperspace.xml.append:1764
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/secretDescription"
 msgstr "Catch a unique fish from a ??? sector."
 
-#: src-en/data/hyperspace.xml.append:1766
+#: src-en/data/hyperspace.xml.append:1765
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/description"
 msgstr "Catch a Ancient Fish."
 
-#: src-en/data/hyperspace.xml.append:1767
+#: src-en/data/hyperspace.xml.append:1766
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1775
+#: src-en/data/hyperspace.xml.append:1773
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/name"
+msgstr "Sylfin"
+
+#: src-en/data/hyperspace.xml.append:1774
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/secretName"
 msgstr "??????"
 
-#: src-en/data/hyperspace.xml.append:1776
+#: src-en/data/hyperspace.xml.append:1775
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/secretDescription"
 msgstr "Catch ?????? from the ?????."
 
-#: src-en/data/hyperspace.xml.append:1777
+#: src-en/data/hyperspace.xml.append:1776
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/description"
 msgstr "Catch Sylfin."
 
-#: src-en/data/hyperspace.xml.append:1778
+#: src-en/data/hyperspace.xml.append:1777
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1786
+#: src-en/data/hyperspace.xml.append:1785
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[6]/@text"
 msgstr "Fish Guns"
 
-#: src-en/data/hyperspace.xml.append:1789
+#: src-en/data/hyperspace.xml.append:1787
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/name"
+msgstr "Laserfish"
+
+#: src-en/data/hyperspace.xml.append:1788
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/description"
 msgstr "Catch a Laserfish."
 
-#: src-en/data/hyperspace.xml.append:1790
+#: src-en/data/hyperspace.xml.append:1789
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1797
+#: src-en/data/hyperspace.xml.append:1795
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/name"
+msgstr "Shockfish"
+
+#: src-en/data/hyperspace.xml.append:1796
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/description"
 msgstr "Catch a Shockfish."
 
-#: src-en/data/hyperspace.xml.append:1798
+#: src-en/data/hyperspace.xml.append:1797
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1805
+#: src-en/data/hyperspace.xml.append:1803
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/name"
+msgstr "Scatterfish"
+
+#: src-en/data/hyperspace.xml.append:1804
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/description"
 msgstr "Catch a Scatterfish."
 
-#: src-en/data/hyperspace.xml.append:1806
+#: src-en/data/hyperspace.xml.append:1805
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1813
+#: src-en/data/hyperspace.xml.append:1811
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/name"
+msgstr "Beamfin fish"
+
+#: src-en/data/hyperspace.xml.append:1812
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/description"
 msgstr "Catch a Beamfin fish."
 
-#: src-en/data/hyperspace.xml.append:1814
+#: src-en/data/hyperspace.xml.append:1813
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1821
+#: src-en/data/hyperspace.xml.append:1819
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/name"
+msgstr "Magnetfish"
+
+#: src-en/data/hyperspace.xml.append:1820
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/description"
 msgstr "Catch a Magnetfish."
 
-#: src-en/data/hyperspace.xml.append:1822
+#: src-en/data/hyperspace.xml.append:1821
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1829
+#: src-en/data/hyperspace.xml.append:1827
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/name"
+msgstr "Breachfish"
+
+#: src-en/data/hyperspace.xml.append:1828
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/description"
 msgstr "Catch a Breachfish."
 
-#: src-en/data/hyperspace.xml.append:1830
+#: src-en/data/hyperspace.xml.append:1829
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1837
+#: src-en/data/hyperspace.xml.append:1835
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/name"
+msgstr "Sailfish"
+
+#: src-en/data/hyperspace.xml.append:1836
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/description"
 msgstr "Catch a Sailfish."
 
-#: src-en/data/hyperspace.xml.append:1838
+#: src-en/data/hyperspace.xml.append:1837
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/header"
 msgstr "Fish Caught!"
 
-#: src-en/data/hyperspace.xml.append:1844
+#: src-en/data/hyperspace.xml.append:1843
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[7]/@text"
 msgstr "Fish Boon"
 
-#: src-en/data/hyperspace.xml.append:1847
+#: src-en/data/hyperspace.xml.append:1845
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/name"
+msgstr "Blessing of Fish"
+
+#: src-en/data/hyperspace.xml.append:1846
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/secretDescription"
 msgstr "Receive the Blessing of Fish from Wakeson."
 
-#: src-en/data/hyperspace.xml.append:1848
+#: src-en/data/hyperspace.xml.append:1847
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/description"
 msgstr ""
 "Show a fish to Wakeson. \n"
 "\t\t\t\tWhile in effect; You will no longer fish up junk."
 
-#: src-en/data/hyperspace.xml.append:1850
+#: src-en/data/hyperspace.xml.append:1849
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/header"
 msgstr "Blessing Received"

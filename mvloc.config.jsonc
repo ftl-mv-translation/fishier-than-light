@@ -53,7 +53,7 @@
         "//eventButton/tooltip",
         "//eventButton/inactiveTooltip",
         "//mod:findName/mod-append:backgroundObject/tooltip",
-		"//mod-append:customShip/crew/@name",
+		"//mod-append:customShip/crew/*/@name",
 
         "//customStore/category/customTitle",
         "//achievements/page/section/@text",
