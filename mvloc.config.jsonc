@@ -6,6 +6,7 @@
 		"data/blueprints.xml.append",
 
 		"data/events_special_boons.xml.append",
+		"data/events_addon_icon.xml.append",
 		"data/events_special_fish_maw.xml",
 		"data/events_special_fish_maw_up_1.xml",
 		"data/events_special_fish_maw_up_2_1.xml",
@@ -52,6 +53,7 @@
         "//eventButton/tooltip",
         "//eventButton/inactiveTooltip",
         "//mod:findName/mod-append:backgroundObject/tooltip",
+		"//mod-append:customShip/crew/@name",
 
         "//customStore/category/customTitle",
         "//achievements/page/section/@text",
@@ -92,9 +94,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/fishier-than-light/raw/fishier-than-light-english/Fishing_v1.2.2.zip",
+            "https://github.com/ftl-mv-translation/fishier-than-light/raw/fishier-than-light-english/Fishing_v1.2.3.zip",
         ],
         "prefix": "Fishing-Than-Light",
-        "version": "1.2.2"
+        "version": "1.2.3"
     }
 }
