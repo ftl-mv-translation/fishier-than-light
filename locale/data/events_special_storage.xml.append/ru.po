@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-14 07:59+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-06-18 16:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "fishier-than-light/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -214,8 +214,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_2_P\"]/text"
 msgstr ""
-"Улучшить свой энергоэффективный Гарпун мод. II до энергоэффективного Гарпуна"
-" мод. III†. -100~"
+"Улучшить свой энергоэффективный Гарпун мод. II до энергоэффективного Гарпуна "
+"мод. III†. -100~"
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
@@ -548,7 +548,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_41\"]/event/text"
 msgstr ""
 "[ДУРНАЯ СЛАВА ПОНИЖЕНА Х5 - ОБЩЕЕ]\n"
-"      Вы совершили доброе дело в глазах Федерации. Если вы обрели дурную славу за проступки до этого, вас, скорее всего, простят за них."
+"      Вы совершили доброе дело в глазах Федерации. Если вы обрели дурную "
+"славу за проступки до этого, вас, скорее всего, простят за них."
 
 #: src-en/data/events_special_storage.xml.append:605
 msgid ""
@@ -570,15 +571,15 @@ msgstr "Приготовить Рыба гармонии. (+50% к здоров�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_44\"]/text"
 msgstr ""
-"Приготовить Энергорыба. (-1 энергия к вашему оружию, начиная с первого слота"
-" оружия)"
+"Приготовить Энергорыба. (-1 энергия к вашему оружию, начиная с первого слота "
+"оружия)"
 
 #: src-en/data/events_special_storage.xml.append:635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_45\"]/text"
 msgstr ""
-"Приготовить Рыба-ламинария. (2х урон от удушья, снимает иммунитет противника"
-" к удушью)"
+"Приготовить Рыба-ламинария. (2х урон от удушья, снимает иммунитет противника "
+"к удушью)"
 
 #: src-en/data/events_special_storage.xml.append:643
 msgid ""
@@ -591,8 +592,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_47\"]/text"
 msgstr ""
-"Приготовить Ледяная рыба. (Экипаж порождает осколки кристаллов при попадании"
-" в них из корабельного оружия)"
+"Приготовить Ледяная рыба. (Экипаж порождает осколки кристаллов при попадании "
+"в них из корабельного оружия)"
 
 #: src-en/data/events_special_storage.xml.append:659
 msgid ""
@@ -2392,8 +2393,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_REPEL\"]/text"
 msgstr ""
-"Отпугиватель рыб. (Отпугивает рыб низкой сложности при использовании гарпуна"
-" повышенной силы)"
+"Отпугиватель рыб. (Отпугивает рыб низкой сложности при использовании гарпуна "
+"повышенной силы)"
 
 #: src-en/data/events_special_storage.xml.append:2025
 msgid ""
@@ -2409,8 +2410,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_SPEED\"]/text"
 msgstr ""
-"Быстрая катушка. (Рыба ловится в 1.8х быстрее, но и теряется в 1.5х "
-"быстрее))"
+"Быстрая катушка. (Рыба ловится в 1.8х быстрее, но и теряется в 1.5х быстрее))"
 
 #: src-en/data/events_special_storage.xml.append:2062
 msgid ""
@@ -2581,8 +2581,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_23\"]/text"
 msgstr ""
-"На данный момент используется наживка: Без пушек и уникальных рыб/Без "
-"экипажа"
+"На данный момент используется наживка: Без пушек и уникальных рыб/Без экипажа"
 
 #: src-en/data/events_special_storage.xml.append:2208
 msgid ""
@@ -2613,8 +2612,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_31\"]/text"
 msgstr ""
-"На данный момент используется наживка: Без лома/Меньше обычных рыб/Без пушек"
-" и уникальных рыб"
+"На данный момент используется наживка: Без лома/Меньше обычных рыб/Без пушек "
+"и уникальных рыб"
 
 #: src-en/data/events_special_storage.xml.append:2233
 msgid ""
