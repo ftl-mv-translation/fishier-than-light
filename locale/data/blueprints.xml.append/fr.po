@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 21:46+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
+"datablueprintsxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:5
 msgid ""
@@ -36,6 +43,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+36% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:86
 msgid ""
@@ -51,6 +62,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+100 Vitesse de projectile\n"
+"\t\t+100% Chance d'étourdissement\n"
+"\t\t+20% Bonus de précision"
 
 #: src-en/data/blueprints.xml.append:132
 msgid ""
@@ -66,6 +82,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+45 Dégâts à l'équipage\n"
+"\t\t+20% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:175
 msgid ""
@@ -81,6 +101,13 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+36% Chances de trou dans la coque\n"
+"\t\t+100 Vitesse de projectile\n"
+"\t\t+100% Chance d'étourdissement\n"
+"\t\t+20% Bonus de précision"
 
 #: src-en/data/blueprints.xml.append:223
 msgid ""
@@ -96,6 +123,13 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+100 Vitesse de projectile\n"
+"\t\t+100% Chance d'étourdissement\n"
+"\t\t+20% Bonus de précision\n"
+"\t\t+45 Dégâts à l'équipage\n"
+"\t\t+20% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:272
 msgid ""
@@ -111,6 +145,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+36% Chances de trou dans la coque\n"
+"\t\t+45 Dégâts à l'équipage\n"
+"\t\t+20% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:317
 msgid ""
@@ -126,6 +166,15 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_1_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+36% Chances de trou dans la coque\n"
+"\t\t+100 Vitesse de projectile\n"
+"\t\t+100% Chance d'étourdissement\n"
+"\t\t+20% Bonus de précision\n"
+"\t\t+45 Dégâts à l'équipage\n"
+"\t\t+20% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:370
 msgid ""
@@ -158,6 +207,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tirs par rafale\n"
+"\t\t+1s Temps de recharge"
 
 #: src-en/data/blueprints.xml.append:451
 msgid ""
@@ -173,6 +226,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+110 Vitesse de projectile"
 
 #: src-en/data/blueprints.xml.append:494
 msgid ""
@@ -188,6 +245,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+50% Chances de feu\n"
+"\t\t+50% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:540
 msgid ""
@@ -203,6 +266,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tirs par rafale\n"
+"\t\t+1s Temps de recharge\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+110 Vitesse de projectile"
 
 #: src-en/data/blueprints.xml.append:585
 msgid ""
@@ -218,6 +287,14 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+110 Vitesse de projectile\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+50% Chances de feu\n"
+"\t\t+50% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:634
 msgid ""
@@ -233,6 +310,14 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tirs par rafale\n"
+"\t\t+1s Temps de recharge\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+50% Chances de feu\n"
+"\t\t+50% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:682
 msgid ""
@@ -248,6 +333,16 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_1_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tirs par rafale\n"
+"\t\t+1s Temps de recharge\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+110 Vitesse de projectile\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+50% Chances de feu\n"
+"\t\t+50% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:735
 msgid ""
@@ -280,6 +375,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât"
 
 #: src-en/data/blueprints.xml.append:817
 msgid ""
@@ -295,6 +393,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:859
 msgid ""
@@ -310,6 +411,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+30% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:902
 msgid ""
@@ -325,6 +430,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:945
 msgid ""
@@ -340,6 +449,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+30% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:989
 msgid ""
@@ -355,6 +469,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+30% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
@@ -370,6 +489,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_200\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Dégâts"
 
 #: src-en/data/blueprints.xml.append:1075
 msgid ""
@@ -385,6 +507,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_020\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:1117
 msgid ""
@@ -400,6 +525,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_210\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Dégâts\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:1160
 msgid ""
@@ -415,6 +544,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_120\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât\n"
+"\t\t+2 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:1203
 msgid ""
@@ -430,6 +563,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_021\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Perforation de bouclier\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+30% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:1247
 msgid ""
@@ -445,6 +583,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_201\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Dégâts\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+30% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
@@ -460,6 +603,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+30% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:1336
 msgid ""
@@ -475,6 +624,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_300\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Dégâts"
 
 #: src-en/data/blueprints.xml.append:1378
 msgid ""
@@ -490,6 +642,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_1_030\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:1422
 msgid ""
@@ -522,6 +677,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir"
 
 #: src-en/data/blueprints.xml.append:1502
 msgid ""
@@ -537,6 +695,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-2s Temps de recharge\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30 Chances de feu"
 
 #: src-en/data/blueprints.xml.append:1546
 msgid ""
@@ -552,6 +715,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+Brise-coque"
 
 #: src-en/data/blueprints.xml.append:1588
 msgid ""
@@ -567,6 +733,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t-2s Temps de recharge\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30 Chances de feu"
 
 #: src-en/data/blueprints.xml.append:1633
 msgid ""
@@ -582,6 +754,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-2s Temps de recharge\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30 Chances de feu\n"
+"\t\t+Brise-coque"
 
 #: src-en/data/blueprints.xml.append:1679
 msgid ""
@@ -597,6 +775,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t+Brise-coque"
 
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
@@ -612,6 +794,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_200\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs"
 
 #: src-en/data/blueprints.xml.append:1763
 msgid ""
@@ -627,6 +812,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_020\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-4s Temps de recharge\n"
+"\t\t+30 Dégâts à l'équipage\n"
+"\t\t+60 Chances de feu"
 
 #: src-en/data/blueprints.xml.append:1807
 msgid ""
@@ -642,6 +832,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_210\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs\n"
+"\t\t-2s Temps de recharge\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30 Chances de feu"
 
 #: src-en/data/blueprints.xml.append:1852
 msgid ""
@@ -657,6 +853,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_120\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t-4s Temps de recharge\n"
+"\t\t+30 Dégâts à l'équipage\n"
+"\t\t+60 Chances de feu"
 
 #: src-en/data/blueprints.xml.append:1897
 msgid ""
@@ -672,6 +874,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_201\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs\n"
+"\t\t+Brise-coque"
 
 #: src-en/data/blueprints.xml.append:1940
 msgid ""
@@ -687,6 +893,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_021\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-4s Temps de recharge\n"
+"\t\t+30 Dégâts à l'équipage\n"
+"\t\t+60 Chances de feu\n"
+"\t\t+Brise-coque"
 
 #: src-en/data/blueprints.xml.append:1986
 msgid ""
@@ -702,6 +914,13 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t-2s Temps de recharge\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30 Chances de feu\n"
+"\t\t+Brise-coque"
 
 #: src-en/data/blueprints.xml.append:2033
 msgid ""
@@ -717,6 +936,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_300\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Tirs"
 
 #: src-en/data/blueprints.xml.append:2074
 msgid ""
@@ -732,6 +954,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_2_030\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-6s Temps de recharge\n"
+"\t\t+45 Dégâts à l'équipage\n"
+"\t\t+90 Chances de feu"
 
 #: src-en/data/blueprints.xml.append:2120
 msgid ""
@@ -764,6 +991,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Longueur du rayon"
 
 #: src-en/data/blueprints.xml.append:2174
 msgid ""
@@ -779,6 +1009,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+25 Vitesse du rayon\n"
+"\t\t+1 Dégâts au système"
 
 #: src-en/data/blueprints.xml.append:2204
 msgid ""
@@ -794,6 +1028,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+60% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:2235
 msgid ""
@@ -809,6 +1048,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Longueur du rayon\n"
+"\t\t+25 Vitesse du rayon\n"
+"\t\t+1 Dégât au système"
 
 #: src-en/data/blueprints.xml.append:2266
 msgid ""
@@ -824,6 +1068,13 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+25 Vitesse du rayon\n"
+"\t\t+1 Dégât au système\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+60% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:2299
 msgid ""
@@ -859,6 +1110,14 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_2_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Longueur du rayon\n"
+"\t\t+25 Vitesse du rayon\n"
+"\t\t+1 Dégât au système\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+60% Chances de trou dans la coque"
 
 #: src-en/data/blueprints.xml.append:2367
 msgid ""
@@ -891,6 +1150,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Longueur du rayon"
 
 #: src-en/data/blueprints.xml.append:2419
 msgid ""
@@ -906,6 +1168,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:2446
 msgid ""
@@ -921,6 +1186,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât de chaîne"
 
 #: src-en/data/blueprints.xml.append:2478
 msgid ""
@@ -936,6 +1204,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Longueur du rayon\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:2506
 msgid ""
@@ -951,6 +1223,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1Perforation de bouclier\n"
+"\t\t+1 Dégât de chaîne"
 
 #: src-en/data/blueprints.xml.append:2539
 msgid ""
@@ -966,6 +1242,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Longueur du rayon\n"
+"\t\t+1 Dégât de chaîne"
 
 #: src-en/data/blueprints.xml.append:2572
 msgid ""
@@ -981,6 +1261,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_200\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+60 Longueur du rayon"
 
 #: src-en/data/blueprints.xml.append:2599
 msgid ""
@@ -996,6 +1279,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_020\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:2626
 msgid ""
@@ -1011,6 +1297,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_210\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+60 Longueur du rayon\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:2654
 msgid ""
@@ -1026,6 +1316,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_120\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Longueur du rayon\n"
+"\t\t+2 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:2682
 msgid ""
@@ -1041,6 +1335,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_201\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+60 Longueur du rayon\n"
+"\t\t+1 Dégât de chaîne"
 
 #: src-en/data/blueprints.xml.append:2715
 msgid ""
@@ -1056,6 +1354,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_021\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Perforation de bouclier\n"
+"\t\t+1 Dégât de chaîne"
 
 #: src-en/data/blueprints.xml.append:2748
 msgid ""
@@ -1071,6 +1373,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Longueur du rayon\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t+1 Dégât de chaîne"
 
 #: src-en/data/blueprints.xml.append:2782
 msgid ""
@@ -1086,6 +1393,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_300\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+90 Longueur du rayon"
 
 #: src-en/data/blueprints.xml.append:2809
 msgid ""
@@ -1101,6 +1411,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_3_030\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:2838
 msgid ""
@@ -1133,6 +1446,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât"
 
 #: src-en/data/blueprints.xml.append:2892
 msgid ""
@@ -1148,6 +1464,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:2920
 msgid ""
@@ -1163,6 +1482,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-2 Dégâts\n"
+"\t\t+4 Dégâts ionique"
 
 #: src-en/data/blueprints.xml.append:2951
 msgid ""
@@ -1178,6 +1501,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:2980
 msgid ""
@@ -1193,6 +1520,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t-2 Dégâts\n"
+"\t\t+4 Dégâts ionique"
 
 #: src-en/data/blueprints.xml.append:3012
 msgid ""
@@ -1208,6 +1540,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât\n"
+"\t\t-2 Dégâts\n"
+"\t\t+4 Dégâts ionique"
 
 #: src-en/data/blueprints.xml.append:3044
 msgid ""
@@ -1223,6 +1560,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_200\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Dégâts"
 
 #: src-en/data/blueprints.xml.append:3072
 msgid ""
@@ -1238,6 +1578,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_020\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:3100
 msgid ""
@@ -1253,6 +1596,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_210\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Dégâts\n"
+"\t\t+1 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:3129
 msgid ""
@@ -1268,6 +1615,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_120\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât\n"
+"\t\t+2 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:3158
 msgid ""
@@ -1283,6 +1634,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_201\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Dégâts\n"
+"\t\t-2 Dégâts\n"
+"\t\t+4 Dégâts ionique"
 
 #: src-en/data/blueprints.xml.append:3190
 msgid ""
@@ -1298,6 +1654,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_021\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Perforation de bouclier\n"
+"\t\t-2 Dégâts\n"
+"\t\t+4 Dégâts ionique"
 
 #: src-en/data/blueprints.xml.append:3222
 msgid ""
@@ -1313,6 +1674,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Dégât\n"
+"\t\t+1 Perforation de bouclier\n"
+"\t\t-2 Dégâts\n"
+"\t\t+4 Dégâts ionique"
 
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
@@ -1328,6 +1695,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_300\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Dégâts"
 
 #: src-en/data/blueprints.xml.append:3283
 msgid ""
@@ -1343,6 +1713,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_4_030\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Perforation de bouclier"
 
 #: src-en/data/blueprints.xml.append:3313
 msgid ""
@@ -1375,6 +1748,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-3 Dégâts à la coque\n"
+"\t\t+2 Dégâts au système\n"
+"\t\t+40% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:3398
 msgid ""
@@ -1390,6 +1768,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir par charge\n"
+"\t\t+3s Temps de recharge"
 
 #: src-en/data/blueprints.xml.append:3441
 msgid ""
@@ -1405,6 +1787,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:3484
 msgid ""
@@ -1420,6 +1806,13 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-3 Dégâts à la coque\n"
+"\t\t+2 Dégât au système\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+1 Tir par charge\n"
+"\t\t+3s Temps de recharge"
 
 #: src-en/data/blueprints.xml.append:3531
 msgid ""
@@ -1435,6 +1828,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir par charge\n"
+"\t\t+3s Temps de recharge\n"
+"\t\t-1 Dégâts à la coque\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
@@ -1450,6 +1849,13 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-3 Dégâts à la coque\n"
+"\t\t+2 Dégât au système\n"
+"\t\t+40% Chances de feu\n"
+"\t\t-1 Dégât à la coque\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:3623
 msgid ""
@@ -1465,6 +1871,15 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_2_3_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-3 Dégâts à la coque\n"
+"\t\t+2 Dégât au système\n"
+"\t\t+40% Chances de feu\n"
+"\t\t+1 Tir par charge\n"
+"\t\t+3s Temps de recharge\n"
+"\t\t-1 Dégât à la coque\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:3674
 msgid ""
@@ -1497,6 +1912,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir"
 
 #: src-en/data/blueprints.xml.append:3740
 msgid ""
@@ -1512,6 +1930,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:3775
 msgid ""
@@ -1527,6 +1949,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:3809
 msgid ""
@@ -1542,6 +1967,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:3845
 msgid ""
@@ -1557,6 +1987,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30% Chances de feu\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:3881
 msgid ""
@@ -1572,6 +2007,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:3916
 msgid ""
@@ -1587,6 +2026,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_200\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs"
 
 #: src-en/data/blueprints.xml.append:3950
 msgid ""
@@ -1602,6 +2044,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_020\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Dégâts à l'équipage\n"
+"\t\t+60% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:3985
 msgid ""
@@ -1617,6 +2063,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_210\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:4021
 msgid ""
@@ -1632,6 +2083,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_120\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t+30 Dégâts à l'équipage\n"
+"\t\t+60% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:4057
 msgid ""
@@ -1647,6 +2103,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_201\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:4092
 msgid ""
@@ -1662,6 +2122,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_021\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+30 Dégâts à l'équipage\n"
+"\t\t+60% Chances de feu\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:4128
 msgid ""
@@ -1677,6 +2142,12 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t+15 Dégâts à l'équipage\n"
+"\t\t+30% Chances de feu\n"
+"\t\t-1 Coût en missile"
 
 #: src-en/data/blueprints.xml.append:4165
 msgid ""
@@ -1692,6 +2163,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_300\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Tirs"
 
 #: src-en/data/blueprints.xml.append:4199
 msgid ""
@@ -1707,6 +2181,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_5_030\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+45 Dégâts à l'équipage\n"
+"\t\t+90% Chances de feu"
 
 #: src-en/data/blueprints.xml.append:4235
 msgid ""
@@ -1753,6 +2231,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_100\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir"
 
 #: src-en/data/blueprints.xml.append:4329
 msgid ""
@@ -1768,6 +2249,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_010\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Apparition de drone de reconnaissance"
 
 #: src-en/data/blueprints.xml.append:4377
 msgid ""
@@ -1783,6 +2267,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_001\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+Verrouillage"
 
 #: src-en/data/blueprints.xml.append:4420
 msgid ""
@@ -1798,6 +2285,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_110\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t+1 Apparition de drone de reconnaissance"
 
 #: src-en/data/blueprints.xml.append:4469
 msgid ""
@@ -1813,6 +2304,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_011\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Apparition de drone de reconnaissance\n"
+"\t\t+Verrouillage"
 
 #: src-en/data/blueprints.xml.append:4519
 msgid ""
@@ -1828,6 +2323,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_101\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t+Verrouillage"
 
 #: src-en/data/blueprints.xml.append:4563
 msgid ""
@@ -1843,6 +2342,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_200\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs"
 
 #: src-en/data/blueprints.xml.append:4605
 msgid ""
@@ -1858,6 +2360,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_020\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Apparitions de drone de reconnaissance"
 
 #: src-en/data/blueprints.xml.append:4653
 msgid ""
@@ -1873,6 +2378,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_210\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs\n"
+"\t\t+1 Apparition de drone de reconnaissance"
 
 #: src-en/data/blueprints.xml.append:4702
 msgid ""
@@ -1888,6 +2397,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_120\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t+2 Apparitions de drone de reconnaissance"
 
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
@@ -1903,6 +2416,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_201\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Tirs\n"
+"\t\t+Verrouillage"
 
 #: src-en/data/blueprints.xml.append:4795
 msgid ""
@@ -1918,6 +2435,10 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_021\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+2 Apparitions de drone de reconnaissance\n"
+"\t\t+Verrouillage"
 
 #: src-en/data/blueprints.xml.append:4845
 msgid ""
@@ -1933,6 +2454,11 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_111\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+1 Tir\n"
+"\t\t+1 Apparition de drone de reconnaissance\n"
+"\t\t+Verrouillage"
 
 #: src-en/data/blueprints.xml.append:4896
 msgid ""
@@ -1948,6 +2474,9 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_300\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Tirs"
 
 #: src-en/data/blueprints.xml.append:4938
 msgid ""
@@ -1963,41 +2492,46 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_MAW_3_6_030\"]/desc"
 msgstr ""
+"La Gueule se nourrit d’organismes vivants. Elle peut être améliorée et "
+"modifiée dans le menu de stockage après avoir été suffisamment nourrie.\n"
+"\t\t+3 Apparitions de drone de reconnaissance"
 
 #: src-en/data/blueprints.xml.append:4989
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING\"]/class"
-msgstr ""
+msgstr "Chalutier"
 
 #: src-en/data/blueprints.xml.append:4990
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING\"]/name"
-msgstr ""
+msgstr "Petit Skipper"
 
 #: src-en/data/blueprints.xml.append:4991
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING\"]/desc"
-msgstr ""
+msgstr "Un petit vaisseau dédié à la pêche dans l’immensité du vide spatial."
 
 #: src-en/data/blueprints.xml.append:5065
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING_2\"]/class"
-msgstr ""
+msgstr "Chalutier"
 
 #: src-en/data/blueprints.xml.append:5066
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING_2\"]/name"
-msgstr ""
+msgstr "La Méduse"
 
 #: src-en/data/blueprints.xml.append:5067
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING_2\"]/desc"
 msgstr ""
+"Un pêcheur Limace expérimenté s’est retiré avec son enfant sur ce petit "
+"chalutier pour passer le reste de ses jours à attraper des poissons."
 
 #: src-en/data/blueprints.xml.append:5139
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING_3\"]/class"
-msgstr ""
+msgstr "Chalutier"
 
 #: src-en/data/blueprints.xml.append:5140
 msgid ""
@@ -2008,41 +2542,47 @@ msgstr "La Valkyrie"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHING_3\"]/desc"
 msgstr ""
+"Après qu’un pêcheur-limace ait ramené Sylfin, Sylfin fit repeindre le "
+"vaisseau aux couleurs de son clan."
 
 #: src-en/data/blueprints.xml.append:5215
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY\"]/class"
-msgstr ""
+msgstr "Drague"
 
 #: src-en/data/blueprints.xml.append:5216
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY\"]/name"
-msgstr ""
+msgstr "Le Pequod"
 
 #: src-en/data/blueprints.xml.append:5217
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY\"]/desc"
 msgstr ""
+"Un petit vaisseau équipé d’un harpon intégré, ce qui le rend extrêmement "
+"efficace pour la pêche."
 
 #: src-en/data/blueprints.xml.append:5289
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_2\"]/class"
-msgstr ""
+msgstr "Drague"
 
 #: src-en/data/blueprints.xml.append:5290
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_2\"]/name"
-msgstr ""
+msgstr "Le Krait"
 
 #: src-en/data/blueprints.xml.append:5291
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_2\"]/desc"
 msgstr ""
+"Une paire de Clairvoyants a décidé de laisser le combat aux autres, se "
+"consacrant plutôt à la pêche spatiale."
 
 #: src-en/data/blueprints.xml.append:5363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_3\"]/class"
-msgstr ""
+msgstr "Drague"
 
 #: src-en/data/blueprints.xml.append:5364
 msgid ""
@@ -2053,147 +2593,189 @@ msgstr "La Gueule"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FISHARTY_3\"]/desc"
 msgstr ""
+"À mi-chemin entre un animal vivant et un vaisseau inanimé, La Gueule doit "
+"tout dévorer."
 
 #: src-en/data/blueprints.xml.append:5439
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_0\"]/title"
-msgstr ""
+msgstr "Harpon Rouillé MK I"
 
 #: src-en/data/blueprints.xml.append:5440
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_0\"]/short"
-msgstr ""
+msgstr "Harpon R. MK I"
 
 #: src-en/data/blueprints.xml.append:5441
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_0\"]/desc"
 msgstr ""
+"Inutile comme arme, il est cependant très efficace pour attraper des "
+"poissons spatiaux. En combat, la pêche avec ce harpon est gratuite, mais "
+"hors combat, il faut appâter le harpon avec de la ferraille.\n"
+"Ce harpon permet d’attraper les poissons les plus communs."
 
 #: src-en/data/blueprints.xml.append:5471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_1\"]/title"
-msgstr ""
+msgstr "Harpon MK I"
 
 #: src-en/data/blueprints.xml.append:5472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_1\"]/short"
-msgstr ""
+msgstr "Harpon MK I"
 
 #: src-en/data/blueprints.xml.append:5473
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_1\"]/desc"
 msgstr ""
+"Inutile comme arme, il est cependant très efficace pour attraper des "
+"poissons spatiaux. En combat, la pêche avec ce harpon est gratuite, mais "
+"hors combat, il faut appâter le harpon avec de la ferraille.\n"
+"Ce harpon permet d’attraper les poissons les plus communs."
 
 #: src-en/data/blueprints.xml.append:5503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2\"]/title"
-msgstr ""
+msgstr "Harpon MK II"
 
 #: src-en/data/blueprints.xml.append:5504
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2\"]/short"
-msgstr ""
+msgstr "Harpon MK II"
 
 #: src-en/data/blueprints.xml.append:5505
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2\"]/desc"
 msgstr ""
+"Inutile comme arme, il est cependant très efficace pour attraper des "
+"poissons spatiaux. En combat, la pêche avec ce harpon est gratuite, mais "
+"hors combat, il faut appâter le harpon avec de la ferraille.\n"
+"Ce harpon pourra attraper la plupart des poissons."
 
 #: src-en/data/blueprints.xml.append:5535
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2_P\"]/title"
-msgstr ""
+msgstr "Harpon MK II†"
 
 #: src-en/data/blueprints.xml.append:5536
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2_P\"]/short"
-msgstr ""
+msgstr "Harpon MK II†"
 
 #: src-en/data/blueprints.xml.append:5537
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_2_P\"]/desc"
 msgstr ""
+"Inutile comme arme, il est cependant très efficace pour attraper des "
+"poissons spatiaux. En combat, la pêche avec ce harpon est gratuite, mais "
+"hors combat, il faut appâter le harpon avec de la ferraille.\n"
+"Ce harpon pourra attraper la plupart des poissons."
 
 #: src-en/data/blueprints.xml.append:5567
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3\"]/title"
-msgstr ""
+msgstr "Harpon MK III"
 
 #: src-en/data/blueprints.xml.append:5568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3\"]/short"
-msgstr ""
+msgstr "Harpon MK III"
 
 #: src-en/data/blueprints.xml.append:5569
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3\"]/desc"
 msgstr ""
+"Inutile comme arme, il est cependant très efficace pour attraper des "
+"poissons spatiaux. En combat, la pêche avec ce harpon est gratuite, mais "
+"hors combat, il faut appâter le harpon avec de la ferraille.\n"
+"Ce harpon pourra attraper même les poissons les plus insaisissables."
 
 #: src-en/data/blueprints.xml.append:5599
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3_P\"]/title"
-msgstr ""
+msgstr "Harpon MK III†"
 
 #: src-en/data/blueprints.xml.append:5600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3_P\"]/short"
-msgstr ""
+msgstr "Harpon MK III†"
 
 #: src-en/data/blueprints.xml.append:5601
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3_P\"]/desc"
 msgstr ""
+"Inutile comme arme, il est cependant très efficace pour attraper des "
+"poissons spatiaux. En combat, la pêche avec ce harpon est gratuite, mais "
+"hors combat, il faut appâter le harpon avec de la ferraille.\n"
+"Ce harpon pourra attraper même les poissons les plus insaisissables."
 
 #: src-en/data/blueprints.xml.append:5631
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3_PP\"]/title"
-msgstr ""
+msgstr "Harpon MK III††"
 
 #: src-en/data/blueprints.xml.append:5632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3_PP\"]/short"
-msgstr ""
+msgstr "Harpon MK III††"
 
 #: src-en/data/blueprints.xml.append:5633
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISHING_ROD_3_PP\"]/desc"
 msgstr ""
+"Inutile comme arme, il est cependant très efficace pour attraper des "
+"poissons spatiaux. En combat, la pêche avec ce harpon est gratuite, mais "
+"hors combat, il faut appâter le harpon avec de la ferraille.\n"
+"Ce harpon pourra attraper même les poissons les plus insaisissables."
 
 #: src-en/data/blueprints.xml.append:5663
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_1\"]/title"
-msgstr ""
+msgstr "Harpon MK X"
 
 #: src-en/data/blueprints.xml.append:5664
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_1\"]/short"
-msgstr ""
+msgstr "Harpon MK X"
 
 #: src-en/data/blueprints.xml.append:5665
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_1\"]/desc"
 msgstr ""
+"[Temps de recharge de base : 20] Ce harpon peut tirer plusieurs fois par "
+"combat, le temps de recharge double après chaque tir. 1er tir = MK III, 2e "
+"tir = MK II, 3e tir et suivants = MK I."
 
 #: src-en/data/blueprints.xml.append:5666
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_1\"]/tooltip"
 msgstr ""
+"Artillerie : Un harpon de pêche puissant, capable de pêcher plusieurs fois "
+"par combat. À chaque tir, sa recharge est réduite de 50 % pour le combat en "
+"court."
 
 #: src-en/data/blueprints.xml.append:5698
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_2\"]/title"
-msgstr ""
+msgstr "Harpon MK XI"
 
 #: src-en/data/blueprints.xml.append:5699
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_2\"]/short"
-msgstr ""
+msgstr "Harpon MK XI"
 
 #: src-en/data/blueprints.xml.append:5700
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_2\"]/desc"
 msgstr ""
+"[Temps de recharge de base : 30] Ce harpon tire deux harpons à la fois, le "
+"temps de recharge double après chaque tir. 1er tir = MK III, 2e tir = MK II, "
+"3e tir et suivants = MK I."
 
 #: src-en/data/blueprints.xml.append:5701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_2\"]/tooltip"
 msgstr ""
+"Artillerie : Un harpon de pêche puissant, capable de pêcher plusieurs fois "
+"par combat. À chaque tir, sa recharge est réduite de 50 % pour le combat en "
+"court."
 
 #: src-en/data/blueprints.xml.append:5733
 msgid ""
@@ -2208,11 +2790,14 @@ msgstr "La Gueule"
 #: src-en/data/blueprints.xml.append:5735
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW\"]/desc"
 msgstr ""
+"[Temps de recharge de base : 15] La Gueule doit dévorer.\n"
+"Le temps de recharge ne descendra pas en dessous de 1x, mais la puissance "
+"augmente avec le nombre de tirs."
 
 #: src-en/data/blueprints.xml.append:5737
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW\"]/tooltip"
-msgstr ""
+msgstr "Artillerie : La Gueule."
 
 #: src-en/data/blueprints.xml.append:5770
 msgid ""
@@ -2227,42 +2812,42 @@ msgstr "La Gueule"
 #: src-en/data/blueprints.xml.append:5772
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW_ENEMY\"]/desc"
-msgstr ""
+msgstr "[Temps de recharge de base : 12] La Gueule doit dévorer."
 
 #: src-en/data/blueprints.xml.append:5773
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Artillerie : La Gueule."
 
 #: src-en/data/blueprints.xml.append:5807
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_TINCAN\"]/title"
-msgstr ""
+msgstr "Vieille boîte de conserve"
 
 #: src-en/data/blueprints.xml.append:5808
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_TINCAN\"]/short"
-msgstr ""
+msgstr "Vieille boîte de conserve"
 
 #: src-en/data/blueprints.xml.append:5809
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_TINCAN\"]/desc"
-msgstr ""
+msgstr "Un morceau de camelote."
 
 #: src-en/data/blueprints.xml.append:5828
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_BOOT\"]/title"
-msgstr ""
+msgstr "Vieille botte"
 
 #: src-en/data/blueprints.xml.append:5829
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_BOOT\"]/short"
-msgstr ""
+msgstr "Vieille botte"
 
 #: src-en/data/blueprints.xml.append:5830
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_BOOT\"]/desc"
-msgstr ""
+msgstr "Un morceau de camelote."
 
 #: src-en/data/blueprints.xml.append:5849
 msgid ""
@@ -2277,153 +2862,173 @@ msgstr "Pierre"
 #: src-en/data/blueprints.xml.append:5851
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_ROCK\"]/desc"
-msgstr ""
+msgstr "Un morceau de camelote."
 
 #: src-en/data/blueprints.xml.append:5869
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_LASER\"]/title"
-msgstr ""
+msgstr "Poisson laser"
 
 #: src-en/data/blueprints.xml.append:5870
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_LASER\"]/short"
-msgstr ""
+msgstr "Poisson laser"
 
 #: src-en/data/blueprints.xml.append:5872
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_LASER\"]/desc"
 msgstr ""
+"Une fusion entre un laser et un poisson, ses projectiles étourdissent et "
+"déclenchent des incendies."
 
 #: src-en/data/blueprints.xml.append:5910
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_ION\"]/title"
-msgstr ""
+msgstr "Poisson à décharge"
 
 #: src-en/data/blueprints.xml.append:5911
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_ION\"]/short"
-msgstr ""
+msgstr "Poisson à décharge"
 
 #: src-en/data/blueprints.xml.append:5913
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_ION\"]/desc"
 msgstr ""
+"Similaire à une arme ionique, mais elle électrocute l’équipage et les fait "
+"courir dans une pièce aléatoire."
 
 #: src-en/data/blueprints.xml.append:5956
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_FLAK\"]/title"
-msgstr ""
+msgstr "Poisson Disperseur"
 
 #: src-en/data/blueprints.xml.append:5957
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_FLAK\"]/short"
-msgstr ""
+msgstr "Poisson Disperseur"
 
 #: src-en/data/blueprints.xml.append:5959
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_FLAK\"]/desc"
 msgstr ""
+"Tire un jet de débris sur une zone aléatoire, infligeant des dégâts sur la "
+"durée aux pièces touchées. Efficace pour abattre les boucliers, mais "
+"difficile à viser."
 
 #: src-en/data/blueprints.xml.append:6016
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_BEAM\"]/title"
-msgstr ""
+msgstr "Poisson à rayons"
 
 #: src-en/data/blueprints.xml.append:6017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_BEAM\"]/short"
-msgstr ""
+msgstr "Poisson à rayons"
 
 #: src-en/data/blueprints.xml.append:6019
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_BEAM\"]/desc"
 msgstr ""
+"Inflige peu de dégâts mais verrouille les pièces et y déclenche un incendie."
 
 #: src-en/data/blueprints.xml.append:6044
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MINELAYER\"]/title"
-msgstr ""
+msgstr "Poisson magnétique"
 
 #: src-en/data/blueprints.xml.append:6045
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MINELAYER\"]/short"
-msgstr ""
+msgstr "Poisson magnétique"
 
 #: src-en/data/blueprints.xml.append:6046
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MINELAYER\"]/desc"
 msgstr ""
+"Poisson anti-sous-marin, utilise des aimants pour se diriger vers le "
+"vaisseau ennemi, ce qui le rend beaucoup plus précis."
 
 #: src-en/data/blueprints.xml.append:6092
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MISSILE_1\"]/title"
-msgstr ""
+msgstr "Poisson Brèche"
 
 #: src-en/data/blueprints.xml.append:6093
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MISSILE_1\"]/short"
-msgstr ""
+msgstr "Poisson Brèche"
 
 #: src-en/data/blueprints.xml.append:6094
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MISSILE_1\"]/desc"
 msgstr ""
+"Un poisson spécialisé dans la perforation des vaisseaux ennemis, capable de "
+"traverser les super boucliers."
 
 #: src-en/data/blueprints.xml.append:6133
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MISSILE_2\"]/title"
-msgstr ""
+msgstr "Poisson Voilier"
 
 #: src-en/data/blueprints.xml.append:6134
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MISSILE_2\"]/short"
-msgstr ""
+msgstr "Poisson Voilier"
 
 #: src-en/data/blueprints.xml.append:6135
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_MISSILE_2\"]/desc"
 msgstr ""
+"Un système de missiles très coûteux en ressources, mais capable d’infliger "
+"de lourds dégâts. Il se déplace si vite que les drones ont du mal à le "
+"toucher."
 
 #: src-en/data/blueprints.xml.append:6171
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISHING_STATION_AUGMENT\"]/title"
-msgstr ""
+msgstr "Puissance de pêche"
 
 #: src-en/data/blueprints.xml.append:6179
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ARC_WEAPON_POWER\"]/title"
-msgstr ""
+msgstr "Puissance d’armement"
 
 #: src-en/data/blueprints.xml.append:6187
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ARC_SUPER_HULL\"]/title"
-msgstr ""
+msgstr "Super coque"
 
 #: src-en/data/blueprints.xml.append:6195
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ARC_THIEVERY\"]/title"
-msgstr ""
+msgstr "Vol qualifié"
 
 #: src-en/data/blueprints.xml.append:6203
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_FISHINGONLY\"]/title"
-msgstr ""
+msgstr "Vaisseau de pêche"
 
 #: src-en/data/blueprints.xml.append:6204
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_FISHINGONLY\"]/desc"
 msgstr ""
+"Ce vaisseau est spécialement conçu pour la pêche spatiale et, de ce fait, il "
+"ne peut pas remonter de vieilles ordures lors de la pêche. Cependant, il "
+"obtient 30 % de ferraille en moins."
 
 #: src-en/data/blueprints.xml.append:6211
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_FISH_BOON\"]/title"
-msgstr ""
+msgstr "Vaisseau de pêche"
 
 #: src-en/data/blueprints.xml.append:6212
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_FISH_BOON\"]/desc"
 msgstr ""
+"Ce vaisseau est spécialement conçu pour la pêche spatiale et, de ce fait, ne "
+"peut pas remonter de vieilles ordures lors de la pêche."
 
 #: src-en/data/blueprints.xml.append:6219
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_BAIT\"]/title"
-msgstr ""
+msgstr "Appât amélioré"
 
 #: src-en/data/blueprints.xml.append:6220
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_BAIT\"]/desc"
@@ -2432,7 +3037,7 @@ msgstr "Poisson"
 #: src-en/data/blueprints.xml.append:6227
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_BAIT_ALT\"]/title"
-msgstr ""
+msgstr "Appât amélioré"
 
 #: src-en/data/blueprints.xml.append:6228
 msgid ""
@@ -2441,7 +3046,7 @@ msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6235
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_SAFE\"]/title"
-msgstr ""
+msgstr "Dérogations à la sécurité"
 
 #: src-en/data/blueprints.xml.append:6236
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_SAFE\"]/desc"
@@ -2450,7 +3055,7 @@ msgstr "Poisson"
 #: src-en/data/blueprints.xml.append:6243
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_REPEL\"]/title"
-msgstr ""
+msgstr "Répulsif à poissons"
 
 #: src-en/data/blueprints.xml.append:6244
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_REPEL\"]/desc"
@@ -2459,7 +3064,7 @@ msgstr "Poisson"
 #: src-en/data/blueprints.xml.append:6251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_PREIG\"]/title"
-msgstr ""
+msgstr "Harpon Pré-Chargé"
 
 #: src-en/data/blueprints.xml.append:6252
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_PREIG\"]/desc"
@@ -2468,7 +3073,7 @@ msgstr "Poisson"
 #: src-en/data/blueprints.xml.append:6259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_SPEED\"]/title"
-msgstr ""
+msgstr "Pêche accélérée"
 
 #: src-en/data/blueprints.xml.append:6260
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_SPEED\"]/desc"
@@ -2477,7 +3082,7 @@ msgstr "Poisson"
 #: src-en/data/blueprints.xml.append:6267
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_HIGHER\"]/title"
-msgstr ""
+msgstr "Poissons supérieurs"
 
 #: src-en/data/blueprints.xml.append:6268
 msgid ""
@@ -2486,7 +3091,7 @@ msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6275
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_GRAV\"]/title"
-msgstr ""
+msgstr "Poisson GRav"
 
 #: src-en/data/blueprints.xml.append:6276
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INAUG_GRAV\"]/desc"
@@ -2494,582 +3099,715 @@ msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6285
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_11\"]/title"
-msgstr ""
+msgstr "Leurre : cuillère tournante"
 
 #: src-en/data/blueprints.xml.append:6286
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_11\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas de ferraille."
 
 #: src-en/data/blueprints.xml.append:6293
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_12\"]/title"
-msgstr ""
+msgstr "Leurre : Queue Palette"
 
 #: src-en/data/blueprints.xml.append:6294
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_12\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques."
 
 #: src-en/data/blueprints.xml.append:6301
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_13\"]/title"
-msgstr ""
+msgstr "Leurre : Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6302
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_13\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques."
 
 #: src-en/data/blueprints.xml.append:6309
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_14\"]/title"
-msgstr ""
+msgstr "Leurre : Ver"
 
 #: src-en/data/blueprints.xml.append:6310
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_14\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas d’équipage."
 
 #: src-en/data/blueprints.xml.append:6317
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_15\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Jin"
 
 #: src-en/data/blueprints.xml.append:6318
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_15\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas d’équipement."
 
 #: src-en/data/blueprints.xml.append:6325
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_11\"]/title"
-msgstr ""
+msgstr "Appât sans ferraille activé"
 
 #: src-en/data/blueprints.xml.append:6326
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_11\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas de ferraille."
 
 #: src-en/data/blueprints.xml.append:6333
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_12\"]/title"
-msgstr ""
+msgstr "Appât anti-poissons activé"
 
 #: src-en/data/blueprints.xml.append:6334
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_12\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques."
 
 #: src-en/data/blueprints.xml.append:6341
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_13\"]/title"
-msgstr ""
+msgstr "Appât anti-poissons étranges activé"
 
 #: src-en/data/blueprints.xml.append:6342
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_13\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques."
 
 #: src-en/data/blueprints.xml.append:6349
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_14\"]/title"
-msgstr ""
+msgstr "Appât Aucun équipage activé"
 
 #: src-en/data/blueprints.xml.append:6350
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_14\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas d’équipage."
 
 #: src-en/data/blueprints.xml.append:6357
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_15\"]/title"
-msgstr ""
+msgstr "Appât anti-poissons activé"
 
 #: src-en/data/blueprints.xml.append:6358
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_15\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas d’équipement."
 
 #: src-en/data/blueprints.xml.append:6365
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_21\"]/title"
-msgstr ""
+msgstr "Leurre : Queue Palette Tournante"
 
 #: src-en/data/blueprints.xml.append:6366
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_21\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille et il est beaucoup "
+"moins probable de remonter des poissons génériques."
 
 #: src-en/data/blueprints.xml.append:6373
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_22\"]/title"
-msgstr ""
+msgstr "Leurre : Queue d’Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6374
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_22\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques, et vous ne remonterez ni poissons-armes ni poissons uniques."
 
 #: src-en/data/blueprints.xml.append:6381
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_23\"]/title"
-msgstr ""
+msgstr "Leurre : Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6382
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_23\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques, ni équipage."
 
 #: src-en/data/blueprints.xml.append:6389
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_24\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Ver"
 
 #: src-en/data/blueprints.xml.append:6390
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_24\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez ni équipage ni équipement."
 
 #: src-en/data/blueprints.xml.append:6397
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_25\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Jin Tournant"
 
 #: src-en/data/blueprints.xml.append:6398
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_25\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez ni équipement ni ferraille."
 
 #: src-en/data/blueprints.xml.append:6405
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_21\"]/title"
-msgstr ""
+msgstr "Appât ni ferraille ni poissons"
 
 #: src-en/data/blueprints.xml.append:6406
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_21\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille et il est beaucoup "
+"moins probable de remonter des poissons génériques."
 
 #: src-en/data/blueprints.xml.append:6413
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_22\"]/title"
-msgstr ""
+msgstr "Appât anti-poissons"
 
 #: src-en/data/blueprints.xml.append:6414
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_22\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques, et vous ne remonterez ni poissons-armes ni poissons uniques."
 
 #: src-en/data/blueprints.xml.append:6421
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_23\"]/title"
-msgstr ""
+msgstr "Appâts pour poissons non bizarres"
 
 #: src-en/data/blueprints.xml.append:6422
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_23\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques, ni équipage."
 
 #: src-en/data/blueprints.xml.append:6429
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_24\"]/title"
-msgstr ""
+msgstr "Appât Aucun équipage"
 
 #: src-en/data/blueprints.xml.append:6430
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_24\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez ni équipage ni équipement."
 
 #: src-en/data/blueprints.xml.append:6437
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_25\"]/title"
-msgstr ""
+msgstr "Appât anti-poissons"
 
 #: src-en/data/blueprints.xml.append:6438
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_25\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez ni équipement ni ferraille."
 
 #: src-en/data/blueprints.xml.append:6445
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_31\"]/title"
-msgstr ""
+msgstr "Leurre : Queue Palette Tournante Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6446
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_31\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille, il est beaucoup "
+"moins probable de remonter des poissons génériques, et vous ne remonterez ni "
+"poissons-armes ni poissons uniques."
 
 #: src-en/data/blueprints.xml.append:6453
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_32\"]/title"
-msgstr ""
+msgstr "Leurre : Queue de Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6454
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_32\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques, vous ne remonterez ni poissons-armes ni poissons uniques, ni "
+"équipage."
 
 #: src-en/data/blueprints.xml.append:6461
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_33\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6462
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_33\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques, ni équipage, ni équipement."
 
 #: src-en/data/blueprints.xml.append:6469
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_34\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Jin Ver"
 
 #: src-en/data/blueprints.xml.append:6470
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_34\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipage, ni équipement, ni "
+"ferraille."
 
 #: src-en/data/blueprints.xml.append:6477
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_35\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Palette Tournante"
 
 #: src-en/data/blueprints.xml.append:6478
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_35\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipement ni ferraille, et il "
+"est beaucoup moins probable de remonter des poissons génériques."
 
 #: src-en/data/blueprints.xml.append:6485
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_31\"]/title"
-msgstr ""
+msgstr "Appât ni ferraille ni poissons"
 
 #: src-en/data/blueprints.xml.append:6486
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_31\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille, il est beaucoup "
+"moins probable de remonter des poissons génériques, et vous ne remonterez ni "
+"poissons-armes ni poissons uniques."
 
 #: src-en/data/blueprints.xml.append:6493
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_32\"]/title"
-msgstr ""
+msgstr "Appât anti-poissons"
 
 #: src-en/data/blueprints.xml.append:6494
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_32\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques, vous ne remonterez ni poissons-armes ni poissons uniques, ni "
+"équipage."
 
 #: src-en/data/blueprints.xml.append:6501
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_33\"]/title"
-msgstr ""
+msgstr "Appâts pour poissons non bizarres"
 
 #: src-en/data/blueprints.xml.append:6502
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_33\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques, ni équipage, ni équipement."
 
 #: src-en/data/blueprints.xml.append:6509
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_34\"]/title"
-msgstr ""
+msgstr "Appât Aucun équipage"
 
 #: src-en/data/blueprints.xml.append:6510
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_34\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipage, ni équipement, ni "
+"ferraille."
 
 #: src-en/data/blueprints.xml.append:6517
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_35\"]/title"
-msgstr ""
+msgstr "Appât anti-poissons"
 
 #: src-en/data/blueprints.xml.append:6518
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_35\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipement ni ferraille, et il "
+"est beaucoup moins probable de remonter des poissons génériques."
 
 #: src-en/data/blueprints.xml.append:6525
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_DOUBLE\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Double"
 
 #: src-en/data/blueprints.xml.append:6526
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_BAIT_DOUBLE\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous attraperez un deuxième poisson d’un rang inférieur "
+"à celui du premier poisson. N’a aucun effet sur les harpons déjà doublés."
 
 #: src-en/data/blueprints.xml.append:6533
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_DOUBLE\"]/title"
-msgstr ""
+msgstr "Hameçon Double"
 
 #: src-en/data/blueprints.xml.append:6534
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_INBAIT_DOUBLE\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous attraperez un deuxième poisson d’un rang inférieur "
+"à celui du premier poisson. N’a aucun effet sur les harpons déjà doublés."
 
 #: src-en/data/blueprints.xml.append:6544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_DOUBLE\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Double"
 
 #: src-en/data/blueprints.xml.append:6545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_DOUBLE\"]/short"
-msgstr ""
+msgstr "Leurre : Hameçon Double"
 
 #: src-en/data/blueprints.xml.append:6546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_DOUBLE\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous attraperez un deuxième poisson d’un rang inférieur "
+"à celui du premier poisson. N’a aucun effet sur les harpons déjà doublés."
 
 #: src-en/data/blueprints.xml.append:6547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_DOUBLE\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous attraperez un deuxième poisson d’un rang inférieur "
+"à celui du premier poisson. N’a aucun effet sur les harpons déjà doublés.\n"
+"\n"
+"Prix par défaut : 200~ - Prix de vente : 100~"
 
 #: src-en/data/blueprints.xml.append:6568
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_11\"]/title"
-msgstr ""
+msgstr "Leurre : cuillère tournante"
 
 #: src-en/data/blueprints.xml.append:6569
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_11\"]/short"
-msgstr ""
+msgstr "Leurre : cuillère tournante"
 
 #: src-en/data/blueprints.xml.append:6570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_11\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas de ferraille."
 
 #: src-en/data/blueprints.xml.append:6571
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_11\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille.\n"
+"\n"
+"Prix par défaut : 40~ - Prix de vente : 20~"
 
 #: src-en/data/blueprints.xml.append:6591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_12\"]/title"
-msgstr ""
+msgstr "Leurre : Queue Palette"
 
 #: src-en/data/blueprints.xml.append:6592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_12\"]/short"
-msgstr ""
+msgstr "Leurre : Queue Palette"
 
 #: src-en/data/blueprints.xml.append:6593
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_12\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques."
 
 #: src-en/data/blueprints.xml.append:6594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_12\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques.\n"
+"\n"
+"Prix par défaut : 40~ - Prix de vente : 20~"
 
 #: src-en/data/blueprints.xml.append:6614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_13\"]/title"
-msgstr ""
+msgstr "Leurre : Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6615
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_13\"]/short"
-msgstr ""
+msgstr "Leurre : Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6616
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_13\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques."
 
 #: src-en/data/blueprints.xml.append:6617
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_13\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques.\n"
+"\n"
+"Prix par défaut : 40~ - Prix de vente : 20~"
 
 #: src-en/data/blueprints.xml.append:6637
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_14\"]/title"
-msgstr ""
+msgstr "Leurre : Ver"
 
 #: src-en/data/blueprints.xml.append:6638
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_14\"]/short"
-msgstr ""
+msgstr "Leurre : Ver"
 
 #: src-en/data/blueprints.xml.append:6639
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_14\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas d’équipage."
 
 #: src-en/data/blueprints.xml.append:6640
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_14\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas d’équipage.\n"
+"\n"
+"Prix par défaut : 40~ - Prix de vente : 20~"
 
 #: src-en/data/blueprints.xml.append:6660
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_15\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Jin"
 
 #: src-en/data/blueprints.xml.append:6661
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_15\"]/short"
-msgstr ""
+msgstr "Leurre : Hameçon Jin"
 
 #: src-en/data/blueprints.xml.append:6662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_15\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez pas d’équipement."
 
 #: src-en/data/blueprints.xml.append:6663
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_15\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas d’équipement.\n"
+"\n"
+"Prix par défaut : 40~ - Prix de vente : 20~"
 
 #: src-en/data/blueprints.xml.append:6684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_21\"]/title"
-msgstr ""
+msgstr "Leurre : Queue Palette Tournante"
 
 #: src-en/data/blueprints.xml.append:6685
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_21\"]/short"
-msgstr ""
+msgstr "Leurre : Queue Palette Tournante"
 
 #: src-en/data/blueprints.xml.append:6686
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_21\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille et il est beaucoup "
+"moins probable de remonter des poissons génériques."
 
 #: src-en/data/blueprints.xml.append:6687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_21\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille et il est beaucoup "
+"moins probable de remonter des poissons génériques.\n"
+"\n"
+"Prix par défaut : 60~ - Prix de vente : 30~"
 
 #: src-en/data/blueprints.xml.append:6707
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_22\"]/title"
-msgstr ""
+msgstr "Leurre : Queue d’Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_22\"]/short"
-msgstr ""
+msgstr "Leurre : Queue d’Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6709
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_22\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques, et vous ne remonterez ni poissons-armes ni poissons uniques."
 
 #: src-en/data/blueprints.xml.append:6710
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_22\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques, et vous ne remonterez ni poissons-armes ni poissons uniques.\n"
+"\n"
+"Prix par défaut : 60~ - Prix de vente : 30~"
 
 #: src-en/data/blueprints.xml.append:6730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_23\"]/title"
-msgstr ""
+msgstr "Leurre : Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6731
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_23\"]/short"
-msgstr ""
+msgstr "Leurre : Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6732
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_23\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques, ni équipage."
 
 #: src-en/data/blueprints.xml.append:6733
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_23\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques, ni équipage.\n"
+"\n"
+"Prix par défaut : 60~ - Prix de vente : 30~"
 
 #: src-en/data/blueprints.xml.append:6753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_24\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Ver"
 
 #: src-en/data/blueprints.xml.append:6754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_24\"]/short"
-msgstr ""
+msgstr "Leurre : Hameçon Ver"
 
 #: src-en/data/blueprints.xml.append:6755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_24\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez ni équipage ni équipement."
 
 #: src-en/data/blueprints.xml.append:6756
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_24\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipage ni équipement.\n"
+"\n"
+"Prix par défaut : 60~ - Prix de vente : 30~"
 
 #: src-en/data/blueprints.xml.append:6776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_25\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Jin Tournant"
 
 #: src-en/data/blueprints.xml.append:6777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_25\"]/short"
-msgstr ""
+msgstr "Leurre : Hameçon Jin Tournant"
 
 #: src-en/data/blueprints.xml.append:6778
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_25\"]/desc"
-msgstr ""
+msgstr "Lorsque vous pêchez, vous ne remonterez ni équipement ni ferraille."
 
 #: src-en/data/blueprints.xml.append:6779
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_25\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipement ni ferraille.\n"
+"\n"
+"Prix par défaut : 60~ - Prix de vente : 30~"
 
 #: src-en/data/blueprints.xml.append:6800
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_31\"]/title"
-msgstr ""
+msgstr "Leurre : Queue Palette Tournante Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6801
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_31\"]/short"
-msgstr ""
+msgstr "Leurre : Queue Palette Tournante Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_31\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille, il est beaucoup "
+"moins probable de remonter des poissons génériques, et vous ne remonterez ni "
+"poissons-armes ni poissons uniques."
 
 #: src-en/data/blueprints.xml.append:6803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_31\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez pas de ferraille, il est beaucoup "
+"moins probable de remonter des poissons génériques, et vous ne remonterez ni "
+"poissons-armes ni poissons uniques.\n"
+"\n"
+"Prix par défaut : 80~ - Prix de vente : 40~"
 
 #: src-en/data/blueprints.xml.append:6823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_32\"]/title"
-msgstr ""
+msgstr "Leurre : Queue de Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6824
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_32\"]/short"
-msgstr ""
+msgstr "Leurre : Queue de Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6825
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_32\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques, vous ne remonterez ni poissons-armes ni poissons uniques, ni "
+"équipage."
 
 #: src-en/data/blueprints.xml.append:6826
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_32\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, il est beaucoup moins probable de remonter des poissons "
+"génériques, vous ne remonterez ni poissons-armes ni poissons uniques, ni "
+"équipage.\n"
+"\n"
+"Prix par défaut : 80~ - Prix de vente : 40~"
 
 #: src-en/data/blueprints.xml.append:6846
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_33\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6847
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_33\"]/short"
-msgstr ""
+msgstr "Leurre : Hameçon Ver Écrevisse"
 
 #: src-en/data/blueprints.xml.append:6848
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_33\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes ni poissons "
+"uniques, ni équipage, ni équipement."
 
 #: src-en/data/blueprints.xml.append:6849
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_33\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni poissons-armes, ni poissons "
+"uniques, ni équipage, ni équipement.\n"
+"\n"
+"Prix par défaut : 80~ - Prix de vente : 40~"
 
 #: src-en/data/blueprints.xml.append:6869
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_34\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Jin Ver"
 
 #: src-en/data/blueprints.xml.append:6870
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_34\"]/short"
-msgstr ""
+msgstr "Leurre : Hameçon Jin Ver"
 
 #: src-en/data/blueprints.xml.append:6871
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_34\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipage, ni équipement, ni "
+"ferraille."
 
 #: src-en/data/blueprints.xml.append:6872
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_34\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipage, ni équipement, ni "
+"ferraille.\n"
+"\n"
+"Prix par défaut : 80~ - Prix de vente : 40~"
 
 #: src-en/data/blueprints.xml.append:6892
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_35\"]/title"
-msgstr ""
+msgstr "Leurre : Hameçon Palette Tournante"
 
 #: src-en/data/blueprints.xml.append:6893
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_35\"]/short"
-msgstr ""
+msgstr "Leurre : Hameçon Palette Tournante"
 
 #: src-en/data/blueprints.xml.append:6894
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_35\"]/desc"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipement ni ferraille, et il "
+"est beaucoup moins probable de remonter des poissons génériques."
 
 #: src-en/data/blueprints.xml.append:6895
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_BAIT_FAKE_35\"]/descriptionOverride"
 msgstr ""
+"Lorsque vous pêchez, vous ne remonterez ni équipement ni ferraille, et il "
+"est beaucoup moins probable de remonter des poissons génériques.\n"
+"\n"
+"Prix par défaut : 80~ - Prix de vente : 40~"
 
 #: src-en/data/blueprints.xml.append:6915
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_1\"]/title"
@@ -3153,123 +3891,143 @@ msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:6998
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_1\"]/title"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/blueprints.xml.append:6999
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_1\"]/short"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/blueprints.xml.append:7000
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_1\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +5 % "
+"de santé à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7019
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_2\"]/title"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/blueprints.xml.append:7020
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_2\"]/short"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/blueprints.xml.append:7021
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_2\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +5 % "
+"de dégâts à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7040
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_3\"]/title"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/blueprints.xml.append:7041
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_3\"]/short"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/blueprints.xml.append:7042
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_3\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +5 % "
+"de réduction de dégâts à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7061
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4\"]/title"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/blueprints.xml.append:7062
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4\"]/short"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/blueprints.xml.append:7063
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +5 % "
+"de vitesse de déplacement de tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7082
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_5\"]/title"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/blueprints.xml.append:7083
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_5\"]/short"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/blueprints.xml.append:7084
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_5\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +5 % "
+"de vitesse de réparation de tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7103
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_6\"]/title"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/blueprints.xml.append:7104
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_6\"]/short"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/blueprints.xml.append:7105
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_6\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +1 % "
+"de vitesse de recharge des armes"
 
 #: src-en/data/blueprints.xml.append:7124
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_7\"]/title"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/blueprints.xml.append:7125
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_7\"]/short"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/blueprints.xml.append:7126
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_7\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +1 % "
+"de vitesse de recharge des boucliers"
 
 #: src-en/data/blueprints.xml.append:7145
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_8\"]/title"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/blueprints.xml.append:7146
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_8\"]/short"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/blueprints.xml.append:7147
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_8\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +1 % "
+"en récupération de ferraille"
 
 #: src-en/data/blueprints.xml.append:7166
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_9\"]/title"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/blueprints.xml.append:7167
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_9\"]/short"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/blueprints.xml.append:7168
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_9\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +1 % "
+"de résistance des systèmes"
 
 #: src-en/data/blueprints.xml.append:7187
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_0\"]/title"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/blueprints.xml.append:7188
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_0\"]/short"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/blueprints.xml.append:7189
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_0\"]/desc"
 msgstr ""
+"Un poisson spatial basique, qui, une fois consommé, donne un bonus de +1 % "
+"de résistance de coque"
 
 #: src-en/data/blueprints.xml.append:7207
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_11\"]/title"
@@ -3353,123 +4111,143 @@ msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7290
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_11\"]/title"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/blueprints.xml.append:7291
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_11\"]/short"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/blueprints.xml.append:7292
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_11\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +15 "
+"% de santé à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7311
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_12\"]/title"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/blueprints.xml.append:7312
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_12\"]/short"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/blueprints.xml.append:7313
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_12\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +15 "
+"% de dégâts à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7332
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_13\"]/title"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/blueprints.xml.append:7333
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_13\"]/short"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/blueprints.xml.append:7334
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_13\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +15 "
+"% de réduction de dégâts à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7353
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_14\"]/title"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/blueprints.xml.append:7354
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_14\"]/short"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/blueprints.xml.append:7355
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_14\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +15 "
+"% de vitesse de déplacement à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7374
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_15\"]/title"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/blueprints.xml.append:7375
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_15\"]/short"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/blueprints.xml.append:7376
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_15\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +15 "
+"% de vitesse de réparation à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7395
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_16\"]/title"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/blueprints.xml.append:7396
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_16\"]/short"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/blueprints.xml.append:7397
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_16\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +5 "
+"% de vitesse de recharge des armes"
 
 #: src-en/data/blueprints.xml.append:7416
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_17\"]/title"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/blueprints.xml.append:7417
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_17\"]/short"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/blueprints.xml.append:7418
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_17\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +6 "
+"% de vitesse de recharge des boucliers"
 
 #: src-en/data/blueprints.xml.append:7437
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_18\"]/title"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/blueprints.xml.append:7438
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_18\"]/short"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/blueprints.xml.append:7439
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_18\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +5 "
+"% en récupération de ferraille"
 
 #: src-en/data/blueprints.xml.append:7458
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_19\"]/title"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/blueprints.xml.append:7459
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_19\"]/short"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/blueprints.xml.append:7460
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_19\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +4 "
+"% de résistance des systèmes"
 
 #: src-en/data/blueprints.xml.append:7479
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_10\"]/title"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/blueprints.xml.append:7480
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_10\"]/short"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/blueprints.xml.append:7481
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_10\"]/desc"
 msgstr ""
+"Un poisson spatial peu commun, qui, une fois consommé, donne un bonus de +4 "
+"% de résistance de coque"
 
 #: src-en/data/blueprints.xml.append:7499
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_21\"]/title"
@@ -3553,123 +4331,143 @@ msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7582
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_21\"]/title"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/blueprints.xml.append:7583
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_21\"]/short"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/blueprints.xml.append:7584
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_21\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +45 % de "
+"santé à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7603
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_22\"]/title"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/blueprints.xml.append:7604
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_22\"]/short"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/blueprints.xml.append:7605
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_22\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +45 % de "
+"dégâts à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7624
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_23\"]/title"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/blueprints.xml.append:7625
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_23\"]/short"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/blueprints.xml.append:7626
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_23\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +45 % de "
+"réduction des dégâts à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7645
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_24\"]/title"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/blueprints.xml.append:7646
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_24\"]/short"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/blueprints.xml.append:7647
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_24\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +45 % de "
+"vitesse de déplacement à tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7666
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_25\"]/title"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/blueprints.xml.append:7667
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_25\"]/short"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/blueprints.xml.append:7668
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_25\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +45 % de "
+"vitesse de réparation de tout l’équipage"
 
 #: src-en/data/blueprints.xml.append:7687
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_26\"]/title"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/blueprints.xml.append:7688
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_26\"]/short"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/blueprints.xml.append:7689
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_26\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +20 % de "
+"vitesse de recharge des armes"
 
 #: src-en/data/blueprints.xml.append:7708
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_27\"]/title"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/blueprints.xml.append:7709
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_27\"]/short"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/blueprints.xml.append:7710
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_27\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +25 % de "
+"vitesse de recharge des boucliers"
 
 #: src-en/data/blueprints.xml.append:7729
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_28\"]/title"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/blueprints.xml.append:7730
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_28\"]/short"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/blueprints.xml.append:7731
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_28\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +20 % en "
+"récupération de ferraille"
 
 #: src-en/data/blueprints.xml.append:7750
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_29\"]/title"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/blueprints.xml.append:7751
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_29\"]/short"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/blueprints.xml.append:7752
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_29\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +16 % de "
+"résistance des systèmes"
 
 #: src-en/data/blueprints.xml.append:7771
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_20\"]/title"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/blueprints.xml.append:7772
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_20\"]/short"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/blueprints.xml.append:7773
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_20\"]/desc"
 msgstr ""
+"Un poisson spatial rare, qui, une fois consommé, donne un bonus de +16 % de "
+"résistance de coque"
 
 #: src-en/data/blueprints.xml.append:7791
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_31\"]/title"
@@ -3737,87 +4535,108 @@ msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:7858
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_31\"]/title"
-msgstr ""
+msgstr "Carangue reine"
 
 #: src-en/data/blueprints.xml.append:7859
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_31\"]/short"
-msgstr ""
+msgstr "Carangue reine"
 
 #: src-en/data/blueprints.xml.append:7860
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_31\"]/desc"
 msgstr ""
+"Un poisson spatial légendaire, qui, une fois consommé, inflige aux membres d’"
+"équipage hostiles une réduction de 90 % de leur vitesse de déplacement à "
+"bord de votre vaisseau"
 
 #: src-en/data/blueprints.xml.append:7879
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_32\"]/title"
-msgstr ""
+msgstr "Coryphène"
 
 #: src-en/data/blueprints.xml.append:7880
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_32\"]/short"
-msgstr ""
+msgstr "Coryphène"
 
 #: src-en/data/blueprints.xml.append:7881
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_32\"]/desc"
 msgstr ""
+"Un poisson spatial légendaire, qui, une fois consommé, empêche tout l’"
+"équipage hostile et amical ainsi que les drones à bord de votre vaisseau de "
+"combattre, tout en infligeant 5 points de dégâts par seconde aux membres d’"
+"équipage et drones ennemis"
 
 #: src-en/data/blueprints.xml.append:7900
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_33\"]/title"
-msgstr ""
+msgstr "Poisson côtier"
 
 #: src-en/data/blueprints.xml.append:7901
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_33\"]/short"
-msgstr ""
+msgstr "Poisson côtier"
 
 #: src-en/data/blueprints.xml.append:7902
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_33\"]/desc"
 msgstr ""
+"Un poisson spatial légendaire qui, une fois consommé, empêche votre équipage "
+"de réparer, mais tous les systèmes se réparent automatiquement à une vitesse "
+"équivalente à celle de deux membres d’équipage en réparation."
 
 #: src-en/data/blueprints.xml.append:7921
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_34\"]/title"
-msgstr ""
+msgstr "Mérou"
 
 #: src-en/data/blueprints.xml.append:7922
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_34\"]/short"
-msgstr ""
+msgstr "Mérou"
 
 #: src-en/data/blueprints.xml.append:7923
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_34\"]/desc"
 msgstr ""
+"Un poisson spatial légendaire, qui, une fois consommé, peut soit conférer un "
+"bonus de +110 % à la vitesse de recharge des armes, mais également un malus "
+"de -50 % à la vitesse de recharge des boucliers, soit un bonus de +110 % à "
+"la vitesse de recharge des boucliers, mais un malus de -50 % à la vitesse de "
+"recharge des armes"
 
 #: src-en/data/blueprints.xml.append:7942
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_35\"]/title"
-msgstr ""
+msgstr "Chinchard bleu"
 
 #: src-en/data/blueprints.xml.append:7943
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_35\"]/short"
-msgstr ""
+msgstr "Chinchard bleu"
 
 #: src-en/data/blueprints.xml.append:7944
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_35\"]/desc"
 msgstr ""
+"Un poisson spatial légendaire, qui, une fois consommé, confère à tous les "
+"systèmes un niveau 2 permanent."
 
 #: src-en/data/blueprints.xml.append:7963
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_36\"]/title"
-msgstr ""
+msgstr "Pirarucu"
 
 #: src-en/data/blueprints.xml.append:7964
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_36\"]/short"
-msgstr ""
+msgstr "Pirarucu"
 
 #: src-en/data/blueprints.xml.append:7965
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_36\"]/desc"
 msgstr ""
+"Un poisson spatial légendaire, crée une nouvelle copie de lui-même à chaque "
+"secteur."
 
 #: src-en/data/blueprints.xml.append:7984
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_37\"]/title"
-msgstr ""
+msgstr "Marlin bleu"
 
 #: src-en/data/blueprints.xml.append:7985
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_37\"]/short"
-msgstr ""
+msgstr "Marlin bleu"
 
 #: src-en/data/blueprints.xml.append:7986
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_37\"]/desc"
 msgstr ""
+"Un poisson spatial légendaire, qui, une fois consommé, donne 3 armes "
+"aléatoires"
 
 #: src-en/data/blueprints.xml.append:8004
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FISH_AUG_41\"]/title"
@@ -3941,180 +4760,219 @@ msgstr "Poisson"
 
 #: src-en/data/blueprints.xml.append:8127
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_41\"]/title"
-msgstr ""
+msgstr "Poisson Alliance"
 
 #: src-en/data/blueprints.xml.append:8128
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_41\"]/short"
-msgstr ""
+msgstr "Poisson Alliance"
 
 #: src-en/data/blueprints.xml.append:8129
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_41\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, vous donne +5 en "
+"Réputation (ce qui vous rend vraiment cool)"
 
 #: src-en/data/blueprints.xml.append:8148
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_42\"]/title"
-msgstr ""
+msgstr "Poisson commando"
 
 #: src-en/data/blueprints.xml.append:8149
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_42\"]/short"
-msgstr ""
+msgstr "Poisson commando"
 
 #: src-en/data/blueprints.xml.append:8150
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_42\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, fait en sorte que tous "
+"les humains de base n'occupent aucun emplacement."
 
 #: src-en/data/blueprints.xml.append:8169
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_43\"]/title"
-msgstr ""
+msgstr "Poisson Harmonie"
 
 #: src-en/data/blueprints.xml.append:8170
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_43\"]/short"
-msgstr ""
+msgstr "Poisson Harmonie"
 
 #: src-en/data/blueprints.xml.append:8171
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_43\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, donne à tous les drones +"
+"50 % de santé et +50 % de dégâts."
 
 #: src-en/data/blueprints.xml.append:8190
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_44\"]/title"
-msgstr ""
+msgstr "Poisson Énergie"
 
 #: src-en/data/blueprints.xml.append:8191
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_44\"]/short"
-msgstr ""
+msgstr "Poisson Énergie"
 
 #: src-en/data/blueprints.xml.append:8192
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_44\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, réduit de 1 l’énergie "
+"nécessaire pour la première arme."
 
 #: src-en/data/blueprints.xml.append:8211
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_45\"]/title"
-msgstr ""
+msgstr "Poisson des varechs"
 
 #: src-en/data/blueprints.xml.append:8212
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_45\"]/short"
-msgstr ""
+msgstr "Poisson des varechs"
 
 #: src-en/data/blueprints.xml.append:8213
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_45\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, double les dégâts de "
+"suffocation et supprime l’immunité à la suffocation des membres d’équipage "
+"ennemis."
 
 #: src-en/data/blueprints.xml.append:8232
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_46\"]/title"
-msgstr ""
+msgstr "Poisson Mantis"
 
 #: src-en/data/blueprints.xml.append:8233
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_46\"]/short"
-msgstr ""
+msgstr "Poisson Mantis"
 
 #: src-en/data/blueprints.xml.append:8234
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_46\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, fait que tout les "
+"équipages infligent -50 % de dégâts à distance, mais l’équipage allié gagne +"
+"100 % de dégâts au corps à corps."
 
 #: src-en/data/blueprints.xml.append:8253
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_47\"]/title"
-msgstr ""
+msgstr "Poisson des glaces"
 
 #: src-en/data/blueprints.xml.append:8254
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_47\"]/short"
-msgstr ""
+msgstr "Poisson des glaces"
 
 #: src-en/data/blueprints.xml.append:8255
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_47\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, fait apparaître des "
+"éclats Cristaliens puissants autour de votre équipage lorsqu'ils sont "
+"touchés par des armes du vaisseau."
 
 #: src-en/data/blueprints.xml.append:8274
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_48\"]/title"
-msgstr ""
+msgstr "Poisson-pierre"
 
 #: src-en/data/blueprints.xml.append:8275
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_48\"]/short"
-msgstr ""
+msgstr "Poisson-pierre"
 
 #: src-en/data/blueprints.xml.append:8276
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_48\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, donne 5 points de super "
+"coque qui empêchent chacun 1 point de dégâts à la coque."
 
 #: src-en/data/blueprints.xml.append:8295
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_49\"]/title"
-msgstr ""
+msgstr "Poisson insurgé"
 
 #: src-en/data/blueprints.xml.append:8296
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_49\"]/short"
-msgstr ""
+msgstr "Poisson insurgé"
 
 #: src-en/data/blueprints.xml.append:8297
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_49\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, donne à tous les humains "
+"alliés +100 % de dégâts et +50 % de résistance aux dégâts, et à tous les "
+"humains hostiles +40 % de dégâts et +20 % de résistance aux dégâts."
 
 #: src-en/data/blueprints.xml.append:8316
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_40\"]/title"
-msgstr ""
+msgstr "Poisson voleur"
 
 #: src-en/data/blueprints.xml.append:8317
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_40\"]/short"
-msgstr ""
+msgstr "Poisson voleur"
 
 #: src-en/data/blueprints.xml.append:8318
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_40\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, vous fait gagner 1 "
+"ferraille à chaque fois que vous endommagez la coque ennemie, mais vous en "
+"fait perdre 3 chaque fois que votre propre coque est endommagée. Vous ne "
+"pouvez gagner que jusqu’à 10 ferrailles par combat."
 
 #: src-en/data/blueprints.xml.append:8337
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4A\"]/title"
-msgstr ""
+msgstr "Poisson anaérobie"
 
 #: src-en/data/blueprints.xml.append:8338
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4A\"]/short"
-msgstr ""
+msgstr "Poisson anaérobie"
 
 #: src-en/data/blueprints.xml.append:8339
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4A\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, donne à tout l’équipage "
+"allié 80 % de résistance à la suffocation."
 
 #: src-en/data/blueprints.xml.append:8358
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4B\"]/title"
-msgstr ""
+msgstr "Raie Limace"
 
 #: src-en/data/blueprints.xml.append:8359
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4B\"]/short"
-msgstr ""
+msgstr "Raie Limace"
 
 #: src-en/data/blueprints.xml.append:8360
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4B\"]/desc"
 msgstr ""
+"Un poisson spatial unique, qui, une fois consommé, donne à tout l’équipage "
+"une résistance au contrôle mental."
 
 #: src-en/data/blueprints.xml.append:8379
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4C\"]/title"
-msgstr ""
+msgstr "Sangsue ?"
 
 #: src-en/data/blueprints.xml.append:8380
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4C\"]/short"
-msgstr ""
+msgstr "Sangsue ?"
 
 #: src-en/data/blueprints.xml.append:8381
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4C\"]/desc"
 msgstr ""
+"n poisson spatial unique, qui, une fois consommé, donne à toutes les "
+"Sangsues alliées la téléportation, mais elles perdent 50 % de leur santé."
 
 #: src-en/data/blueprints.xml.append:8400
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4D\"]/title"
-msgstr ""
+msgstr "Poisson Ancien"
 
 #: src-en/data/blueprints.xml.append:8401
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4D\"]/short"
-msgstr ""
+msgstr "Poisson Ancien"
 
 #: src-en/data/blueprints.xml.append:8402
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4D\"]/desc"
 msgstr ""
+"Un poisson spatial unique, peut être consommé pour améliorer une arme "
+"obélisque en sa variante royale."
 
 #: src-en/data/blueprints.xml.append:8421
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4E\"]/title"
-msgstr ""
+msgstr "Sylfin"
 
 #: src-en/data/blueprints.xml.append:8422
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4E\"]/short"
-msgstr ""
+msgstr "Sylfin"
 
 #: src-en/data/blueprints.xml.append:8423
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"FISH_FOOD_4E\"]/desc"
 msgstr ""
+"Un poisson spatial unique, peut être consommé pour accéder au balise du "
+"marchand de poissons et obtenir un sylvain gratuit.\n"
+"\n"
+"La balise du marchand de poissons vous permet d'invoquer la boutique du "
+"marchand de poissons aux balises vides."
