@@ -1,89 +1,98 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 21:46+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
+"datahyperspace-xml-append/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:558
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_1\"]/name"
-msgstr ""
+msgstr "Grosse prise"
 
 #: src-en/data/hyperspace.xml.append:559
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_1\"]/description"
-msgstr ""
+msgstr "Avoir votre cargaison entièrement remplie de poissons."
 
 #: src-en/data/hyperspace.xml.append:564
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/name"
-msgstr ""
+msgstr "Maître appâteur"
 
 #: src-en/data/hyperspace.xml.append:565
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/description"
-msgstr ""
+msgstr "Stocker 8 types d’appâts différents à bord de votre vaisseau."
 
 #: src-en/data/hyperspace.xml.append:571
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_3\"]/name"
-msgstr ""
+msgstr "Tenir ma canne à pêche"
 
 #: src-en/data/hyperspace.xml.append:572
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_3\"]/description"
 msgstr ""
+"Attraper avec succès un poisson pendant le combat contre le vaisseau amiral "
+"rebelle."
 
 #: src-en/data/hyperspace.xml.append:589
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_1\"]/name"
-msgstr ""
+msgstr "Éliminer une espèce"
 
 #: src-en/data/hyperspace.xml.append:590
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_1\"]/description"
-msgstr ""
+msgstr "Pêcher 4 fois à la même balise pendant un combat."
 
 #: src-en/data/hyperspace.xml.append:595
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_2\"]/name"
-msgstr ""
+msgstr "Surcharge de pêche"
 
 #: src-en/data/hyperspace.xml.append:596
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_2\"]/description"
-msgstr ""
+msgstr "Équiper l’appât à double hameçon sur un harpon d’artillerie."
 
 #: src-en/data/hyperspace.xml.append:601
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_3\"]/name"
-msgstr ""
+msgstr "Poisson technique"
 
 #: src-en/data/hyperspace.xml.append:602
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_3\"]/description"
-msgstr ""
+msgstr "Pêcher 16 poissons nommés par l'équipage au cours d'une partie."
 
 #: src-en/data/hyperspace.xml.append:617
 msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Jimmy\"]/@name"
-msgstr ""
+msgstr "Jimmy"
 
 #: src-en/data/hyperspace.xml.append:618
 msgid "data/hyperspace.xml.append$//slug[@name=\"Jimmy Jr.\"]/@name"
-msgstr ""
+msgstr "Jimmy Jr."
 
 #: src-en/data/hyperspace.xml.append:636
 msgid "data/hyperspace.xml.append$//slug_saboteur[@name=\"Silas\"]/@name"
-msgstr ""
+msgstr "Silas"
 
 #: src-en/data/hyperspace.xml.append:637
 msgid "data/hyperspace.xml.append$//slug_saboteur[@name=\"Sylvester\"]/@name"
-msgstr ""
+msgstr "Sylvester"
 
 #: src-en/data/hyperspace.xml.append:648
 msgid "data/hyperspace.xml.append$//slug_clansman[@name=\"Bob\"]/@name"
-msgstr ""
+msgstr "Bob"
 
 #: src-en/data/hyperspace.xml.append:704
 msgid ""
@@ -103,16 +112,16 @@ msgstr "POISSON"
 #: src-en/data/hyperspace.xml.append:1309
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[1]/@text"
-msgstr ""
+msgstr "Poisson basic"
 
 #: src-en/data/hyperspace.xml.append:1311
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/name"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/hyperspace.xml.append:1312
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/description"
-msgstr ""
+msgstr "Attraper un vivaneau orange."
 
 #: src-en/data/hyperspace.xml.append:1313
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/header"
@@ -120,12 +129,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1319
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/name"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/hyperspace.xml.append:1320
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/description"
-msgstr ""
+msgstr "Attraper un Empereur rouge."
 
 #: src-en/data/hyperspace.xml.append:1321
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/header"
@@ -133,12 +142,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1327
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/name"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/hyperspace.xml.append:1328
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/description"
-msgstr ""
+msgstr "Attraper une Truite corail rayée."
 
 #: src-en/data/hyperspace.xml.append:1329
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/header"
@@ -146,12 +155,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1335
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/name"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/hyperspace.xml.append:1336
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/description"
-msgstr ""
+msgstr "Attraper un Maquereau tacheté."
 
 #: src-en/data/hyperspace.xml.append:1337
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/header"
@@ -159,12 +168,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1343
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/name"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/hyperspace.xml.append:1344
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/description"
-msgstr ""
+msgstr "Attraper un Mérou d’estuaire."
 
 #: src-en/data/hyperspace.xml.append:1345
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/header"
@@ -172,12 +181,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1351
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/name"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/hyperspace.xml.append:1352
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson-capitaine bleu."
 
 #: src-en/data/hyperspace.xml.append:1353
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/header"
@@ -185,12 +194,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1359
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/name"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/hyperspace.xml.append:1360
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson noir des rochers."
 
 #: src-en/data/hyperspace.xml.append:1361
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/header"
@@ -198,12 +207,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1367
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/name"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/hyperspace.xml.append:1368
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/description"
-msgstr ""
+msgstr "Attraper un Thon à longue queue."
 
 #: src-en/data/hyperspace.xml.append:1369
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/header"
@@ -211,12 +220,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1375
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/name"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/hyperspace.xml.append:1376
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/description"
-msgstr ""
+msgstr "Attraper un Poulpe de récif."
 
 #: src-en/data/hyperspace.xml.append:1377
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/header"
@@ -224,12 +233,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1383
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/name"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/hyperspace.xml.append:1384
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/description"
-msgstr ""
+msgstr "Attraper une Raie aigle."
 
 #: src-en/data/hyperspace.xml.append:1385
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/header"
@@ -238,16 +247,16 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1392
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[2]/@text"
-msgstr ""
+msgstr "Poisson peu commun"
 
 #: src-en/data/hyperspace.xml.append:1394
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/name"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/hyperspace.xml.append:1395
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/description"
-msgstr ""
+msgstr "Attraper une Anguille à doubles nageoires."
 
 #: src-en/data/hyperspace.xml.append:1396
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/header"
@@ -255,12 +264,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1402
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/name"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/hyperspace.xml.append:1403
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/description"
-msgstr ""
+msgstr "Attraper une Anguille bleue."
 
 #: src-en/data/hyperspace.xml.append:1404
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/header"
@@ -268,12 +277,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1410
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/name"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/hyperspace.xml.append:1411
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson-lune à nageoires jaunes."
 
 #: src-en/data/hyperspace.xml.append:1412
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/header"
@@ -281,12 +290,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1418
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/name"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/hyperspace.xml.append:1419
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/description"
-msgstr ""
+msgstr "Attraper un Thon à gros yeux."
 
 #: src-en/data/hyperspace.xml.append:1420
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/header"
@@ -294,12 +303,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1426
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/name"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/hyperspace.xml.append:1427
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/description"
-msgstr ""
+msgstr "Attraper un Barracuda tacheté."
 
 #: src-en/data/hyperspace.xml.append:1428
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/header"
@@ -307,12 +316,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1434
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/name"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/hyperspace.xml.append:1435
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/description"
-msgstr ""
+msgstr "Attraper une Truite brune."
 
 #: src-en/data/hyperspace.xml.append:1436
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/header"
@@ -320,12 +329,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1442
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/name"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/hyperspace.xml.append:1443
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/description"
-msgstr ""
+msgstr "Attraper un Rouget."
 
 #: src-en/data/hyperspace.xml.append:1444
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/header"
@@ -333,12 +342,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1450
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/name"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/hyperspace.xml.append:1451
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/description"
-msgstr ""
+msgstr "Attraper une Truite couronnée."
 
 #: src-en/data/hyperspace.xml.append:1452
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/header"
@@ -346,12 +355,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1458
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/name"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/hyperspace.xml.append:1459
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/description"
-msgstr ""
+msgstr "Attraper une Carangue à nageoires jaune."
 
 #: src-en/data/hyperspace.xml.append:1460
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/header"
@@ -359,12 +368,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1466
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/name"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/hyperspace.xml.append:1467
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/description"
-msgstr ""
+msgstr "Attraper une Truite arc-en-ciel."
 
 #: src-en/data/hyperspace.xml.append:1468
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/header"
@@ -373,16 +382,16 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1475
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[3]/@text"
-msgstr ""
+msgstr "Poisson rare"
 
 #: src-en/data/hyperspace.xml.append:1477
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/name"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/hyperspace.xml.append:1478
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/description"
-msgstr ""
+msgstr "Attraper un Saumon argenté."
 
 #: src-en/data/hyperspace.xml.append:1479
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/header"
@@ -390,12 +399,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1485
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/name"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/hyperspace.xml.append:1486
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson-coq."
 
 #: src-en/data/hyperspace.xml.append:1487
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/header"
@@ -403,12 +412,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1493
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/name"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/hyperspace.xml.append:1494
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/description"
-msgstr ""
+msgstr "Attraper un Saumon à nageoires jaunes."
 
 #: src-en/data/hyperspace.xml.append:1495
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/header"
@@ -416,12 +425,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1501
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/name"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/hyperspace.xml.append:1502
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/description"
-msgstr ""
+msgstr "Attraper un Silure à tête plate."
 
 #: src-en/data/hyperspace.xml.append:1503
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/header"
@@ -429,12 +438,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1509
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/name"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/hyperspace.xml.append:1510
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/description"
-msgstr ""
+msgstr "Attraper une Dorade dorée."
 
 #: src-en/data/hyperspace.xml.append:1511
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/header"
@@ -442,12 +451,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1517
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/name"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/hyperspace.xml.append:1518
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/description"
-msgstr ""
+msgstr "Attraper un Cobia noir."
 
 #: src-en/data/hyperspace.xml.append:1519
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/header"
@@ -455,12 +464,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1525
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/name"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/hyperspace.xml.append:1526
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson-sagesse."
 
 #: src-en/data/hyperspace.xml.append:1527
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/header"
@@ -468,12 +477,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1533
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/name"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/hyperspace.xml.append:1534
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/description"
-msgstr ""
+msgstr "Attraper une Truite dorée."
 
 #: src-en/data/hyperspace.xml.append:1535
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/header"
@@ -481,12 +490,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1541
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/name"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/hyperspace.xml.append:1542
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/description"
-msgstr ""
+msgstr "Attraper un Silure du canal."
 
 #: src-en/data/hyperspace.xml.append:1543
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/header"
@@ -494,12 +503,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1549
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/name"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/hyperspace.xml.append:1550
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/description"
-msgstr ""
+msgstr "Attraper un Esturgeon commun."
 
 #: src-en/data/hyperspace.xml.append:1551
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/header"
@@ -508,16 +517,16 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1558
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[4]/@text"
-msgstr ""
+msgstr "Poisson légendaire"
 
 #: src-en/data/hyperspace.xml.append:1560
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/name"
-msgstr ""
+msgstr "Carangue reine"
 
 #: src-en/data/hyperspace.xml.append:1561
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/description"
-msgstr ""
+msgstr "Attraper une Carangue reine."
 
 #: src-en/data/hyperspace.xml.append:1562
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/header"
@@ -525,12 +534,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1568
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/name"
-msgstr ""
+msgstr "Coryphène"
 
 #: src-en/data/hyperspace.xml.append:1569
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/description"
-msgstr ""
+msgstr "Attraper un Coryphène."
 
 #: src-en/data/hyperspace.xml.append:1570
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/header"
@@ -538,12 +547,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1576
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/name"
-msgstr ""
+msgstr "Poisson côtier"
 
 #: src-en/data/hyperspace.xml.append:1577
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson côtier."
 
 #: src-en/data/hyperspace.xml.append:1578
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/header"
@@ -551,12 +560,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1584
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/name"
-msgstr ""
+msgstr "Mérou"
 
 #: src-en/data/hyperspace.xml.append:1585
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/description"
-msgstr ""
+msgstr "Attraper un Mérou."
 
 #: src-en/data/hyperspace.xml.append:1586
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/header"
@@ -564,12 +573,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1592
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/name"
-msgstr ""
+msgstr "Chinchard bleu"
 
 #: src-en/data/hyperspace.xml.append:1593
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/description"
-msgstr ""
+msgstr "Attraper un Chinchard bleu."
 
 #: src-en/data/hyperspace.xml.append:1594
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/header"
@@ -577,12 +586,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1600
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/name"
-msgstr ""
+msgstr "Pirarucu"
 
 #: src-en/data/hyperspace.xml.append:1601
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/description"
-msgstr ""
+msgstr "Attraper un Pirarucu."
 
 #: src-en/data/hyperspace.xml.append:1602
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/header"
@@ -590,12 +599,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1608
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/name"
-msgstr ""
+msgstr "Marlin bleu"
 
 #: src-en/data/hyperspace.xml.append:1609
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/description"
-msgstr ""
+msgstr "Attraper un Marlin bleu."
 
 #: src-en/data/hyperspace.xml.append:1610
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/header"
@@ -604,26 +613,26 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1617
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[5]/@text"
-msgstr ""
+msgstr "Poisson unique"
 
 #: src-en/data/hyperspace.xml.append:1619
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/name"
-msgstr ""
+msgstr "Poisson Alliance"
 
 #: src-en/data/hyperspace.xml.append:1620
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1621
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique au point de largage de la Fédération."
 
 #: src-en/data/hyperspace.xml.append:1622
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson Alliance."
 
 #: src-en/data/hyperspace.xml.append:1623
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/header"
@@ -631,22 +640,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1630
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/name"
-msgstr ""
+msgstr "Poisson commando"
 
 #: src-en/data/hyperspace.xml.append:1631
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1632
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur civil."
 
 #: src-en/data/hyperspace.xml.append:1633
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson commando."
 
 #: src-en/data/hyperspace.xml.append:1634
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/header"
@@ -654,22 +663,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1641
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/name"
-msgstr ""
+msgstr "Poisson Harmonie"
 
 #: src-en/data/hyperspace.xml.append:1642
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1643
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Engi."
 
 #: src-en/data/hyperspace.xml.append:1644
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson Harmonie."
 
 #: src-en/data/hyperspace.xml.append:1645
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/header"
@@ -677,22 +686,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1652
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/name"
-msgstr ""
+msgstr "Poisson Énergie"
 
 #: src-en/data/hyperspace.xml.append:1653
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1654
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Zoltan."
 
 #: src-en/data/hyperspace.xml.append:1655
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson Énergie."
 
 #: src-en/data/hyperspace.xml.append:1656
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/header"
@@ -700,22 +709,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1663
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/name"
-msgstr ""
+msgstr "Poisson des varechs"
 
 #: src-en/data/hyperspace.xml.append:1664
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1665
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Orchidée."
 
 #: src-en/data/hyperspace.xml.append:1666
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson des varechs."
 
 #: src-en/data/hyperspace.xml.append:1667
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/header"
@@ -723,22 +732,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1674
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/name"
-msgstr ""
+msgstr "Poisson Mantis"
 
 #: src-en/data/hyperspace.xml.append:1675
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1676
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Mantis."
 
 #: src-en/data/hyperspace.xml.append:1677
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson Mantis ."
 
 #: src-en/data/hyperspace.xml.append:1678
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/header"
@@ -746,22 +755,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1685
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/name"
-msgstr ""
+msgstr "Poisson des glaces"
 
 #: src-en/data/hyperspace.xml.append:1686
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1687
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Cristalien."
 
 #: src-en/data/hyperspace.xml.append:1688
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson des glaces."
 
 #: src-en/data/hyperspace.xml.append:1689
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/header"
@@ -769,22 +778,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1696
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/name"
-msgstr ""
+msgstr "Poisson-pierre"
 
 #: src-en/data/hyperspace.xml.append:1697
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1698
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Rocailleux."
 
 #: src-en/data/hyperspace.xml.append:1699
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson-pierre."
 
 #: src-en/data/hyperspace.xml.append:1700
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/header"
@@ -792,22 +801,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1707
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/name"
-msgstr ""
+msgstr "Poisson insurgé"
 
 #: src-en/data/hyperspace.xml.append:1708
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1709
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur rebelle."
 
 #: src-en/data/hyperspace.xml.append:1710
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson insurgé."
 
 #: src-en/data/hyperspace.xml.append:1711
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/header"
@@ -815,22 +824,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1718
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/name"
-msgstr ""
+msgstr "Poisson voleur"
 
 #: src-en/data/hyperspace.xml.append:1719
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1720
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur pirate."
 
 #: src-en/data/hyperspace.xml.append:1721
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson voleur."
 
 #: src-en/data/hyperspace.xml.append:1722
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/header"
@@ -838,22 +847,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1729
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/name"
-msgstr ""
+msgstr "Poisson anaérobie"
 
 #: src-en/data/hyperspace.xml.append:1730
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1731
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Lanius ou Fantôme."
 
 #: src-en/data/hyperspace.xml.append:1732
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson anaérobie."
 
 #: src-en/data/hyperspace.xml.append:1733
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/header"
@@ -861,22 +870,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1740
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/name"
-msgstr ""
+msgstr "Raie Limace"
 
 #: src-en/data/hyperspace.xml.append:1741
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1742
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Lanius ou Fantôme."
 
 #: src-en/data/hyperspace.xml.append:1743
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/description"
-msgstr ""
+msgstr "Attraper une Raie Limace."
 
 #: src-en/data/hyperspace.xml.append:1744
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/header"
@@ -884,22 +893,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1751
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/name"
-msgstr ""
+msgstr "Sangsue ?"
 
 #: src-en/data/hyperspace.xml.append:1752
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1753
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur Sangsue."
 
 #: src-en/data/hyperspace.xml.append:1754
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/description"
-msgstr ""
+msgstr "Attraper une Sangsue ?"
 
 #: src-en/data/hyperspace.xml.append:1755
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/header"
@@ -907,22 +916,22 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1762
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/name"
-msgstr ""
+msgstr "Poisson Ancien"
 
 #: src-en/data/hyperspace.xml.append:1763
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/secretName"
-msgstr "??? Poisson"
+msgstr "Poisson ???"
 
 #: src-en/data/hyperspace.xml.append:1764
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/secretDescription"
-msgstr ""
+msgstr "Attraper un poisson unique dans un secteur ??? ."
 
 #: src-en/data/hyperspace.xml.append:1765
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson Ancien."
 
 #: src-en/data/hyperspace.xml.append:1766
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/header"
@@ -930,7 +939,7 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1773
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/name"
-msgstr ""
+msgstr "Sylfin"
 
 #: src-en/data/hyperspace.xml.append:1774
 msgid ""
@@ -940,12 +949,12 @@ msgstr "??????"
 #: src-en/data/hyperspace.xml.append:1775
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/secretDescription"
-msgstr ""
+msgstr "Attraper ?????? dans un ?????."
 
 #: src-en/data/hyperspace.xml.append:1776
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/description"
-msgstr ""
+msgstr "Attraper Sylfin."
 
 #: src-en/data/hyperspace.xml.append:1777
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/header"
@@ -954,16 +963,16 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1785
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[6]/@text"
-msgstr ""
+msgstr "Poissons armes"
 
 #: src-en/data/hyperspace.xml.append:1787
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/name"
-msgstr ""
+msgstr "Poisson laser"
 
 #: src-en/data/hyperspace.xml.append:1788
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson laser."
 
 #: src-en/data/hyperspace.xml.append:1789
 msgid ""
@@ -972,12 +981,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1795
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/name"
-msgstr ""
+msgstr "Poisson à décharge"
 
 #: src-en/data/hyperspace.xml.append:1796
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson à décharge."
 
 #: src-en/data/hyperspace.xml.append:1797
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/header"
@@ -985,12 +994,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1803
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/name"
-msgstr ""
+msgstr "Poisson Disperseur"
 
 #: src-en/data/hyperspace.xml.append:1804
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson Disperseur."
 
 #: src-en/data/hyperspace.xml.append:1805
 msgid ""
@@ -999,12 +1008,12 @@ msgstr "Poisson attrapé !"
 
 #: src-en/data/hyperspace.xml.append:1811
 msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/name"
-msgstr ""
+msgstr "Poisson à rayons"
 
 #: src-en/data/hyperspace.xml.append:1812
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson à nageoires à rayons."
 
 #: src-en/data/hyperspace.xml.append:1813
 msgid ""
@@ -1014,12 +1023,12 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1819
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/name"
-msgstr ""
+msgstr "Poisson magnétique"
 
 #: src-en/data/hyperspace.xml.append:1820
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson magnétique."
 
 #: src-en/data/hyperspace.xml.append:1821
 msgid ""
@@ -1029,12 +1038,12 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1827
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/name"
-msgstr ""
+msgstr "Poisson Brèche"
 
 #: src-en/data/hyperspace.xml.append:1828
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson Brèche."
 
 #: src-en/data/hyperspace.xml.append:1829
 msgid ""
@@ -1044,12 +1053,12 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1835
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/name"
-msgstr ""
+msgstr "Poisson Voilier"
 
 #: src-en/data/hyperspace.xml.append:1836
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/description"
-msgstr ""
+msgstr "Attraper un Poisson Voilier."
 
 #: src-en/data/hyperspace.xml.append:1837
 msgid ""
@@ -1059,21 +1068,23 @@ msgstr "Poisson attrapé !"
 #: src-en/data/hyperspace.xml.append:1843
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[7]/@text"
-msgstr ""
+msgstr "Faveur du poisson"
 
 #: src-en/data/hyperspace.xml.append:1845
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/name"
-msgstr ""
+msgstr "Bénédiction du poisson"
 
 #: src-en/data/hyperspace.xml.append:1846
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/secretDescription"
-msgstr ""
+msgstr "Recevez la bénédiction des poissons de Wakeson."
 
 #: src-en/data/hyperspace.xml.append:1847
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/description"
 msgstr ""
+"Montrer un poisson à Wakeson.\n"
+"\t\t\t\tPendant l'effet, vous ne pêcherez plus de déchets."
 
 #: src-en/data/hyperspace.xml.append:1849
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/header"
