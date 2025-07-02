@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 21:46+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
+"dataevents_special_fishingxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_fishing.xml:4
 msgid "data/events_special_fishing.xml$//event[@name=\"ADDON_FISH\"]/text"
@@ -25,16 +32,26 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_STORE\"]/choice/event/text"
 msgstr ""
+"La station fonctionne avec une technologie ancienne et obsolète, vous devrez "
+"donc vous téléporter à bord pour accéder à la boutique.\n"
+"\n"
+"Pour monter à bord de la station, vous devez déplacer un ou plusieurs "
+"membres d’équipage dans votre salle de pilotage, puis appuyer sur le bouton "
+"de téléportation situé à côté de l’encadré du vaisseau ennemi.\n"
+"Pour récupérer votre équipage, amenez-les dans la salle de téléportation de "
+"la station et appuyez de nouveau sur le même bouton."
 
 #: src-en/data/events_special_fishing.xml:38
 msgid ""
 "data/events_special_fishing.xml$//eventButton[@name=\"UI_FISH_BOARD\"]/tooltip"
-msgstr ""
+msgstr "Se téléporter sur / depuis la station."
 
 #: src-en/data/events_special_fishing.xml:39
 msgid ""
 "data/events_special_fishing.xml$//eventButton[@name=\"UI_FISH_BOARD\"]/inactiveTooltip"
 msgstr ""
+"Vous n’avez aucun membre d’équipage dans votre salle de pilotage ou dans le "
+"téléporteur de la station, vous ne pouvez pas vous téléporter."
 
 #: src-en/data/events_special_fishing.xml:44
 msgid ""
@@ -50,21 +67,30 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_fishing.xml$//textList[@name=\"FISH_ARRIVE_TEXT\"]/text[1]"
 msgstr ""
+"Vous arrivez à l’avant-poste, une petite station dédiée à la pêche spatiale."
 
 #: src-en/data/events_special_fishing.xml:59
 msgid ""
 "data/events_special_fishing.xml$//textList[@name=\"FISH_ARRIVE_TEXT\"]/text[2]"
 msgstr ""
+"Vous arrivez à la balise et êtes accueilli par un avant-poste de pêche "
+"spatiale."
 
 #: src-en/data/events_special_fishing.xml:60
 msgid ""
 "data/events_special_fishing.xml$//textList[@name=\"FISH_ARRIVE_TEXT\"]/text[3]"
 msgstr ""
+"Vous êtes arrivé à la balise. Un petit avant-poste dédié à la pêche spatiale "
+"s’y trouve."
 
 #: src-en/data/events_special_fishing.xml:64
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/text"
 msgstr ""
+"Vous êtes arrivé à l’ancienne boutique de pêche.\n"
+"Il semble qu’ils aient installé un tableau de primes pour les poissons. Les "
+"récompenses semblent très intéressantes, mais vous devrez traquer un poisson "
+"spécifique pour chaque prime."
 
 #: src-en/data/events_special_fishing.xml:67
 msgid ""
@@ -74,22 +100,22 @@ msgstr "Laisser tomber"
 #: src-en/data/events_special_fishing.xml:71
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/choice[@req=\"fishing_store_opened\"]/text"
-msgstr ""
+msgstr "Visiter la boutique"
 
 #: src-en/data/events_special_fishing.xml:78
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/choice[3]/text"
-msgstr ""
+msgstr "Consulter le tableau des primes"
 
 #: src-en/data/events_special_fishing.xml:82
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/choice[4]/text"
-msgstr ""
+msgstr "Vous pouvez utiliser l’infirmerie pour soigner votre équipage"
 
 #: src-en/data/events_special_fishing.xml:88
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/text"
-msgstr ""
+msgstr "Plusieurs primes sont disponibles."
 
 #: src-en/data/events_special_fishing.xml:90
 msgid ""
@@ -100,943 +126,943 @@ msgstr "Laisser tomber"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 0 : Carangue reine"
 
 #: src-en/data/events_special_fishing.xml:102
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 0 : Coryphène"
 
 #: src-en/data/events_special_fishing.xml:108
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 0 : Poisson côtier"
 
 #: src-en/data/events_special_fishing.xml:114
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 0 : Mérou"
 
 #: src-en/data/events_special_fishing.xml:120
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 0 : Chinchard bleu"
 
 #: src-en/data/events_special_fishing.xml:126
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 0 : Pirarucu"
 
 #: src-en/data/events_special_fishing.xml:132
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 0 : Marlin bleu"
 
 #: src-en/data/events_special_fishing.xml:141
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 1 : Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:147
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 1 : Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:153
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 1 : Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:159
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 1 : Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:165
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 1 : Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:171
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 1 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:177
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 1 : Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:183
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 1 : Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:189
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 1 : Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:195
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 1 : Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:203
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 2 : Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:209
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 2 : Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:215
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 2 : Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:221
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 2 : Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:227
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 2 : Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:233
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 2 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:239
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 2 : Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:245
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 2 : Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:251
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 2 : Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:257
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 2 : Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:265
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 3 : Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:271
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 3 : Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:277
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 3 : Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:283
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 3 : Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:289
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 3 : Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:295
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 3 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:301
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 3 : Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:307
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 3 : Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:313
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 3 : Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:319
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 3 : Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:327
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 4 : Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:333
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 4 : Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:339
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 4 : Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:345
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 4 : Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:351
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 4 : Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:357
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 4 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:363
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 4 : Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:369
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 4 : Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:375
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 4 : Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:381
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 4 : Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:389
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 5 : Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:395
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 5 : Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:401
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 5 : Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:407
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 5 : Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:413
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 5 : Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:419
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 5 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:425
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 5 : Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:431
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 5 : Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:437
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 5 : Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:443
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 5 : Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:457
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 6 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:463
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 6 : Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:469
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 6 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:475
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 6 : Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:481
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 6 : Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:487
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 6 : Truite brune"
 
 #: src-en/data/events_special_fishing.xml:493
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 6 : Rouget"
 
 #: src-en/data/events_special_fishing.xml:499
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 6 : Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:505
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 6 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:511
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 6 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:519
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 7 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:525
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 7 : Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:531
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 7 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:537
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 7 : Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:543
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 7 : Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:549
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 7 : Truite brune"
 
 #: src-en/data/events_special_fishing.xml:555
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 7 : Rouget"
 
 #: src-en/data/events_special_fishing.xml:561
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 7 : Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:567
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 7 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:573
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 7 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:581
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 8 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:587
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 8 : Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:593
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 8 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:599
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 8 : Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:605
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 8 : Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:611
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 8 : Truite brune"
 
 #: src-en/data/events_special_fishing.xml:617
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 8 : Rouget"
 
 #: src-en/data/events_special_fishing.xml:623
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 8 : Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:629
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 8 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:635
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 8 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:643
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 9 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:649
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 9 : Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:655
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 9 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:661
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 9 : Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:667
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 9 : Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:673
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 9 : Truite brune"
 
 #: src-en/data/events_special_fishing.xml:679
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 9 : Rouget"
 
 #: src-en/data/events_special_fishing.xml:685
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 9 : Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:691
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 9 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:697
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 9 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:705
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 10 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:711
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 10 : Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:717
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 10 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:723
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 10 : Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:729
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 10 : Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:735
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 10 : Truite brune"
 
 #: src-en/data/events_special_fishing.xml:741
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 10 : Rouget"
 
 #: src-en/data/events_special_fishing.xml:747
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 10 : Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:753
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 10 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:759
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 10 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:773
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 11 : Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:779
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 11 : Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:785
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 11 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:791
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 11 : Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:797
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 11 : Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:803
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 11 : Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:809
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 11 : Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:815
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 11 : Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:821
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 11 : Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:827
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 11 : Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:835
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 12 : Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:841
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 12 : Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:847
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 12 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:853
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 12 : Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:859
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 12 : Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:865
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 12 : Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:871
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 12 : Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:877
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 12 : Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:883
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 12 : Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:889
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 12 : Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:897
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 13 : Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:903
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 13 : Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:909
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 13 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:915
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 13 : Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:921
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 13 : Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:927
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 13 : Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:933
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 13 : Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:939
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 13 : Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:945
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 13 : Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:951
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 13 : Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:959
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 14 : Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:965
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 14 : Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:971
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 14 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:977
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 14 : Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:983
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 14 : Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:989
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 14 : Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:995
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 14 : Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:1001
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 14 : Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:1007
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 14 : Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:1013
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 14 : Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:1021
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 15 : Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:1027
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 15 : Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:1033
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 15 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:1039
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 15 : Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:1045
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 15 : Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:1051
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 15 : Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:1057
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 15 : Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:1063
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 15 : Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:1069
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 15 : Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:1075
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 15 : Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:1087
 msgid "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/text"
@@ -1056,13 +1082,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:1106
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:1110
 msgid ""
@@ -1087,13 +1113,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:1137
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:1141
 msgid ""
@@ -1118,13 +1144,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:1168
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:1172
 msgid ""
@@ -1149,13 +1175,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:1199
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:1203
 msgid ""
@@ -1180,13 +1206,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:1230
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:1234
 msgid ""
@@ -1211,13 +1237,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:1261
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:1265
 msgid ""
@@ -1242,13 +1268,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:1292
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:1296
 msgid ""
@@ -1273,13 +1299,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:1323
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:1327
 msgid ""
@@ -1304,13 +1330,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:1354
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:1358
 msgid ""
@@ -1335,13 +1361,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:1385
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:1389
 msgid ""
@@ -1366,13 +1392,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:1418
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:1422
 msgid ""
@@ -1397,13 +1423,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:1449
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:1453
 msgid ""
@@ -1428,13 +1454,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:1480
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:1484
 msgid ""
@@ -1459,13 +1485,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:1511
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:1515
 msgid ""
@@ -1490,13 +1516,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:1542
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:1546
 msgid ""
@@ -1521,13 +1547,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:1573
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:1577
 msgid ""
@@ -1552,13 +1578,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:1604
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:1608
 msgid ""
@@ -1583,13 +1609,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:1635
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:1639
 msgid ""
@@ -1614,13 +1640,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:1666
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:1670
 msgid ""
@@ -1645,13 +1671,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:1697
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:1701
 msgid ""
@@ -1676,13 +1702,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:1730
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:1734
 msgid ""
@@ -1707,13 +1733,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:1761
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:1765
 msgid ""
@@ -1738,13 +1764,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:1792
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:1796
 msgid ""
@@ -1769,13 +1795,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:1823
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:1827
 msgid ""
@@ -1800,13 +1826,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:1854
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:1858
 msgid ""
@@ -1831,13 +1857,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:1885
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:1889
 msgid ""
@@ -1862,13 +1888,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:1916
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:1920
 msgid ""
@@ -1893,13 +1919,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:1947
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:1951
 msgid ""
@@ -1924,13 +1950,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:1978
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:1982
 msgid ""
@@ -1955,13 +1981,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:2009
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:2013
 msgid ""
@@ -1986,13 +2012,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:2042
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:2046
 msgid ""
@@ -2017,13 +2043,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:2073
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:2077
 msgid ""
@@ -2048,13 +2074,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:2104
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:2108
 msgid ""
@@ -2079,13 +2105,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:2135
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:2139
 msgid ""
@@ -2110,13 +2136,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:2166
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:2170
 msgid ""
@@ -2141,13 +2167,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:2197
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:2201
 msgid ""
@@ -2172,13 +2198,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:2228
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:2232
 msgid ""
@@ -2203,13 +2229,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:2259
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:2263
 msgid ""
@@ -2234,13 +2260,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:2290
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:2294
 msgid ""
@@ -2265,13 +2291,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:2321
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:2325
 msgid ""
@@ -2296,13 +2322,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:2354
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_1\"]/choice[@req=\"FISH_FOOD_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Vivaneau orange"
 
 #: src-en/data/events_special_fishing.xml:2358
 msgid ""
@@ -2327,13 +2353,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:2385
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_2\"]/choice[@req=\"FISH_FOOD_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Empereur rouge"
 
 #: src-en/data/events_special_fishing.xml:2389
 msgid ""
@@ -2358,13 +2384,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:2416
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_3\"]/choice[@req=\"FISH_FOOD_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite corail rayée"
 
 #: src-en/data/events_special_fishing.xml:2420
 msgid ""
@@ -2389,13 +2415,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:2447
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_4\"]/choice[@req=\"FISH_FOOD_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Maquereau tacheté"
 
 #: src-en/data/events_special_fishing.xml:2451
 msgid ""
@@ -2420,13 +2446,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:2478
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Mérou d’estuaire"
 
 #: src-en/data/events_special_fishing.xml:2482
 msgid ""
@@ -2451,13 +2477,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:2509
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_6\"]/choice[@req=\"FISH_FOOD_6\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-capitaine bleu"
 
 #: src-en/data/events_special_fishing.xml:2513
 msgid ""
@@ -2482,13 +2508,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:2540
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_7\"]/choice[@req=\"FISH_FOOD_7\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson noir des rochers"
 
 #: src-en/data/events_special_fishing.xml:2544
 msgid ""
@@ -2513,13 +2539,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:2571
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_8\"]/choice[@req=\"FISH_FOOD_8\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à longue queue"
 
 #: src-en/data/events_special_fishing.xml:2575
 msgid ""
@@ -2544,13 +2570,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:2602
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_9\"]/choice[@req=\"FISH_FOOD_9\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poulpe de récif"
 
 #: src-en/data/events_special_fishing.xml:2606
 msgid ""
@@ -2575,13 +2601,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:2633
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_10\"]/choice[@req=\"FISH_FOOD_0\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Raie aigle"
 
 #: src-en/data/events_special_fishing.xml:2637
 msgid ""
@@ -2606,13 +2632,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:2664
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:2668
 msgid ""
@@ -2637,13 +2663,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:2695
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:2699
 msgid ""
@@ -2668,13 +2694,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:2726
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:2730
 msgid ""
@@ -2699,13 +2725,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:2757
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:2761
 msgid ""
@@ -2730,13 +2756,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:2788
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:2792
 msgid ""
@@ -2761,13 +2787,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:2819
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:2823
 msgid ""
@@ -2792,13 +2818,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:2850
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:2854
 msgid ""
@@ -2823,13 +2849,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:2881
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:2885
 msgid ""
@@ -2854,13 +2880,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:2912
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:2916
 msgid ""
@@ -2885,13 +2911,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:2943
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_21_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:2947
 msgid ""
@@ -2916,13 +2942,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:2976
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:2980
 msgid ""
@@ -2947,13 +2973,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:3007
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:3011
 msgid ""
@@ -2978,13 +3004,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:3038
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:3042
 msgid ""
@@ -3009,13 +3035,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:3069
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:3073
 msgid ""
@@ -3040,13 +3066,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:3100
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:3104
 msgid ""
@@ -3071,13 +3097,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:3131
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:3135
 msgid ""
@@ -3102,13 +3128,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:3162
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:3166
 msgid ""
@@ -3133,13 +3159,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:3193
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:3197
 msgid ""
@@ -3164,13 +3190,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:3224
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:3228
 msgid ""
@@ -3195,13 +3221,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:3255
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_22_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:3259
 msgid ""
@@ -3226,13 +3252,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:3288
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:3292
 msgid ""
@@ -3257,13 +3283,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:3319
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:3323
 msgid ""
@@ -3288,13 +3314,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:3350
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:3354
 msgid ""
@@ -3319,13 +3345,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:3381
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:3385
 msgid ""
@@ -3350,13 +3376,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:3412
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:3416
 msgid ""
@@ -3381,13 +3407,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:3443
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:3447
 msgid ""
@@ -3412,13 +3438,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:3474
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:3478
 msgid ""
@@ -3443,13 +3469,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:3505
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:3509
 msgid ""
@@ -3474,13 +3500,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:3536
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:3540
 msgid ""
@@ -3505,13 +3531,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:3567
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_23_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:3571
 msgid ""
@@ -3536,13 +3562,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:3600
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:3604
 msgid ""
@@ -3567,13 +3593,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:3631
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:3635
 msgid ""
@@ -3598,13 +3624,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:3662
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:3666
 msgid ""
@@ -3629,13 +3655,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:3693
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:3697
 msgid ""
@@ -3660,13 +3686,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:3724
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:3728
 msgid ""
@@ -3691,13 +3717,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:3755
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:3759
 msgid ""
@@ -3722,13 +3748,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:3786
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:3790
 msgid ""
@@ -3753,13 +3779,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:3817
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:3821
 msgid ""
@@ -3784,13 +3810,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:3848
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:3852
 msgid ""
@@ -3815,13 +3841,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:3879
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_24_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:3883
 msgid ""
@@ -3846,13 +3872,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:3912
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_1\"]/choice[@req=\"FISH_FOOD_11\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille à doubles nageoires"
 
 #: src-en/data/events_special_fishing.xml:3916
 msgid ""
@@ -3877,13 +3903,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:3943
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_2\"]/choice[@req=\"FISH_FOOD_12\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Anguille bleue"
 
 #: src-en/data/events_special_fishing.xml:3947
 msgid ""
@@ -3908,13 +3934,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:3974
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_3\"]/choice[@req=\"FISH_FOOD_13\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:3978
 msgid ""
@@ -3939,13 +3965,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:4005
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_4\"]/choice[@req=\"FISH_FOOD_14\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Thon à gros yeux"
 
 #: src-en/data/events_special_fishing.xml:4009
 msgid ""
@@ -3970,13 +3996,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:4036
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_5\"]/choice[@req=\"FISH_FOOD_15\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Barracuda tacheté"
 
 #: src-en/data/events_special_fishing.xml:4040
 msgid ""
@@ -4001,13 +4027,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:4067
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_6\"]/choice[@req=\"FISH_FOOD_16\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite brune"
 
 #: src-en/data/events_special_fishing.xml:4071
 msgid ""
@@ -4032,13 +4058,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:4098
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_7\"]/choice[@req=\"FISH_FOOD_17\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Rouget"
 
 #: src-en/data/events_special_fishing.xml:4102
 msgid ""
@@ -4063,13 +4089,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:4129
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_8\"]/choice[@req=\"FISH_FOOD_18\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite couronnée"
 
 #: src-en/data/events_special_fishing.xml:4133
 msgid ""
@@ -4094,13 +4120,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:4160
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_9\"]/choice[@req=\"FISH_FOOD_19\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Carangue à nageoires jaune"
 
 #: src-en/data/events_special_fishing.xml:4164
 msgid ""
@@ -4125,13 +4151,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:4191
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_25_10\"]/choice[@req=\"FISH_FOOD_10\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite arc-en-ciel"
 
 #: src-en/data/events_special_fishing.xml:4195
 msgid ""
@@ -4156,13 +4182,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:4222
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:4226
 msgid ""
@@ -4187,13 +4213,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:4253
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:4257
 msgid ""
@@ -4218,13 +4244,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:4284
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:4288
 msgid ""
@@ -4249,13 +4275,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:4315
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:4319
 msgid ""
@@ -4280,13 +4306,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:4346
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:4350
 msgid ""
@@ -4311,13 +4337,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:4377
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:4381
 msgid ""
@@ -4342,13 +4368,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:4408
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:4412
 msgid ""
@@ -4373,13 +4399,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:4439
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:4443
 msgid ""
@@ -4404,13 +4430,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:4470
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:4474
 msgid ""
@@ -4435,13 +4461,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:4501
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_31_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:4505
 msgid ""
@@ -4466,13 +4492,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:4534
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:4538
 msgid ""
@@ -4497,13 +4523,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:4565
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:4569
 msgid ""
@@ -4528,13 +4554,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:4596
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:4600
 msgid ""
@@ -4559,13 +4585,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:4627
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:4631
 msgid ""
@@ -4590,13 +4616,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:4658
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:4662
 msgid ""
@@ -4621,13 +4647,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:4689
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:4693
 msgid ""
@@ -4652,13 +4678,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:4720
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:4724
 msgid ""
@@ -4683,13 +4709,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:4751
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:4755
 msgid ""
@@ -4714,13 +4740,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:4782
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:4786
 msgid ""
@@ -4745,13 +4771,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:4813
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_32_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:4817
 msgid ""
@@ -4776,13 +4802,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:4846
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:4850
 msgid ""
@@ -4807,13 +4833,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:4877
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:4881
 msgid ""
@@ -4838,13 +4864,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:4908
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:4912
 msgid ""
@@ -4869,13 +4895,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:4939
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:4943
 msgid ""
@@ -4900,13 +4926,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:4970
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:4974
 msgid ""
@@ -4931,13 +4957,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:5001
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:5005
 msgid ""
@@ -4962,13 +4988,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:5032
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:5036
 msgid ""
@@ -4993,13 +5019,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:5063
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:5067
 msgid ""
@@ -5024,13 +5050,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:5094
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:5098
 msgid ""
@@ -5055,13 +5081,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:5125
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_33_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:5129
 msgid ""
@@ -5086,13 +5112,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:5158
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:5162
 msgid ""
@@ -5117,13 +5143,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:5189
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:5193
 msgid ""
@@ -5148,13 +5174,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:5220
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:5224
 msgid ""
@@ -5179,13 +5205,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:5251
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:5255
 msgid ""
@@ -5210,13 +5236,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:5282
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:5286
 msgid ""
@@ -5241,13 +5267,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:5313
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:5317
 msgid ""
@@ -5272,13 +5298,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:5344
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:5348
 msgid ""
@@ -5303,13 +5329,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:5375
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:5379
 msgid ""
@@ -5334,13 +5360,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:5406
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:5410
 msgid ""
@@ -5365,13 +5391,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:5437
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_34_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:5441
 msgid ""
@@ -5396,13 +5422,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:5470
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_1\"]/choice[@req=\"FISH_FOOD_21\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon argenté"
 
 #: src-en/data/events_special_fishing.xml:5474
 msgid ""
@@ -5427,13 +5453,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:5501
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_2\"]/choice[@req=\"FISH_FOOD_22\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-coq"
 
 #: src-en/data/events_special_fishing.xml:5505
 msgid ""
@@ -5458,13 +5484,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:5532
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_3\"]/choice[@req=\"FISH_FOOD_23\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_fishing.xml:5536
 msgid ""
@@ -5489,13 +5515,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:5563
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_4\"]/choice[@req=\"FISH_FOOD_24\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure à tête plate"
 
 #: src-en/data/events_special_fishing.xml:5567
 msgid ""
@@ -5520,13 +5546,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:5594
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_5\"]/choice[@req=\"FISH_FOOD_25\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Dorade dorée"
 
 #: src-en/data/events_special_fishing.xml:5598
 msgid ""
@@ -5551,13 +5577,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:5625
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_6\"]/choice[@req=\"FISH_FOOD_26\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Cobia noir"
 
 #: src-en/data/events_special_fishing.xml:5629
 msgid ""
@@ -5582,13 +5608,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:5656
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_7\"]/choice[@req=\"FISH_FOOD_27\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson-sagesse"
 
 #: src-en/data/events_special_fishing.xml:5660
 msgid ""
@@ -5613,13 +5639,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:5687
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_8\"]/choice[@req=\"FISH_FOOD_28\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Truite dorée"
 
 #: src-en/data/events_special_fishing.xml:5691
 msgid ""
@@ -5644,13 +5670,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:5718
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_9\"]/choice[@req=\"FISH_FOOD_29\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Silure du canal"
 
 #: src-en/data/events_special_fishing.xml:5722
 msgid ""
@@ -5675,13 +5701,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:5749
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_35_10\"]/choice[@req=\"FISH_FOOD_20\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Esturgeon commun"
 
 #: src-en/data/events_special_fishing.xml:5753
 msgid ""
@@ -5707,13 +5733,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_1\"]/choice[@req=\"FISH_FOOD_31\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Carangue reine"
 
 #: src-en/data/events_special_fishing.xml:5783
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_1\"]/choice[@req=\"FISH_FOOD_31\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Carangue reine"
 
 #: src-en/data/events_special_fishing.xml:5787
 msgid ""
@@ -5739,13 +5765,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_2\"]/choice[@req=\"FISH_FOOD_32\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Coryphène"
 
 #: src-en/data/events_special_fishing.xml:5815
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_2\"]/choice[@req=\"FISH_FOOD_32\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Coryphène"
 
 #: src-en/data/events_special_fishing.xml:5819
 msgid ""
@@ -5771,13 +5797,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_3\"]/choice[@req=\"FISH_FOOD_33\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Poisson côtier"
 
 #: src-en/data/events_special_fishing.xml:5847
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_3\"]/choice[@req=\"FISH_FOOD_33\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Poisson côtier"
 
 #: src-en/data/events_special_fishing.xml:5851
 msgid ""
@@ -5803,13 +5829,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_4\"]/choice[@req=\"FISH_FOOD_34\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Mérou"
 
 #: src-en/data/events_special_fishing.xml:5879
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_4\"]/choice[@req=\"FISH_FOOD_34\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Mérou"
 
 #: src-en/data/events_special_fishing.xml:5883
 msgid ""
@@ -5835,13 +5861,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_5\"]/choice[@req=\"FISH_FOOD_35\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Chinchard bleu"
 
 #: src-en/data/events_special_fishing.xml:5911
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_5\"]/choice[@req=\"FISH_FOOD_35\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Chinchard bleu"
 
 #: src-en/data/events_special_fishing.xml:5915
 msgid ""
@@ -5867,13 +5893,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_6\"]/choice[@req=\"FISH_FOOD_36\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Pirarucu"
 
 #: src-en/data/events_special_fishing.xml:5943
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_6\"]/choice[@req=\"FISH_FOOD_36\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Pirarucu"
 
 #: src-en/data/events_special_fishing.xml:5947
 msgid ""
@@ -5899,13 +5925,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_7\"]/choice[@req=\"FISH_FOOD_37\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Marlin bleu"
 
 #: src-en/data/events_special_fishing.xml:5975
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_DOUBLE_7\"]/choice[@req=\"FISH_FOOD_37\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Marlin bleu"
 
 #: src-en/data/events_special_fishing.xml:5979
 msgid ""
