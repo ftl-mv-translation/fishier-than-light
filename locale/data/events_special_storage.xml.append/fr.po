@@ -1,27 +1,34 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-03 21:46+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
+"dataevents_special_storagexmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Pêche."
 
 #: src-en/data/events_special_storage.xml.append:9
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "La Gueule."
 
 #: src-en/data/events_special_storage.xml.append:16
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_HOTKEYS\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Bouton de pêche (par défaut : la touche Tab)"
 
 #: src-en/data/events_special_storage.xml.append:18
 msgid ""
@@ -55,71 +62,79 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:48
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_this_jump\"]/text"
-msgstr ""
+msgstr "Vous ne pouvez pas pêcher à nouveau pendant ce saut."
 
 #: src-en/data/events_special_storage.xml.append:52
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_this_sector\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"4 sauts avant que la population de poissons soit suffisamment rétablie pour "
+"pêcher"
 
 #: src-en/data/events_special_storage.xml.append:56
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_this_sector\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"3 sauts avant que la population de poissons soit suffisamment rétablie pour "
+"pêcher"
 
 #: src-en/data/events_special_storage.xml.append:60
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_this_sector\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"2 sauts avant que la population de poissons soit suffisamment rétablie pour "
+"pêcher"
 
 #: src-en/data/events_special_storage.xml.append:64
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_this_sector\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"1 saut avant que la population de poissons soit suffisamment rétablie pour "
+"pêcher"
 
 #: src-en/data/events_special_storage.xml.append:69
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_start\"]/text"
-msgstr ""
+msgstr "Aller pêcher hors combat."
 
 #: src-en/data/events_special_storage.xml.append:78
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_start_2\"]/text"
-msgstr ""
+msgstr "Aller pêcher hors combat à nouveau."
 
 #: src-en/data/events_special_storage.xml.append:87
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_start_3\"]/text"
-msgstr ""
+msgstr "Aller pêcher hors combat à nouveau."
 
 #: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_start_4\"]/text"
-msgstr ""
+msgstr "Aller pêcher hors combat à nouveau."
 
 #: src-en/data/events_special_storage.xml.append:105
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_start_5\"]/text"
-msgstr ""
+msgstr "Aller pêcher hors combat à nouveau."
 
 #: src-en/data/events_special_storage.xml.append:114
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fish_start_6\"]/text"
-msgstr ""
+msgstr "Aller pêcher hors combat à nouveau."
 
 #: src-en/data/events_special_storage.xml.append:123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/text"
-msgstr ""
+msgstr "Améliorer un harpon."
 
 #: src-en/data/events_special_storage.xml.append:125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/text"
-msgstr ""
+msgstr "Choisir un harpon à améliorer."
 
 #: src-en/data/events_special_storage.xml.append:127
 msgid ""
@@ -129,12 +144,14 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_0\"]/text"
-msgstr ""
+msgstr "Améliorer votre Harpon Rouillé MK I en MK I. -25~"
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_0\"]/event/text"
 msgstr ""
+"En suivant le manuel fourni, vous pouvez augmenter l’efficacité de votre "
+"harpon."
 
 #: src-en/data/events_special_storage.xml.append:140
 msgid ""
@@ -144,12 +161,14 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_1\"]/text"
-msgstr ""
+msgstr "Améliorer votre Harpon MK I en MK II. -50~"
 
 #: src-en/data/events_special_storage.xml.append:148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_1\"]/event/text"
 msgstr ""
+"En suivant le manuel fourni, vous pouvez augmenter l’efficacité de votre "
+"harpon."
 
 #: src-en/data/events_special_storage.xml.append:155
 msgid ""
@@ -159,12 +178,14 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Améliorer votre Harpon MK II en MK II† à faible consommation. -10~"
 
 #: src-en/data/events_special_storage.xml.append:163
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[4]/event/text"
 msgstr ""
+"En suivant le manuel fourni, vous pouvez augmenter l’efficacité énergétique "
+"de votre harpon."
 
 #: src-en/data/events_special_storage.xml.append:170
 msgid ""
@@ -174,12 +195,14 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[5]/text"
-msgstr ""
+msgstr "Améliorer votre Harpon MK II en MK III. -100~"
 
 #: src-en/data/events_special_storage.xml.append:178
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[5]/event/text"
 msgstr ""
+"En suivant le manuel fourni, vous pouvez augmenter l’efficacité de votre "
+"harpon."
 
 #: src-en/data/events_special_storage.xml.append:185
 msgid ""
@@ -190,11 +213,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_2_P\"]/text"
 msgstr ""
+"Améliorer votre Harpon MK II à faible consommation en MK III à faible "
+"consommation. -100~"
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_2_P\"]/event/text"
 msgstr ""
+"En suivant le manuel fourni, vous pouvez augmenter l’efficacité de votre "
+"harpon."
 
 #: src-en/data/events_special_storage.xml.append:200
 msgid ""
@@ -204,12 +231,14 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_3\"]/text"
-msgstr ""
+msgstr "Améliorer votre Harpon MK III en MK III† à faible consommation. -10~"
 
 #: src-en/data/events_special_storage.xml.append:208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_3\"]/event/text"
 msgstr ""
+"En suivant le manuel fourni, vous pouvez augmenter l’efficacité énergétique "
+"de votre harpon."
 
 #: src-en/data/events_special_storage.xml.append:215
 msgid ""
@@ -220,11 +249,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_3_P\"]/text"
 msgstr ""
+"Améliorer votre Harpon MK III† à faible consommation en MK III†† à faible "
+"consommation double. -10~"
 
 #: src-en/data/events_special_storage.xml.append:223
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_3_P\"]/event/text"
 msgstr ""
+"En suivant le manuel fourni, vous pouvez augmenter l’efficacité énergétique "
+"de votre harpon."
 
 #: src-en/data/events_special_storage.xml.append:230
 msgid ""
@@ -234,237 +267,253 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISH\"]/text"
-msgstr ""
+msgstr "Consommer un poisson"
 
 #: src-en/data/events_special_storage.xml.append:242
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[15]/text"
-msgstr ""
+msgstr "Consulter votre glossaire de poissons"
 
 #: src-en/data/events_special_storage.xml.append:246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[16]/text"
-msgstr ""
+msgstr "Installer une amélioration interne de pêche."
 
 #: src-en/data/events_special_storage.xml.append:250
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[17]/text"
-msgstr ""
+msgstr "Options d’appâts de pêche."
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"fishing_store_visited\"]/text"
-msgstr ""
+msgstr "Voir les primes de pêche."
 
 #: src-en/data/events_special_storage.xml.append:258
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[19]/text"
-msgstr ""
+msgstr "Infos sur la pêche."
 
 #: src-en/data/events_special_storage.xml.append:262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[20]/text"
-msgstr ""
+msgstr "Statistiques de pêche."
 
 #: src-en/data/events_special_storage.xml.append:268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/text"
-msgstr ""
+msgstr "Quel poisson souhaitez-vous cuisiner ?"
 
 #: src-en/data/events_special_storage.xml.append:270
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[1]/text"
-msgstr ""
+msgstr "Ne rien cuisiner."
 
 #: src-en/data/events_special_storage.xml.append:274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_1\"]/text"
-msgstr ""
+msgstr "Cuisiner le Vivaneau orange. (+5 % de santé maximale)"
 
 #: src-en/data/events_special_storage.xml.append:282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_2\"]/text"
-msgstr ""
+msgstr "Cuisiner l’Empereur rouge. (+5 % de dégâts)"
 
 #: src-en/data/events_special_storage.xml.append:290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_3\"]/text"
-msgstr ""
+msgstr "Cuisiner la Truite corail rayée. (+5 % de réduction de dégâts)"
 
 #: src-en/data/events_special_storage.xml.append:298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4\"]/text"
-msgstr ""
+msgstr "Cuisiner le Maquereau tacheté. (+5 % de vitesse de déplacement)"
 
 #: src-en/data/events_special_storage.xml.append:306
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_5\"]/text"
-msgstr ""
+msgstr "Cuisiner le Mérou d’estuaire. (+5 % de vitesse de réparation)"
 
 #: src-en/data/events_special_storage.xml.append:314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_6\"]/text"
 msgstr ""
+"Cuisiner le Poisson-capitaine bleu. (+1 % de vitesse de recharge des armes)"
 
 #: src-en/data/events_special_storage.xml.append:322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_7\"]/text"
 msgstr ""
+"Cuisiner le Poisson noir des rochers. (+1 % de vitesse de recharge des "
+"boucliers)"
 
 #: src-en/data/events_special_storage.xml.append:330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_8\"]/text"
-msgstr ""
+msgstr "Cuisiner le Thon à longue queue. (+1 % en récupération de ferraille)"
 
 #: src-en/data/events_special_storage.xml.append:338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_9\"]/text"
-msgstr ""
+msgstr "Cuisiner le Poulpe de récif. (+1 % de résistance aux systèmes)"
 
 #: src-en/data/events_special_storage.xml.append:346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_0\"]/text"
-msgstr ""
+msgstr "Cuisiner la Raie aigle. (+1 % de résistance de coque)"
 
 #: src-en/data/events_special_storage.xml.append:356
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_11\"]/text"
-msgstr ""
+msgstr "Cuisiner l'Anguille à doubles nageoires. (+15 % de santé maximale)"
 
 #: src-en/data/events_special_storage.xml.append:364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_12\"]/text"
-msgstr ""
+msgstr "Cuisiner l'Anguille bleue. (+15 % de Dégâts)"
 
 #: src-en/data/events_special_storage.xml.append:372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_13\"]/text"
 msgstr ""
+"Cuisiner le Poisson-lune à nageoires jaunes. (+15 % de réduction de dégâts)"
 
 #: src-en/data/events_special_storage.xml.append:380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_14\"]/text"
-msgstr ""
+msgstr "Cuisiner le Thon à gros yeux. (+15 % de vitesse de déplacement)"
 
 #: src-en/data/events_special_storage.xml.append:388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_15\"]/text"
-msgstr ""
+msgstr "Cuisiner le Barracuda tacheté. (+15 % de vitesse de réparation)"
 
 #: src-en/data/events_special_storage.xml.append:396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_16\"]/text"
-msgstr ""
+msgstr "Cuisiner la Truite brune. (+5 % de vitesse de recharge des armes)"
 
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_17\"]/text"
-msgstr ""
+msgstr "Cuisiner le Rouget. (+6 % de vitesse de recharge des boucliers)"
 
 #: src-en/data/events_special_storage.xml.append:412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_18\"]/text"
-msgstr ""
+msgstr "Cuisiner la Truite couronnée. (+5 % de récupération de ferraille)"
 
 #: src-en/data/events_special_storage.xml.append:420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_19\"]/text"
 msgstr ""
+"Cuisiner la Carangue à nageoires jaune. (+4 % de résistance aux systèmes)"
 
 #: src-en/data/events_special_storage.xml.append:428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_10\"]/text"
-msgstr ""
+msgstr "Cuisiner la Truite arc-en-ciel. (+4 % de résistance de coque)"
 
 #: src-en/data/events_special_storage.xml.append:438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_21\"]/text"
-msgstr ""
+msgstr "Cuisiner le Saumon argenté. (+45 % de santé maximale)"
 
 #: src-en/data/events_special_storage.xml.append:446
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_22\"]/text"
-msgstr ""
+msgstr "Cuisiner le Poisson-coq. (+45 % de Dégâts)"
 
 #: src-en/data/events_special_storage.xml.append:454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_23\"]/text"
-msgstr ""
+msgstr "Cuisiner le Saumon à nageoires jaunes. (+45 % de réduction de dégâts)"
 
 #: src-en/data/events_special_storage.xml.append:462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_24\"]/text"
-msgstr ""
+msgstr "Cuisiner le Silure à tête plate. (+45 % de vitesse de déplacement)"
 
 #: src-en/data/events_special_storage.xml.append:470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_25\"]/text"
-msgstr ""
+msgstr "Cuisiner la Dorade dorée. (+45 % de vitesse de réparation)"
 
 #: src-en/data/events_special_storage.xml.append:478
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_26\"]/text"
-msgstr ""
+msgstr "Cuisiner le Cobia noir. (+20 % de vitesse de recharge des armes)"
 
 #: src-en/data/events_special_storage.xml.append:486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_27\"]/text"
 msgstr ""
+"Cuisiner le Poisson-sagesse. (+25 % de vitesse de recharge des boucliers)"
 
 #: src-en/data/events_special_storage.xml.append:494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_28\"]/text"
-msgstr ""
+msgstr "Cuisiner la Truite dorée. (+20 % de récupération de ferraille)"
 
 #: src-en/data/events_special_storage.xml.append:502
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_29\"]/text"
-msgstr ""
+msgstr "Cuisiner le Silure du canal. (+16 % de résistance aux systèmes)"
 
 #: src-en/data/events_special_storage.xml.append:510
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_20\"]/text"
-msgstr ""
+msgstr "Cuisiner l'Esturgeon commun. (+16 % de résistance de coque)"
 
 #: src-en/data/events_special_storage.xml.append:520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_31\"]/text"
-msgstr ""
+msgstr "Cuisiner la Carangue reine. (-90 % de vitesse de déplacement ennemi)"
 
 #: src-en/data/events_special_storage.xml.append:528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_32\"]/text"
 msgstr ""
+"Cuisiner le Coryphène. (-100 % de dégâts pour tout l’équipage à bord, 5 dégâ"
+"ts/seconde à l’ennemi à bord)"
 
 #: src-en/data/events_special_storage.xml.append:536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_33\"]/text"
 msgstr ""
+"Cuisiner le Poisson côtier. (pas de réparations par l’équipage, tous les "
+"systèmes se réparent automatiquement)"
 
 #: src-en/data/events_special_storage.xml.append:544
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[35]/text"
 msgstr ""
+"Cuisiner le Mérou. (+110 % de bonus de vitesse de recharge des armes, -50 % "
+"de vitesse de recharge des boucliers)"
 
 #: src-en/data/events_special_storage.xml.append:552
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[36]/text"
 msgstr ""
+"Cuisiner le Mérou. (+110 % de vitesse de recharge des boucliers, -50 % de "
+"vitesse de recharge des armes)"
 
 #: src-en/data/events_special_storage.xml.append:560
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_35\"]/text"
-msgstr ""
+msgstr "Cuisiner le Chinchard bleu. (tous les systèmes au niveau 2 permanent)"
 
 #: src-en/data/events_special_storage.xml.append:568
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_37\"]/text"
-msgstr ""
+msgstr "Cuisiner le Marlin bleu. (donne 3 armes aléatoires)"
 
 #: src-en/data/events_special_storage.xml.append:570
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_37\"]/event/text"
 msgstr ""
+"Vous ouvrez le poisson et découvrez une étrange cache d’armes. Vous en "
+"sortez la première arme."
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
@@ -474,7 +523,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_37\"]/event/choice/event/text"
-msgstr ""
+msgstr "Vous sortez une deuxième arme."
 
 #: src-en/data/events_special_storage.xml.append:578
 msgid ""
@@ -484,7 +533,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_37\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Vous sortez une troisième et dernière arme."
 
 #: src-en/data/events_special_storage.xml.append:585
 msgid ""
@@ -494,12 +543,16 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_41\"]/text"
-msgstr ""
+msgstr "Cuisiner le Poisson Alliance. (+5 en Réputation)"
 
 #: src-en/data/events_special_storage.xml.append:599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_41\"]/event/text"
 msgstr ""
+"[MAUVAISE RÉPUTATION DIMINUÉE X5 - GÉNÉRAL]\n"
+"      Vous avez accompli une bonne action aux yeux de la Fédération. SSi "
+"vous aviez acquis une certaine mauvaise réputation suite à vos actions "
+"passées, vous aurez plus de chances d'être pardonné désormais."
 
 #: src-en/data/events_special_storage.xml.append:605
 msgid ""
@@ -510,99 +563,117 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_42\"]/text"
 msgstr ""
+"Cuisiner le Poisson Commando. (Les humains de base n’occupent plus "
+"d’emplacements)"
 
 #: src-en/data/events_special_storage.xml.append:619
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_43\"]/text"
 msgstr ""
+"Cuisiner le Poisson Harmonie. (+50 % de santé et de dégâts pour les drones)"
 
 #: src-en/data/events_special_storage.xml.append:627
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_44\"]/text"
 msgstr ""
+"Cuisiner le Poisson Énergie. (-1 d’énergie pour vos armes, en commençant par "
+"la première arme)"
 
 #: src-en/data/events_special_storage.xml.append:635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_45\"]/text"
 msgstr ""
+"Cuisiner le Poisson des varechs. (Dégâts de suffocation doublés, supprime l’"
+"immunité à la suffocation des ennemis)"
 
 #: src-en/data/events_special_storage.xml.append:643
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_46\"]/text"
 msgstr ""
+"Cuisiner le Poisson Mantis . (Tout les équipages : -50 % de dégâts à "
+"distance, équipage allié : +100 % de dégâts au corps à corps)"
 
 #: src-en/data/events_special_storage.xml.append:651
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_47\"]/text"
 msgstr ""
+"Cuisiner le Poisson Glace. (L’équipage fait apparaître des éclats Cristalien "
+"lorsqu’il est touché par des armes du vaisseau)"
 
 #: src-en/data/events_special_storage.xml.append:659
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_48\"]/text"
-msgstr ""
+msgstr "Cuisiner le Poisson-pierre. (+5 points de super coque)"
 
 #: src-en/data/events_special_storage.xml.append:667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_49\"]/text"
 msgstr ""
+"Cuisiner le Poisson Insurgé. (Tous les humains : +50 % de dégâts, +33 % de "
+"réduction des dégâts)"
 
 #: src-en/data/events_special_storage.xml.append:675
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_40\"]/text"
 msgstr ""
+"Cuisiner le Poisson Voleur. (+1 ferraille à chaque dégât infligé à la coque "
+"ennemie, -3 à chaque dégât subi sur votre propre coque)"
 
 #: src-en/data/events_special_storage.xml.append:683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4A\"]/text"
-msgstr ""
+msgstr "Cuisiner le Poisson Anaérobie. (+80 % de résistance à la suffocation)"
 
 #: src-en/data/events_special_storage.xml.append:691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_4B\"]/text"
-msgstr ""
+msgstr "Cuisiner la Raie Limace. (Immunité au contrôle mental)"
 
 #: src-en/data/events_special_storage.xml.append:699
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_4C\"]/text"
 msgstr ""
+"Cuisiner la Sangsue ?. (Toutes les sangsues alliées gagnent la téléportation "
+"mais perdent 50 % de leur santé)"
 
 #: src-en/data/events_special_storage.xml.append:715
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4D\"]/text"
 msgstr ""
+"Cuisiner le Poisson Ancien. (Améliore une arme obélisque en variante royale)"
 
 #: src-en/data/events_special_storage.xml.append:719
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4E\"]/text"
-msgstr ""
+msgstr "Cuisiner le Sylfin. (Balise du marchand de poissons, +1 Sylvain)"
 
 #: src-en/data/events_special_storage.xml.append:722
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_4E\"]/event/crewMember"
-msgstr ""
+msgstr "Sylfin"
 
 #: src-en/data/events_special_storage.xml.append:752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/text"
-msgstr ""
+msgstr "Quelle arme souhaitez-vous améliorer ?"
 
 #: src-en/data/events_special_storage.xml.append:755
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_LASER_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer l'Augure MK III"
 
 #: src-en/data/events_special_storage.xml.append:759
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_LASER_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer l'Augure MK III"
 
 #: src-en/data/events_special_storage.xml.append:761
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_LASER_3\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et l’arme."
 
 #: src-en/data/events_special_storage.xml.append:765
 msgid ""
@@ -614,19 +685,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_MISSILES\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer les missiles Carnage"
 
 #: src-en/data/events_special_storage.xml.append:776
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_MISSILES\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer les missiles Carnage"
 
 #: src-en/data/events_special_storage.xml.append:778
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_MISSILES\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et l’arme."
 
 #: src-en/data/events_special_storage.xml.append:782
 msgid ""
@@ -638,19 +709,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BEAM_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer l’Eradicateur MK III"
 
 #: src-en/data/events_special_storage.xml.append:793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BEAM_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer l’Eradicateur MK III"
 
 #: src-en/data/events_special_storage.xml.append:795
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BEAM_3\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et l’arme."
 
 #: src-en/data/events_special_storage.xml.append:799
 msgid ""
@@ -662,19 +733,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_HAVOC\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer le Ravageur"
 
 #: src-en/data/events_special_storage.xml.append:810
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_HAVOC\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer le Ravageur"
 
 #: src-en/data/events_special_storage.xml.append:812
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_HAVOC\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et l’arme."
 
 #: src-en/data/events_special_storage.xml.append:816
 msgid ""
@@ -686,19 +757,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_ION_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer le canon à plasma MK II"
 
 #: src-en/data/events_special_storage.xml.append:827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_ION_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer le canon à plasma MK II"
 
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_ION_2\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et l’arme."
 
 #: src-en/data/events_special_storage.xml.append:833
 msgid ""
@@ -710,19 +781,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_FOCUS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer l'Aiguillon Purificateur MK I"
 
 #: src-en/data/events_special_storage.xml.append:844
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_FOCUS\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer l'Aiguillon Purificateur MK I"
 
 #: src-en/data/events_special_storage.xml.append:846
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_FOCUS\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et l’arme."
 
 #: src-en/data/events_special_storage.xml.append:850
 msgid ""
@@ -734,19 +805,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BOMB\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer le Téléporteur de Charge"
 
 #: src-en/data/events_special_storage.xml.append:861
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BOMB\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer le Téléporteur de Charge"
 
 #: src-en/data/events_special_storage.xml.append:863
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BOMB\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et l’arme."
 
 #: src-en/data/events_special_storage.xml.append:867
 msgid ""
@@ -758,19 +829,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_LASER_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer le drone Augure MK II"
 
 #: src-en/data/events_special_storage.xml.append:878
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_LASER_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer le drone Augure MK II"
 
 #: src-en/data/events_special_storage.xml.append:880
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_LASER_2\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et le drone."
 
 #: src-en/data/events_special_storage.xml.append:884
 msgid ""
@@ -782,19 +853,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_DEFENSE_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer le Surveilleur"
 
 #: src-en/data/events_special_storage.xml.append:895
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_DEFENSE_1\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer le Surveilleur"
 
 #: src-en/data/events_special_storage.xml.append:897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_DEFENSE_1\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et le drone."
 
 #: src-en/data/events_special_storage.xml.append:901
 msgid ""
@@ -806,19 +877,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_ION\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer le drone à plasma"
 
 #: src-en/data/events_special_storage.xml.append:912
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_ION\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer le drone à plasma"
 
 #: src-en/data/events_special_storage.xml.append:914
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_ION\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et le drone."
 
 #: src-en/data/events_special_storage.xml.append:918
 msgid ""
@@ -830,19 +901,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Améliorer le drone Carnage"
 
 #: src-en/data/events_special_storage.xml.append:929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Améliorer le drone Carnage"
 
 #: src-en/data/events_special_storage.xml.append:931
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_COMBAT_MISSILE\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "Vous combinez le poisson et le drone."
 
 #: src-en/data/events_special_storage.xml.append:935
 msgid ""
@@ -858,7 +929,7 @@ msgstr "Laisser tomber."
 #: src-en/data/events_special_storage.xml.append:952
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY\"]/text"
-msgstr ""
+msgstr "Vous ouvrez votre livre à la page du sommaire."
 
 #: src-en/data/events_special_storage.xml.append:954
 msgid ""
@@ -868,37 +939,37 @@ msgstr "Revenir en arrière."
 #: src-en/data/events_special_storage.xml.append:958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY\"]/choice[2]/text"
-msgstr ""
+msgstr "Aller au chapitre I : Poissons de base."
 
 #: src-en/data/events_special_storage.xml.append:962
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY\"]/choice[3]/text"
-msgstr ""
+msgstr "Aller au chapitre II : Poisson peu commun."
 
 #: src-en/data/events_special_storage.xml.append:966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY\"]/choice[4]/text"
-msgstr ""
+msgstr "Aller au chapitre III : Poissons rares."
 
 #: src-en/data/events_special_storage.xml.append:970
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY\"]/choice[5]/text"
-msgstr ""
+msgstr "Aller au chapitre IV : Poissons Légendaires."
 
 #: src-en/data/events_special_storage.xml.append:974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY\"]/choice[6]/text"
-msgstr ""
+msgstr "Aller au chapitre V : Poissons Uniques."
 
 #: src-en/data/events_special_storage.xml.append:978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY\"]/choice[7]/text"
-msgstr ""
+msgstr "Aller au chapitre VI : Poissons-armes."
 
 #: src-en/data/events_special_storage.xml.append:984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/text"
-msgstr ""
+msgstr "Vous ouvrez le livre au chapitre sur les poissons les plus courants."
 
 #: src-en/data/events_special_storage.xml.append:987
 msgid ""
@@ -1148,7 +1219,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:1163
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/text"
-msgstr ""
+msgstr "Vous ouvrez le livre au chapitre sur les poissons peu commun."
 
 #: src-en/data/events_special_storage.xml.append:1166
 msgid ""
@@ -1398,7 +1469,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:1342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/text"
-msgstr ""
+msgstr "Vous ouvrez le livre au chapitre sur les poissons rares."
 
 #: src-en/data/events_special_storage.xml.append:1345
 msgid ""
@@ -1648,7 +1719,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:1521
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/text"
-msgstr ""
+msgstr "Vous ouvrez le livre au chapitre sur les poissons peu commun."
 
 #: src-en/data/events_special_storage.xml.append:1524
 msgid ""
@@ -1827,6 +1898,9 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/text"
 msgstr ""
+"Vous ouvrez le livre au chapitre sur les poissons uniques que l’on peut "
+"trouver dans le multivers, mais il semble que personne n’ait réellement "
+"enregistré ces poissons, vous devrez le faire vous-même."
 
 #: src-en/data/events_special_storage.xml.append:1652
 msgid ""
@@ -2103,6 +2177,8 @@ msgstr "Inconnu"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/text"
 msgstr ""
+"Vous ouvrez le livre au chapitre sur les types de poissons les plus "
+"dangereux."
 
 #: src-en/data/events_special_storage.xml.append:1844
 msgid ""
@@ -2280,22 +2356,22 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:1969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/text"
-msgstr ""
+msgstr "Choisir une amélioration interne à installer."
 
 #: src-en/data/events_special_storage.xml.append:1971
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[1]/text"
-msgstr ""
+msgstr "Laisser tomber"
 
 #: src-en/data/events_special_storage.xml.append:1976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"fish_inaug_bait_check\"]/text"
-msgstr ""
+msgstr "Appât amélioré. (Réduit les chances d’obtenir des ordures)"
 
 #: src-en/data/events_special_storage.xml.append:1978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"fish_inaug_bait_check\"]/event/text"
-msgstr ""
+msgstr "Vous installez l’appât amélioré."
 
 #: src-en/data/events_special_storage.xml.append:1986
 msgid ""
@@ -2306,11 +2382,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_SAFE\"]/text"
 msgstr ""
+"Dérogations à la sécurité (Vous permet de pêcher plusieurs fois hors combat "
+"à des coûts croissants)"
 
 #: src-en/data/events_special_storage.xml.append:2010
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_SAFE\"]/event/text"
-msgstr ""
+msgstr "Vous installez la dérogations à la sécurité."
 
 #: src-en/data/events_special_storage.xml.append:2017
 msgid ""
@@ -2321,11 +2399,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_REPEL\"]/text"
 msgstr ""
+"Répulsif à poissons. (Repousse les poissons de faible difficulté lorsqu’on "
+"utilise des harpons de plus grande puissance.)"
 
 #: src-en/data/events_special_storage.xml.append:2025
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_REPEL\"]/event/text"
-msgstr ""
+msgstr "Vous installez le répulsif à poissons."
 
 #: src-en/data/events_special_storage.xml.append:2034
 msgid ""
@@ -2336,11 +2416,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_SPEED\"]/text"
 msgstr ""
+"Moulinet plus rapide. (Les poissons sont attrapés 1,8 fois plus vite, mais "
+"se débattent 1,5 fois plus vite)"
 
 #: src-en/data/events_special_storage.xml.append:2062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_SPEED\"]/event/text"
-msgstr ""
+msgstr "Vous installez le moulinet plus rapide."
 
 #: src-en/data/events_special_storage.xml.append:2071
 msgid ""
@@ -2351,11 +2433,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_HIGHER\"]/text"
 msgstr ""
+"Corde supplémentaire. (Les poissons commencent avec un pourcentage de "
+"capture deux fois plus élevé qu'auparavant)"
 
 #: src-en/data/events_special_storage.xml.append:2079
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_HIGHER\"]/event/text"
-msgstr ""
+msgstr "Vous installez la corde supplémentaire."
 
 #: src-en/data/events_special_storage.xml.append:2085
 msgid ""
@@ -2366,11 +2450,13 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_GRAV\"]/text"
 msgstr ""
+"Flotteur plus lourd. (La gravité sur l’hameçon est 30 % plus forte, le "
+"poisson ralentit 30 % plus vite)"
 
 #: src-en/data/events_special_storage.xml.append:2093
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_GRAV\"]/event/text"
-msgstr ""
+msgstr "Vous installez le flotteur plus lourd."
 
 #: src-en/data/events_special_storage.xml.append:2102
 msgid ""
@@ -2381,12 +2467,37 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Balise du marchand de poissons) Invoquer une boutique."
 
 #: src-en/data/events_special_storage.xml.append:2119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_INFO\"]/text"
 msgstr ""
+"Les récompenses de pêche sont calculées de la manière suivante :\n"
+"Lorsque vous attrapez un poisson, le jeu calcule d’abord la probabilité d’"
+"obtenir des ordures. Initialement, cette probabilité est de 3/4, réduite à 2/"
+"3 grâce à l’amélioration interne, puis à 0/1 grâce au bonus et à l’"
+"amélioration du vaisseau de pêche.\n"
+"Si le résultat donne des ordures, il y a 50 % de chances d’obtenir un "
+"poisson basique et 50 % de chances d’obtenir un objet inutile (valant 5 "
+"ferrailles).\n"
+"(Cela ne s’applique pas au poisson bleu luminescent, qui est garanti "
+"légendaire.)\n"
+"\n"
+"Sinon, le butin de pêche est déterminé par la table de butin correspondant à "
+"la difficulté du poisson attrapé. Il existe différentes tables de butin "
+"selon votre secteur.\n"
+"\n"
+"La difficulté du poisson est déterminée au début de la pêche. Normalement, c’"
+"est un nombre compris entre 1 et la force de votre harpon. Un MK 1 a une "
+"force de 5, un MK 2 une force de 10, et un MK 3 une force de 16.\n"
+"Les MK 2 et MK 3 augmenteront la limite inférieure de la difficulté si vous "
+"avez l’amélioration interne qui rend les poissons basiques plus rares.\n"
+"\n"
+"Les bonus de pêche Basique, Peu commun et Rare s’additionnent de façon "
+"multiplicative, et ne s’appliquent qu’à votre propre équipage.\n"
+"Les autres bonus s’additionnent généralement de façon multiplicative, mais "
+"peuvent aussi s’appliquer à l’équipage ennemi."
 
 #: src-en/data/events_special_storage.xml.append:2132
 msgid ""
@@ -2406,7 +2517,7 @@ msgstr "Laisser tomber"
 #: src-en/data/events_special_storage.xml.append:2149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_11\"]/text"
-msgstr ""
+msgstr "Appât équipé actuellement : Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2151
 msgid ""
@@ -2416,7 +2527,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2157
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_12\"]/text"
-msgstr ""
+msgstr "Appât équipé actuellement : Poissons moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2159
 msgid ""
@@ -2426,7 +2537,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_13\"]/text"
-msgstr ""
+msgstr "Appât équipé actuellement : Pas d’arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2167
 msgid ""
@@ -2436,7 +2547,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2173
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_14\"]/text"
-msgstr ""
+msgstr "Appât équipé actuellement : Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2175
 msgid ""
@@ -2446,7 +2557,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_15\"]/text"
-msgstr ""
+msgstr "Appât équipé actuellement : Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2183
 msgid ""
@@ -2457,6 +2568,7 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_21\"]/text"
 msgstr ""
+"Appât équipé actuellement : Pas de ferraille / Poissons moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2192
 msgid ""
@@ -2467,6 +2579,8 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_22\"]/text"
 msgstr ""
+"Appât équipé actuellement : Poissons moins génériques / Pas d’arme ni de "
+"poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2200
 msgid ""
@@ -2477,6 +2591,7 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_23\"]/text"
 msgstr ""
+"Appât équipé actuellement : Pas d’arme ni de poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2208
 msgid ""
@@ -2486,7 +2601,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_24\"]/text"
-msgstr ""
+msgstr "Appât équipé actuellement : Aucun équipage / Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2216
 msgid ""
@@ -2496,7 +2611,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_25\"]/text"
-msgstr ""
+msgstr "Appât équipé actuellement : Aucun équipement / Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2224
 msgid ""
@@ -2507,6 +2622,8 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_31\"]/text"
 msgstr ""
+"Appât équipé actuellement : Pas de ferraille / Poissons moins génériques / "
+"Pas d’arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2233
 msgid ""
@@ -2517,6 +2634,8 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_32\"]/text"
 msgstr ""
+"Appât équipé actuellement : Poissons moins génériques / Pas d’arme ni de "
+"poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2241
 msgid ""
@@ -2527,6 +2646,8 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_33\"]/text"
 msgstr ""
+"Appât équipé actuellement : Pas d’arme ni de poisson unique / Aucun équipage "
+"/ Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2249
 msgid ""
@@ -2537,6 +2658,8 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_34\"]/text"
 msgstr ""
+"Appât équipé actuellement : Aucun équipage / Aucun équipement / Pas de "
+"ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2257
 msgid ""
@@ -2547,6 +2670,8 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_35\"]/text"
 msgstr ""
+"Appât équipé actuellement : Aucun équipement / Pas de ferraille / Poissons "
+"moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2265
 msgid ""
@@ -2556,7 +2681,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2271
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_DOUBLE\"]/text"
-msgstr ""
+msgstr "Appât équipé actuellement : Hameçon Double"
 
 #: src-en/data/events_special_storage.xml.append:2273
 msgid ""
@@ -2566,12 +2691,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2280
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[18]/text"
-msgstr ""
+msgstr "Déséquiper l'appât."
 
 #: src-en/data/events_special_storage.xml.append:2302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_11\"]/text"
-msgstr ""
+msgstr "Stocker l’appât en interne : Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2304
 msgid ""
@@ -2581,12 +2706,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_11\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_12\"]/text"
-msgstr ""
+msgstr "Stocker l’appât en interne : Poissons moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2334
 msgid ""
@@ -2596,12 +2721,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_12\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Poissons moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_13\"]/text"
-msgstr ""
+msgstr "Stocker l’appât en interne : Pas d’arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2364
 msgid ""
@@ -2611,12 +2736,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_13\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Pas d’arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_14\"]/text"
-msgstr ""
+msgstr "Stocker l’appât en interne : Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2394
 msgid ""
@@ -2626,12 +2751,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_14\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2422
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_15\"]/text"
-msgstr ""
+msgstr "Stocker l’appât en interne : Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2424
 msgid ""
@@ -2641,12 +2766,13 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_15\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_21\"]/text"
 msgstr ""
+"Stocker l’appât en interne : Pas de ferraille / Poissons moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2454
 msgid ""
@@ -2656,12 +2782,14 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_21\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Pas de ferraille / Poissons moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_22\"]/text"
 msgstr ""
+"Stocker l’appât en interne : Poissons moins génériques / Pas d’arme ni de "
+"poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2484
 msgid ""
@@ -2672,11 +2800,13 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_22\"]/text"
 msgstr ""
+"Equiper l'appât : Poissons moins génériques / Pas d’arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_23\"]/text"
 msgstr ""
+"Stocker l’appât en interne : Pas d’arme ni de poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2514
 msgid ""
@@ -2686,12 +2816,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_23\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Pas d’arme ni de poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2542
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_24\"]/text"
-msgstr ""
+msgstr "Stocker l’appât en interne : Aucun équipage / Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2544
 msgid ""
@@ -2701,12 +2831,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2550
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_24\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Aucun équipage / Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_25\"]/text"
-msgstr ""
+msgstr "Stocker l’appât en interne : Aucun équipement / Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2574
 msgid ""
@@ -2716,12 +2846,14 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_25\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Aucun équipement / Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2602
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_31\"]/text"
 msgstr ""
+"Stocker l’appât en interne : Pas de ferraille / Poissons moins génériques / "
+"Pas d’arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2604
 msgid ""
@@ -2732,11 +2864,15 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_31\"]/text"
 msgstr ""
+"Equiper l'appât :Pas de ferraille / Poissons moins génériques / Pas d’arme "
+"ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_32\"]/text"
 msgstr ""
+"Stocker l’appât en interne : Poissons moins génériques / Pas d’arme ni de "
+"poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2634
 msgid ""
@@ -2747,11 +2883,15 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_32\"]/text"
 msgstr ""
+"Equiper l'appât : Poissons moins génériques / Pas d’arme ni de poisson "
+"unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_33\"]/text"
 msgstr ""
+"Stocker l’appât en interne : Pas d’arme ni de poisson unique / Aucun "
+"équipage / Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2664
 msgid ""
@@ -2762,11 +2902,15 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_33\"]/text"
 msgstr ""
+"Equiper l'appât : Pas d’arme ni de poisson unique / Aucun équipage / Aucun "
+"équipement"
 
 #: src-en/data/events_special_storage.xml.append:2692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_34\"]/text"
 msgstr ""
+"Stocker l’appât en interne : Aucun équipage / Aucun équipement / Pas de "
+"ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2694
 msgid ""
@@ -2776,12 +2920,14 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2700
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_34\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Aucun équipage / Aucun équipement / Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2722
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_35\"]/text"
 msgstr ""
+"Stocker l’appât en interne : Aucun équipement / Pas de ferraille / Poissons "
+"moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2724
 msgid ""
@@ -2792,11 +2938,13 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_35\"]/text"
 msgstr ""
+"Equiper l'appât :Aucun équipement / Pas de ferraille / Poissons moins "
+"génériques"
 
 #: src-en/data/events_special_storage.xml.append:2752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_DOUBLE\"]/text"
-msgstr ""
+msgstr "Stocker l’appât en interne : Hameçon Double"
 
 #: src-en/data/events_special_storage.xml.append:2754
 msgid ""
@@ -2806,7 +2954,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2760
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_DOUBLE\"]/text"
-msgstr ""
+msgstr "Equiper l'appât : Hameçon double"
 
 #: src-en/data/events_special_storage.xml.append:2783
 msgid ""
@@ -2982,948 +3130,948 @@ msgstr "Laisser tomber"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 0 : Carangue reine"
 
 #: src-en/data/events_special_storage.xml.append:2954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 0 : Coryphène"
 
 #: src-en/data/events_special_storage.xml.append:2958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 0 : Poisson côtier"
 
 #: src-en/data/events_special_storage.xml.append:2962
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 0 : Mérou"
 
 #: src-en/data/events_special_storage.xml.append:2966
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 0 : Chinchard bleu"
 
 #: src-en/data/events_special_storage.xml.append:2970
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 0 : Pirarucu"
 
 #: src-en/data/events_special_storage.xml.append:2974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_DOUBLE\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 0 : Marlin bleu"
 
 #: src-en/data/events_special_storage.xml.append:2980
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 1 : Vivaneau orange"
 
 #: src-en/data/events_special_storage.xml.append:2984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 1 : Empereur rouge"
 
 #: src-en/data/events_special_storage.xml.append:2988
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 1 : Truite corail rayée"
 
 #: src-en/data/events_special_storage.xml.append:2992
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 1 : Maquereau tacheté"
 
 #: src-en/data/events_special_storage.xml.append:2996
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 1 : Mérou d’estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3000
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 1 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_storage.xml.append:3004
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 1 : Poisson noir des rochers"
 
 #: src-en/data/events_special_storage.xml.append:3008
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 1 : Thon à longue queue"
 
 #: src-en/data/events_special_storage.xml.append:3012
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 1 : Poulpe de récif"
 
 #: src-en/data/events_special_storage.xml.append:3016
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 1 : Raie aigle"
 
 #: src-en/data/events_special_storage.xml.append:3022
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 2 : Vivaneau orange"
 
 #: src-en/data/events_special_storage.xml.append:3026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 2 : Empereur rouge"
 
 #: src-en/data/events_special_storage.xml.append:3030
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 2 : Truite corail rayée"
 
 #: src-en/data/events_special_storage.xml.append:3034
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 2 : Maquereau tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3038
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 2 : Mérou d’estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3042
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 2 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_storage.xml.append:3046
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 2 : Poisson noir des rochers"
 
 #: src-en/data/events_special_storage.xml.append:3050
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 2 : Thon à longue queue"
 
 #: src-en/data/events_special_storage.xml.append:3054
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 2 : Poulpe de récif"
 
 #: src-en/data/events_special_storage.xml.append:3058
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 2 : Raie aigle"
 
 #: src-en/data/events_special_storage.xml.append:3064
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 3 : Vivaneau orange"
 
 #: src-en/data/events_special_storage.xml.append:3068
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 3 : Empereur rouge"
 
 #: src-en/data/events_special_storage.xml.append:3072
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 3 : Truite corail rayée"
 
 #: src-en/data/events_special_storage.xml.append:3076
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 3 : Maquereau tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3080
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 3 : Mérou d’estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 3 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_storage.xml.append:3088
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 3 : Poisson noir des rochers"
 
 #: src-en/data/events_special_storage.xml.append:3092
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 3 : Thon à longue queue"
 
 #: src-en/data/events_special_storage.xml.append:3096
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 3 : Poulpe de récif"
 
 #: src-en/data/events_special_storage.xml.append:3100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 3 : Raie aigle"
 
 #: src-en/data/events_special_storage.xml.append:3106
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 4 : Vivaneau orange"
 
 #: src-en/data/events_special_storage.xml.append:3110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 4 : Empereur rouge"
 
 #: src-en/data/events_special_storage.xml.append:3114
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 4 : Truite corail rayée"
 
 #: src-en/data/events_special_storage.xml.append:3118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 4 : Maquereau tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3122
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 4 : Mérou d’estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3126
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 4 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_storage.xml.append:3130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 4 : Poisson noir des rochers"
 
 #: src-en/data/events_special_storage.xml.append:3134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 4 : Thon à longue queue"
 
 #: src-en/data/events_special_storage.xml.append:3138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 4 : Poulpe de récif"
 
 #: src-en/data/events_special_storage.xml.append:3142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 4 : Raie aigle"
 
 #: src-en/data/events_special_storage.xml.append:3148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 5 : Vivaneau orange"
 
 #: src-en/data/events_special_storage.xml.append:3152
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 5 : Empereur rouge"
 
 #: src-en/data/events_special_storage.xml.append:3156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 5 : Truite corail rayée"
 
 #: src-en/data/events_special_storage.xml.append:3160
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 5 : Maquereau tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 5 : Mérou d’estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 5 : Poisson-capitaine bleu"
 
 #: src-en/data/events_special_storage.xml.append:3172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 5 : Poisson noir des rochers"
 
 #: src-en/data/events_special_storage.xml.append:3176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 5 : Thon à longue queue"
 
 #: src-en/data/events_special_storage.xml.append:3180
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 5 : Poulpe de récif"
 
 #: src-en/data/events_special_storage.xml.append:3184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 5 : Raie aigle"
 
 #: src-en/data/events_special_storage.xml.append:3196
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 6 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_storage.xml.append:3200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 6 : Anguille bleue"
 
 #: src-en/data/events_special_storage.xml.append:3204
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 6 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 6 : Thon à gros yeux"
 
 #: src-en/data/events_special_storage.xml.append:3212
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 6 : Barracuda tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 6 : Truite brune"
 
 #: src-en/data/events_special_storage.xml.append:3220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 6 : Rouget"
 
 #: src-en/data/events_special_storage.xml.append:3224
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 6 : Truite couronnée"
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 6 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_storage.xml.append:3232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_21\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 6 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_storage.xml.append:3238
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 7 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_storage.xml.append:3242
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 7 : Anguille bleue"
 
 #: src-en/data/events_special_storage.xml.append:3246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 7 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3250
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 7 : Thon à gros yeux"
 
 #: src-en/data/events_special_storage.xml.append:3254
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 7 : Barracuda tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3258
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 7 : Truite brune"
 
 #: src-en/data/events_special_storage.xml.append:3262
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 7 : Rouget"
 
 #: src-en/data/events_special_storage.xml.append:3266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 7 : Truite couronnée"
 
 #: src-en/data/events_special_storage.xml.append:3270
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 7 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_storage.xml.append:3274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_22\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 7 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_storage.xml.append:3280
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 8 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_storage.xml.append:3284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 8 : Anguille bleue"
 
 #: src-en/data/events_special_storage.xml.append:3288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 8 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3292
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 8 : Thon à gros yeux"
 
 #: src-en/data/events_special_storage.xml.append:3296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 8 : Barracuda tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3300
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 8 : Truite brune"
 
 #: src-en/data/events_special_storage.xml.append:3304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 8 : Rouget"
 
 #: src-en/data/events_special_storage.xml.append:3308
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 8 : Truite couronnée"
 
 #: src-en/data/events_special_storage.xml.append:3312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 8 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_storage.xml.append:3316
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_23\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 8 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_storage.xml.append:3322
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 9 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_storage.xml.append:3326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 9 : Anguille bleue"
 
 #: src-en/data/events_special_storage.xml.append:3330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 9 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 9 : Thon à gros yeux"
 
 #: src-en/data/events_special_storage.xml.append:3338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 9 : Barracuda tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 9 : Truite brune"
 
 #: src-en/data/events_special_storage.xml.append:3346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 9 : Rouget"
 
 #: src-en/data/events_special_storage.xml.append:3350
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 9 : Truite couronnée"
 
 #: src-en/data/events_special_storage.xml.append:3354
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 9 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_storage.xml.append:3358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_24\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 9 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_storage.xml.append:3364
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 10 : Anguille à doubles nageoires"
 
 #: src-en/data/events_special_storage.xml.append:3368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 10 : Anguille bleue"
 
 #: src-en/data/events_special_storage.xml.append:3372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 10 : Poisson-lune à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3376
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 10 : Thon à gros yeux"
 
 #: src-en/data/events_special_storage.xml.append:3380
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 10 : Barracuda tacheté"
 
 #: src-en/data/events_special_storage.xml.append:3384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 10 : Truite brune"
 
 #: src-en/data/events_special_storage.xml.append:3388
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 10 : Rouget"
 
 #: src-en/data/events_special_storage.xml.append:3392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 10 : Truite couronnée"
 
 #: src-en/data/events_special_storage.xml.append:3396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 10 : Carangue à nageoires jaune"
 
 #: src-en/data/events_special_storage.xml.append:3400
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_25\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 10 : Truite arc-en-ciel"
 
 #: src-en/data/events_special_storage.xml.append:3412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 11 : Saumon argenté"
 
 #: src-en/data/events_special_storage.xml.append:3416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 11 : Poisson-coq"
 
 #: src-en/data/events_special_storage.xml.append:3420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 11 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 11 : Silure à tête plate"
 
 #: src-en/data/events_special_storage.xml.append:3428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 11 : Dorade dorée"
 
 #: src-en/data/events_special_storage.xml.append:3432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 11 : Cobia noir"
 
 #: src-en/data/events_special_storage.xml.append:3436
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 11 : Poisson-sagesse"
 
 #: src-en/data/events_special_storage.xml.append:3440
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 11 : Truite dorée"
 
 #: src-en/data/events_special_storage.xml.append:3444
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 11 : Silure du canal"
 
 #: src-en/data/events_special_storage.xml.append:3448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_31\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 11 : Esturgeon commun"
 
 #: src-en/data/events_special_storage.xml.append:3454
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 12 : Saumon argenté"
 
 #: src-en/data/events_special_storage.xml.append:3458
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 12 : Poisson-coq"
 
 #: src-en/data/events_special_storage.xml.append:3462
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 12 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3466
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 12 : Silure à tête plate"
 
 #: src-en/data/events_special_storage.xml.append:3470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 12 : Dorade dorée"
 
 #: src-en/data/events_special_storage.xml.append:3474
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 12 : Cobia noir"
 
 #: src-en/data/events_special_storage.xml.append:3478
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 12 : Poisson-sagesse"
 
 #: src-en/data/events_special_storage.xml.append:3482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 12 : Truite dorée"
 
 #: src-en/data/events_special_storage.xml.append:3486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 12 : Silure du canal"
 
 #: src-en/data/events_special_storage.xml.append:3490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_32\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 12 : Esturgeon commun"
 
 #: src-en/data/events_special_storage.xml.append:3496
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 13 : Saumon argenté"
 
 #: src-en/data/events_special_storage.xml.append:3500
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 13 : Poisson-coq"
 
 #: src-en/data/events_special_storage.xml.append:3504
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 13 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3508
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 13 : Silure à tête plate"
 
 #: src-en/data/events_special_storage.xml.append:3512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 13 : Dorade dorée"
 
 #: src-en/data/events_special_storage.xml.append:3516
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 13 : Cobia noir"
 
 #: src-en/data/events_special_storage.xml.append:3520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 13 : Poisson-sagesse"
 
 #: src-en/data/events_special_storage.xml.append:3524
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 13 : Truite dorée"
 
 #: src-en/data/events_special_storage.xml.append:3528
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 13 : Silure du canal"
 
 #: src-en/data/events_special_storage.xml.append:3532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_33\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 13 : Esturgeon commun"
 
 #: src-en/data/events_special_storage.xml.append:3538
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 14 : Saumon argenté"
 
 #: src-en/data/events_special_storage.xml.append:3542
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 14 : Poisson-coq"
 
 #: src-en/data/events_special_storage.xml.append:3546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 14 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3550
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 14 : Silure à tête plate"
 
 #: src-en/data/events_special_storage.xml.append:3554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 14 : Dorade dorée"
 
 #: src-en/data/events_special_storage.xml.append:3558
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 14 : Cobia noir"
 
 #: src-en/data/events_special_storage.xml.append:3562
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 14 : Poisson-sagesse"
 
 #: src-en/data/events_special_storage.xml.append:3566
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 14 : Truite dorée"
 
 #: src-en/data/events_special_storage.xml.append:3570
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 14 : Silure du canal"
 
 #: src-en/data/events_special_storage.xml.append:3574
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_34\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 14 : Esturgeon commun"
 
 #: src-en/data/events_special_storage.xml.append:3580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Prime 15 : Saumon argenté"
 
 #: src-en/data/events_special_storage.xml.append:3584
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Prime 15 : Poisson-coq"
 
 #: src-en/data/events_special_storage.xml.append:3588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Prime 15 : Saumon à nageoires jaunes"
 
 #: src-en/data/events_special_storage.xml.append:3592
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Prime 15 : Silure à tête plate"
 
 #: src-en/data/events_special_storage.xml.append:3596
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Prime 15 : Dorade dorée"
 
 #: src-en/data/events_special_storage.xml.append:3600
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Prime 15 : Cobia noir"
 
 #: src-en/data/events_special_storage.xml.append:3604
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Prime 15 : Poisson-sagesse"
 
 #: src-en/data/events_special_storage.xml.append:3608
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Prime 15 : Truite dorée"
 
 #: src-en/data/events_special_storage.xml.append:3612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Prime 15 : Silure du canal"
 
 #: src-en/data/events_special_storage.xml.append:3616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_35\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Prime 15 : Esturgeon commun"
 
 #: src-en/data/events_special_storage.xml.append:3626
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS\"]/text"
-msgstr ""
+msgstr "Statistiques de pêche :"
 
 #: src-en/data/events_special_storage.xml.append:3628
 msgid ""
@@ -3933,32 +4081,32 @@ msgstr "Laisser tomber"
 #: src-en/data/events_special_storage.xml.append:3632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS\"]/choice[2]/text"
-msgstr ""
+msgstr "Poissons basiques consommés."
 
 #: src-en/data/events_special_storage.xml.append:3636
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS\"]/choice[3]/text"
-msgstr ""
+msgstr "Poissons peu communs consommés."
 
 #: src-en/data/events_special_storage.xml.append:3640
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS\"]/choice[4]/text"
-msgstr ""
+msgstr "Poissons rares consommés."
 
 #: src-en/data/events_special_storage.xml.append:3644
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS\"]/choice[5]/text"
-msgstr ""
+msgstr "Poissons légendaires consommés."
 
 #: src-en/data/events_special_storage.xml.append:3648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS\"]/choice[6]/text"
-msgstr ""
+msgstr "Poissons uniques consommés."
 
 #: src-en/data/events_special_storage.xml.append:3654
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS_1\"]/text"
-msgstr ""
+msgstr "Poissons basiques consommés :"
 
 #: src-en/data/events_special_storage.xml.append:3656
 msgid ""
@@ -4568,7 +4716,7 @@ msgstr "A"
 #: src-en/data/events_special_storage.xml.append:4072
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS_2\"]/text"
-msgstr ""
+msgstr "Poissons peu communs consommés :"
 
 #: src-en/data/events_special_storage.xml.append:4074
 msgid ""
@@ -5178,7 +5326,7 @@ msgstr "A"
 #: src-en/data/events_special_storage.xml.append:4490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS_3\"]/text"
-msgstr ""
+msgstr "Poissons rares consommés :"
 
 #: src-en/data/events_special_storage.xml.append:4492
 msgid ""
@@ -5788,12 +5936,12 @@ msgstr "A"
 #: src-en/data/events_special_storage.xml.append:4908
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS_4\"]/text"
-msgstr ""
+msgstr "Poissons légendaires consommés :"
 
 #: src-en/data/events_special_storage.xml.append:4910
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS_4\"]/choice[1]/text"
-msgstr ""
+msgstr "Laisser tomber"
 
 #: src-en/data/events_special_storage.xml.append:4915
 msgid ""
@@ -6218,12 +6366,12 @@ msgstr "A"
 #: src-en/data/events_special_storage.xml.append:5203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS_5\"]/text"
-msgstr ""
+msgstr "Poissons uniques consommés :"
 
 #: src-en/data/events_special_storage.xml.append:5205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_STATS_5\"]/choice[1]/text"
-msgstr ""
+msgstr "Laisser tomber"
 
 #: src-en/data/events_special_storage.xml.append:5210
 msgid ""
