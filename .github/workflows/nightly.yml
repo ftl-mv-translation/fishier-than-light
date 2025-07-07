@@ -35,6 +35,8 @@ jobs:
     - name: Build packages
       run: |
         bash snippets/ci-nightly.sh ru
+        bash snippets/ci-nightly.sh fr
+        
 
     - name: Tag the commit
       run: |
