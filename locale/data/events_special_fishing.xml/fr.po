@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-03 21:46+0000\n"
+"PO-Revision-Date: 2025-07-08 10:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "dataevents_special_fishingxml/fr/>\n"
@@ -36,8 +36,8 @@ msgstr ""
 "donc vous téléporter à bord pour accéder à la boutique.\n"
 "\n"
 "Pour monter à bord de la station, vous devez déplacer un ou plusieurs "
-"membres d’équipage dans votre salle de pilotage, puis appuyer sur le bouton "
-"de téléportation situé à côté de l’encadré du vaisseau ennemi.\n"
+"membres d'équipage dans votre salle de pilotage, puis appuyer sur le bouton "
+"de téléportation situé à côté de l'encadré du vaisseau ennemi.\n"
 "Pour récupérer votre équipage, amenez-les dans la salle de téléportation de "
 "la station et appuyez de nouveau sur le même bouton."
 
@@ -50,7 +50,7 @@ msgstr "Se téléporter sur / depuis la station."
 msgid ""
 "data/events_special_fishing.xml$//eventButton[@name=\"UI_FISH_BOARD\"]/inactiveTooltip"
 msgstr ""
-"Vous n’avez aucun membre d’équipage dans votre salle de pilotage ou dans le "
+"Vous n'avez aucun membre d'équipage dans votre salle de pilotage ou dans le "
 "téléporteur de la station, vous ne pouvez pas vous téléporter."
 
 #: src-en/data/events_special_fishing.xml:44
@@ -67,7 +67,7 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_fishing.xml$//textList[@name=\"FISH_ARRIVE_TEXT\"]/text[1]"
 msgstr ""
-"Vous arrivez à l’avant-poste, une petite station dédiée à la pêche spatiale."
+"Vous arrivez à l'avant-poste, une petite station dédiée à la pêche spatiale."
 
 #: src-en/data/events_special_fishing.xml:59
 msgid ""
@@ -81,14 +81,14 @@ msgid ""
 "data/events_special_fishing.xml$//textList[@name=\"FISH_ARRIVE_TEXT\"]/text[3]"
 msgstr ""
 "Vous êtes arrivé à la balise. Un petit avant-poste dédié à la pêche spatiale "
-"s’y trouve."
+"s'y trouve."
 
 #: src-en/data/events_special_fishing.xml:64
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/text"
 msgstr ""
-"Vous êtes arrivé à l’ancienne boutique de pêche.\n"
-"Il semble qu’ils aient installé un tableau de primes pour les poissons. Les "
+"Vous êtes arrivé à l'ancienne boutique de pêche.\n"
+"Il semble qu'ils aient installé un tableau de primes pour les poissons. Les "
 "récompenses semblent très intéressantes, mais vous devrez traquer un poisson "
 "spécifique pour chaque prime."
 
@@ -110,7 +110,7 @@ msgstr "Consulter le tableau des primes"
 #: src-en/data/events_special_fishing.xml:82
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_STORE_INSTORE\"]/choice[4]/text"
-msgstr "Vous pouvez utiliser l’infirmerie pour soigner votre équipage"
+msgstr "Vous pouvez utiliser l'infirmerie pour soigner votre équipage"
 
 #: src-en/data/events_special_fishing.xml:88
 msgid ""
@@ -192,7 +192,7 @@ msgstr "Prime 1 : Maquereau tacheté"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 1 : Mérou d’estuaire"
+msgstr "Prime 1 : Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:171
 msgid ""
@@ -252,7 +252,7 @@ msgstr "Prime 2 : Maquereau tacheté"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 2 : Mérou d’estuaire"
+msgstr "Prime 2 : Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:233
 msgid ""
@@ -312,7 +312,7 @@ msgstr "Prime 3 : Maquereau tacheté"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 3 : Mérou d’estuaire"
+msgstr "Prime 3 : Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:295
 msgid ""
@@ -372,7 +372,7 @@ msgstr "Prime 4 : Maquereau tacheté"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 4 : Mérou d’estuaire"
+msgstr "Prime 4 : Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:357
 msgid ""
@@ -432,7 +432,7 @@ msgstr "Prime 5 : Maquereau tacheté"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISHING_BOUNTY_BOARD\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 5 : Mérou d’estuaire"
+msgstr "Prime 5 : Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:419
 msgid ""
@@ -1206,13 +1206,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:1230
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_11_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:1234
 msgid ""
@@ -1516,13 +1516,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:1542
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_12_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:1546
 msgid ""
@@ -1826,13 +1826,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:1854
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_13_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:1858
 msgid ""
@@ -2136,13 +2136,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:2166
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_14_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:2170
 msgid ""
@@ -2446,13 +2446,13 @@ msgstr "1"
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and not(@lvl)]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:2478
 msgid ""
 "data/events_special_fishing.xml$//event[@name=\"FISH_BOUNTY_15_5\"]/choice[@req=\"FISH_FOOD_5\""
 " and @lvl=\"0\"]/text"
-msgstr "Mérou d’estuaire"
+msgstr "Mérou d'estuaire"
 
 #: src-en/data/events_special_fishing.xml:2482
 msgid ""
