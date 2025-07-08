@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-03 21:46+0000\n"
+"PO-Revision-Date: 2025-07-08 10:16+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -150,7 +150,7 @@ msgstr "Améliorer votre Harpon Rouillé MK I en MK I. -25~"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_0\"]/event/text"
 msgstr ""
-"En suivant le manuel fourni, vous pouvez augmenter l’efficacité de votre "
+"En suivant le manuel fourni, vous pouvez augmenter l'efficacité de votre "
 "harpon."
 
 #: src-en/data/events_special_storage.xml.append:140
@@ -167,7 +167,7 @@ msgstr "Améliorer votre Harpon MK I en MK II. -50~"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_1\"]/event/text"
 msgstr ""
-"En suivant le manuel fourni, vous pouvez augmenter l’efficacité de votre "
+"En suivant le manuel fourni, vous pouvez augmenter l'efficacité de votre "
 "harpon."
 
 #: src-en/data/events_special_storage.xml.append:155
@@ -184,7 +184,7 @@ msgstr "Améliorer votre Harpon MK II en MK II† à faible consommation. -10~"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[4]/event/text"
 msgstr ""
-"En suivant le manuel fourni, vous pouvez augmenter l’efficacité énergétique "
+"En suivant le manuel fourni, vous pouvez augmenter l'efficacité énergétique "
 "de votre harpon."
 
 #: src-en/data/events_special_storage.xml.append:170
@@ -201,7 +201,7 @@ msgstr "Améliorer votre Harpon MK II en MK III. -100~"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[5]/event/text"
 msgstr ""
-"En suivant le manuel fourni, vous pouvez augmenter l’efficacité de votre "
+"En suivant le manuel fourni, vous pouvez augmenter l'efficacité de votre "
 "harpon."
 
 #: src-en/data/events_special_storage.xml.append:185
@@ -220,7 +220,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_2_P\"]/event/text"
 msgstr ""
-"En suivant le manuel fourni, vous pouvez augmenter l’efficacité de votre "
+"En suivant le manuel fourni, vous pouvez augmenter l'efficacité de votre "
 "harpon."
 
 #: src-en/data/events_special_storage.xml.append:200
@@ -237,7 +237,7 @@ msgstr "Améliorer votre Harpon MK III en MK III† à faible consommation. -10~
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_3\"]/event/text"
 msgstr ""
-"En suivant le manuel fourni, vous pouvez augmenter l’efficacité énergétique "
+"En suivant le manuel fourni, vous pouvez augmenter l'efficacité énergétique "
 "de votre harpon."
 
 #: src-en/data/events_special_storage.xml.append:215
@@ -256,7 +256,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[@req=\"BLUELIST_FISHING_RODS_UP\"]/event/choice[@req=\"FISHING_ROD_3_P\"]/event/text"
 msgstr ""
-"En suivant le manuel fourni, vous pouvez augmenter l’efficacité énergétique "
+"En suivant le manuel fourni, vous pouvez augmenter l'efficacité énergétique "
 "de votre harpon."
 
 #: src-en/data/events_special_storage.xml.append:230
@@ -282,7 +282,7 @@ msgstr "Installer une amélioration interne de pêche."
 #: src-en/data/events_special_storage.xml.append:250
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING\"]/choice[17]/text"
-msgstr "Options d’appâts de pêche."
+msgstr "Options d'appâts de pêche."
 
 #: src-en/data/events_special_storage.xml.append:254
 msgid ""
@@ -317,7 +317,7 @@ msgstr "Cuisiner le Vivaneau orange. (+5 % de santé maximale)"
 #: src-en/data/events_special_storage.xml.append:282
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_2\"]/text"
-msgstr "Cuisiner l’Empereur rouge. (+5 % de dégâts)"
+msgstr "Cuisiner l'Empereur rouge. (+5 % de dégâts)"
 
 #: src-en/data/events_special_storage.xml.append:290
 msgid ""
@@ -332,7 +332,7 @@ msgstr "Cuisiner le Maquereau tacheté. (+5 % de vitesse de déplacement)"
 #: src-en/data/events_special_storage.xml.append:306
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_5\"]/text"
-msgstr "Cuisiner le Mérou d’estuaire. (+5 % de vitesse de réparation)"
+msgstr "Cuisiner le Mérou d'estuaire. (+5 % de vitesse de réparation)"
 
 #: src-en/data/events_special_storage.xml.append:314
 msgid ""
@@ -474,14 +474,14 @@ msgstr "Cuisiner la Carangue reine. (-90 % de vitesse de déplacement ennemi)"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_32\"]/text"
 msgstr ""
-"Cuisiner le Coryphène. (-100 % de dégâts pour tout l’équipage à bord, 5 dégâ"
-"ts/seconde à l’ennemi à bord)"
+"Cuisiner le Coryphène. (-100 % de dégâts pour tout l'équipage à bord, 5 dégâ"
+"ts/seconde à l'ennemi à bord)"
 
 #: src-en/data/events_special_storage.xml.append:536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_33\"]/text"
 msgstr ""
-"Cuisiner le Poisson côtier. (pas de réparations par l’équipage, tous les "
+"Cuisiner le Poisson côtier. (pas de réparations par l'équipage, tous les "
 "systèmes se réparent automatiquement)"
 
 #: src-en/data/events_special_storage.xml.append:544
@@ -512,7 +512,7 @@ msgstr "Cuisiner le Marlin bleu. (donne 3 armes aléatoires)"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_37\"]/event/text"
 msgstr ""
-"Vous ouvrez le poisson et découvrez une étrange cache d’armes. Vous en "
+"Vous ouvrez le poisson et découvrez une étrange cache d'armes. Vous en "
 "sortez la première arme."
 
 #: src-en/data/events_special_storage.xml.append:573
@@ -563,8 +563,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_42\"]/text"
 msgstr ""
-"Cuisiner le Poisson Commando. (Les humains de base n’occupent plus "
-"d’emplacements)"
+"Cuisiner le Poisson Commando. (Les humains de base n'occupent plus "
+"d'emplacements)"
 
 #: src-en/data/events_special_storage.xml.append:619
 msgid ""
@@ -576,15 +576,15 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_44\"]/text"
 msgstr ""
-"Cuisiner le Poisson Énergie. (-1 d’énergie pour vos armes, en commençant par "
+"Cuisiner le Poisson Énergie. (-1 d'énergie pour vos armes, en commençant par "
 "la première arme)"
 
 #: src-en/data/events_special_storage.xml.append:635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"FISH_FOOD_45\"]/text"
 msgstr ""
-"Cuisiner le Poisson des varechs. (Dégâts de suffocation doublés, supprime l’"
-"immunité à la suffocation des ennemis)"
+"Cuisiner le Poisson des varechs. (Dégâts de suffocation doublés, supprime "
+"l'immunité à la suffocation des ennemis)"
 
 #: src-en/data/events_special_storage.xml.append:643
 msgid ""
@@ -597,8 +597,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_FOOD\"]/choice[@req=\"fish_cons_47\"]/text"
 msgstr ""
-"Cuisiner le Poisson Glace. (L’équipage fait apparaître des éclats Cristalien "
-"lorsqu’il est touché par des armes du vaisseau)"
+"Cuisiner le Poisson Glace. (L'équipage fait apparaître des éclats Cristalien "
+"lorsqu'il est touché par des armes du vaisseau)"
 
 #: src-en/data/events_special_storage.xml.append:659
 msgid ""
@@ -673,7 +673,7 @@ msgstr "Améliorer l'Augure MK III"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_LASER_3\""
 " and not(@lvl)]/event/text"
-msgstr "Vous combinez le poisson et l’arme."
+msgstr "Vous combinez le poisson et l'arme."
 
 #: src-en/data/events_special_storage.xml.append:765
 msgid ""
@@ -697,7 +697,7 @@ msgstr "Améliorer les missiles Carnage"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_MISSILES\""
 " and not(@lvl)]/event/text"
-msgstr "Vous combinez le poisson et l’arme."
+msgstr "Vous combinez le poisson et l'arme."
 
 #: src-en/data/events_special_storage.xml.append:782
 msgid ""
@@ -709,19 +709,19 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BEAM_3\""
 " and @lvl=\"0\"]/text"
-msgstr "Améliorer l’Eradicateur MK III"
+msgstr "Améliorer l'Eradicateur MK III"
 
 #: src-en/data/events_special_storage.xml.append:793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BEAM_3\""
 " and not(@lvl)]/text"
-msgstr "Améliorer l’Eradicateur MK III"
+msgstr "Améliorer l'Eradicateur MK III"
 
 #: src-en/data/events_special_storage.xml.append:795
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BEAM_3\""
 " and not(@lvl)]/event/text"
-msgstr "Vous combinez le poisson et l’arme."
+msgstr "Vous combinez le poisson et l'arme."
 
 #: src-en/data/events_special_storage.xml.append:799
 msgid ""
@@ -745,7 +745,7 @@ msgstr "Améliorer le Ravageur"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_HAVOC\""
 " and not(@lvl)]/event/text"
-msgstr "Vous combinez le poisson et l’arme."
+msgstr "Vous combinez le poisson et l'arme."
 
 #: src-en/data/events_special_storage.xml.append:816
 msgid ""
@@ -769,7 +769,7 @@ msgstr "Améliorer le canon à plasma MK II"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_ION_2\""
 " and not(@lvl)]/event/text"
-msgstr "Vous combinez le poisson et l’arme."
+msgstr "Vous combinez le poisson et l'arme."
 
 #: src-en/data/events_special_storage.xml.append:833
 msgid ""
@@ -793,7 +793,7 @@ msgstr "Améliorer l'Aiguillon Purificateur MK I"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_FOCUS\""
 " and not(@lvl)]/event/text"
-msgstr "Vous combinez le poisson et l’arme."
+msgstr "Vous combinez le poisson et l'arme."
 
 #: src-en/data/events_special_storage.xml.append:850
 msgid ""
@@ -817,7 +817,7 @@ msgstr "Améliorer le Téléporteur de Charge"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_ANC_UPGRADE\"]/choice[@req=\"ANCIENT_BOMB\""
 " and not(@lvl)]/event/text"
-msgstr "Vous combinez le poisson et l’arme."
+msgstr "Vous combinez le poisson et l'arme."
 
 #: src-en/data/events_special_storage.xml.append:867
 msgid ""
@@ -1898,8 +1898,8 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/text"
 msgstr ""
-"Vous ouvrez le livre au chapitre sur les poissons uniques que l’on peut "
-"trouver dans le multivers, mais il semble que personne n’ait réellement "
+"Vous ouvrez le livre au chapitre sur les poissons uniques que l'on peut "
+"trouver dans le multivers, mais il semble que personne n'ait réellement "
 "enregistré ces poissons, vous devrez le faire vous-même."
 
 #: src-en/data/events_special_storage.xml.append:1652
@@ -2366,12 +2366,12 @@ msgstr "Laisser tomber"
 #: src-en/data/events_special_storage.xml.append:1976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"fish_inaug_bait_check\"]/text"
-msgstr "Appât amélioré. (Réduit les chances d’obtenir des ordures)"
+msgstr "Appât amélioré. (Réduit les chances d'obtenir des ordures)"
 
 #: src-en/data/events_special_storage.xml.append:1978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"fish_inaug_bait_check\"]/event/text"
-msgstr "Vous installez l’appât amélioré."
+msgstr "Vous installez l'appât amélioré."
 
 #: src-en/data/events_special_storage.xml.append:1986
 msgid ""
@@ -2399,7 +2399,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_REPEL\"]/text"
 msgstr ""
-"Répulsif à poissons. (Repousse les poissons de faible difficulté lorsqu’on "
+"Répulsif à poissons. (Repousse les poissons de faible difficulté lorsqu'on "
 "utilise des harpons de plus grande puissance.)"
 
 #: src-en/data/events_special_storage.xml.append:2025
@@ -2450,7 +2450,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_UPGRADE\"]/choice[@req=\"FISH_INAUG_GRAV\"]/text"
 msgstr ""
-"Flotteur plus lourd. (La gravité sur l’hameçon est 30 % plus forte, le "
+"Flotteur plus lourd. (La gravité sur l'hameçon est 30 % plus forte, le "
 "poisson ralentit 30 % plus vite)"
 
 #: src-en/data/events_special_storage.xml.append:2093
@@ -2474,30 +2474,30 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_INFO\"]/text"
 msgstr ""
 "Les récompenses de pêche sont calculées de la manière suivante :\n"
-"Lorsque vous attrapez un poisson, le jeu calcule d’abord la probabilité d’"
-"obtenir des ordures. Initialement, cette probabilité est de 3/4, réduite à 2/"
-"3 grâce à l’amélioration interne, puis à 0/1 grâce au bonus et à l’"
-"amélioration du vaisseau de pêche.\n"
-"Si le résultat donne des ordures, il y a 50 % de chances d’obtenir un "
-"poisson basique et 50 % de chances d’obtenir un objet inutile (valant 5 "
+"Lorsque vous attrapez un poisson, le jeu calcule d'abord la probabilité "
+"d'obtenir des ordures. Initialement, cette probabilité est de 3/4, réduite à "
+"2/3 grâce à l'amélioration interne, puis à 0/1 grâce au bonus et à "
+"l'amélioration du vaisseau de pêche.\n"
+"Si le résultat donne des ordures, il y a 50 % de chances d'obtenir un "
+"poisson basique et 50 % de chances d'obtenir un objet inutile (valant 5 "
 "ferrailles).\n"
-"(Cela ne s’applique pas au poisson bleu luminescent, qui est garanti "
+"(Cela ne s'applique pas au poisson bleu luminescent, qui est garanti "
 "légendaire.)\n"
 "\n"
 "Sinon, le butin de pêche est déterminé par la table de butin correspondant à "
 "la difficulté du poisson attrapé. Il existe différentes tables de butin "
 "selon votre secteur.\n"
 "\n"
-"La difficulté du poisson est déterminée au début de la pêche. Normalement, c’"
-"est un nombre compris entre 1 et la force de votre harpon. Un MK 1 a une "
+"La difficulté du poisson est déterminée au début de la pêche. Normalement, "
+"c'est un nombre compris entre 1 et la force de votre harpon. Un MK 1 a une "
 "force de 5, un MK 2 une force de 10, et un MK 3 une force de 16.\n"
 "Les MK 2 et MK 3 augmenteront la limite inférieure de la difficulté si vous "
-"avez l’amélioration interne qui rend les poissons basiques plus rares.\n"
+"avez l'amélioration interne qui rend les poissons basiques plus rares.\n"
 "\n"
-"Les bonus de pêche Basique, Peu commun et Rare s’additionnent de façon "
-"multiplicative, et ne s’appliquent qu’à votre propre équipage.\n"
-"Les autres bonus s’additionnent généralement de façon multiplicative, mais "
-"peuvent aussi s’appliquer à l’équipage ennemi."
+"Les bonus de pêche Basique, Peu commun et Rare s'additionnent de façon "
+"multiplicative, et ne s'appliquent qu'à votre propre équipage.\n"
+"Les autres bonus s'additionnent généralement de façon multiplicative, mais "
+"peuvent aussi s'appliquer à l'équipage ennemi."
 
 #: src-en/data/events_special_storage.xml.append:2132
 msgid ""
@@ -2537,7 +2537,7 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2165
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_13\"]/text"
-msgstr "Appât équipé actuellement : Pas d’arme ni de poisson unique"
+msgstr "Appât équipé actuellement : Pas d'arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2167
 msgid ""
@@ -2579,7 +2579,7 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_22\"]/text"
 msgstr ""
-"Appât équipé actuellement : Poissons moins génériques / Pas d’arme ni de "
+"Appât équipé actuellement : Poissons moins génériques / Pas d'arme ni de "
 "poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2200
@@ -2591,7 +2591,7 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_23\"]/text"
 msgstr ""
-"Appât équipé actuellement : Pas d’arme ni de poisson unique / Aucun équipage"
+"Appât équipé actuellement : Pas d'arme ni de poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2208
 msgid ""
@@ -2623,7 +2623,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_31\"]/text"
 msgstr ""
 "Appât équipé actuellement : Pas de ferraille / Poissons moins génériques / "
-"Pas d’arme ni de poisson unique"
+"Pas d'arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2233
 msgid ""
@@ -2634,7 +2634,7 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_32\"]/text"
 msgstr ""
-"Appât équipé actuellement : Poissons moins génériques / Pas d’arme ni de "
+"Appât équipé actuellement : Poissons moins génériques / Pas d'arme ni de "
 "poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2241
@@ -2646,7 +2646,7 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_bait_equip_33\"]/text"
 msgstr ""
-"Appât équipé actuellement : Pas d’arme ni de poisson unique / Aucun équipage "
+"Appât équipé actuellement : Pas d'arme ni de poisson unique / Aucun équipage "
 "/ Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2249
@@ -2696,7 +2696,7 @@ msgstr "Déséquiper l'appât."
 #: src-en/data/events_special_storage.xml.append:2302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_11\"]/text"
-msgstr "Stocker l’appât en interne : Pas de ferraille"
+msgstr "Stocker l'appât en interne : Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2304
 msgid ""
@@ -2711,7 +2711,7 @@ msgstr "Equiper l'appât : Pas de ferraille"
 #: src-en/data/events_special_storage.xml.append:2332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_12\"]/text"
-msgstr "Stocker l’appât en interne : Poissons moins génériques"
+msgstr "Stocker l'appât en interne : Poissons moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2334
 msgid ""
@@ -2726,7 +2726,7 @@ msgstr "Equiper l'appât : Poissons moins génériques"
 #: src-en/data/events_special_storage.xml.append:2362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_13\"]/text"
-msgstr "Stocker l’appât en interne : Pas d’arme ni de poisson unique"
+msgstr "Stocker l'appât en interne : Pas d'arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2364
 msgid ""
@@ -2736,12 +2736,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_13\"]/text"
-msgstr "Equiper l'appât : Pas d’arme ni de poisson unique"
+msgstr "Equiper l'appât : Pas d'arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_14\"]/text"
-msgstr "Stocker l’appât en interne : Aucun équipage"
+msgstr "Stocker l'appât en interne : Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2394
 msgid ""
@@ -2756,7 +2756,7 @@ msgstr "Equiper l'appât : Aucun équipage"
 #: src-en/data/events_special_storage.xml.append:2422
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_15\"]/text"
-msgstr "Stocker l’appât en interne : Aucun équipement"
+msgstr "Stocker l'appât en interne : Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2424
 msgid ""
@@ -2772,7 +2772,7 @@ msgstr "Equiper l'appât : Aucun équipement"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_21\"]/text"
 msgstr ""
-"Stocker l’appât en interne : Pas de ferraille / Poissons moins génériques"
+"Stocker l'appât en interne : Pas de ferraille / Poissons moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2454
 msgid ""
@@ -2788,7 +2788,7 @@ msgstr "Equiper l'appât : Pas de ferraille / Poissons moins génériques"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_22\"]/text"
 msgstr ""
-"Stocker l’appât en interne : Poissons moins génériques / Pas d’arme ni de "
+"Stocker l'appât en interne : Poissons moins génériques / Pas d'arme ni de "
 "poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2484
@@ -2800,13 +2800,13 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_22\"]/text"
 msgstr ""
-"Equiper l'appât : Poissons moins génériques / Pas d’arme ni de poisson unique"
+"Equiper l'appât : Poissons moins génériques / Pas d'arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_23\"]/text"
 msgstr ""
-"Stocker l’appât en interne : Pas d’arme ni de poisson unique / Aucun équipage"
+"Stocker l'appât en interne : Pas d'arme ni de poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2514
 msgid ""
@@ -2816,12 +2816,12 @@ msgstr "1"
 #: src-en/data/events_special_storage.xml.append:2520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_23\"]/text"
-msgstr "Equiper l'appât : Pas d’arme ni de poisson unique / Aucun équipage"
+msgstr "Equiper l'appât : Pas d'arme ni de poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2542
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_24\"]/text"
-msgstr "Stocker l’appât en interne : Aucun équipage / Aucun équipement"
+msgstr "Stocker l'appât en interne : Aucun équipage / Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2544
 msgid ""
@@ -2836,7 +2836,7 @@ msgstr "Equiper l'appât : Aucun équipage / Aucun équipement"
 #: src-en/data/events_special_storage.xml.append:2572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_25\"]/text"
-msgstr "Stocker l’appât en interne : Aucun équipement / Pas de ferraille"
+msgstr "Stocker l'appât en interne : Aucun équipement / Pas de ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2574
 msgid ""
@@ -2852,8 +2852,8 @@ msgstr "Equiper l'appât : Aucun équipement / Pas de ferraille"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_31\"]/text"
 msgstr ""
-"Stocker l’appât en interne : Pas de ferraille / Poissons moins génériques / "
-"Pas d’arme ni de poisson unique"
+"Stocker l'appât en interne : Pas de ferraille / Poissons moins génériques / "
+"Pas d'arme ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2604
 msgid ""
@@ -2864,14 +2864,14 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_31\"]/text"
 msgstr ""
-"Equiper l'appât :Pas de ferraille / Poissons moins génériques / Pas d’arme "
+"Equiper l'appât :Pas de ferraille / Poissons moins génériques / Pas d'arme "
 "ni de poisson unique"
 
 #: src-en/data/events_special_storage.xml.append:2632
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_32\"]/text"
 msgstr ""
-"Stocker l’appât en interne : Poissons moins génériques / Pas d’arme ni de "
+"Stocker l'appât en interne : Poissons moins génériques / Pas d'arme ni de "
 "poisson unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2634
@@ -2883,14 +2883,14 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_32\"]/text"
 msgstr ""
-"Equiper l'appât : Poissons moins génériques / Pas d’arme ni de poisson "
+"Equiper l'appât : Poissons moins génériques / Pas d'arme ni de poisson "
 "unique / Aucun équipage"
 
 #: src-en/data/events_special_storage.xml.append:2662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_33\"]/text"
 msgstr ""
-"Stocker l’appât en interne : Pas d’arme ni de poisson unique / Aucun "
+"Stocker l'appât en interne : Pas d'arme ni de poisson unique / Aucun "
 "équipage / Aucun équipement"
 
 #: src-en/data/events_special_storage.xml.append:2664
@@ -2902,14 +2902,14 @@ msgstr "1"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"FISH_INBAIT_33\"]/text"
 msgstr ""
-"Equiper l'appât : Pas d’arme ni de poisson unique / Aucun équipage / Aucun "
+"Equiper l'appât : Pas d'arme ni de poisson unique / Aucun équipage / Aucun "
 "équipement"
 
 #: src-en/data/events_special_storage.xml.append:2692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_34\"]/text"
 msgstr ""
-"Stocker l’appât en interne : Aucun équipage / Aucun équipement / Pas de "
+"Stocker l'appât en interne : Aucun équipage / Aucun équipement / Pas de "
 "ferraille"
 
 #: src-en/data/events_special_storage.xml.append:2694
@@ -2926,7 +2926,7 @@ msgstr "Equiper l'appât : Aucun équipage / Aucun équipement / Pas de ferraill
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_35\"]/text"
 msgstr ""
-"Stocker l’appât en interne : Aucun équipement / Pas de ferraille / Poissons "
+"Stocker l'appât en interne : Aucun équipement / Pas de ferraille / Poissons "
 "moins génériques"
 
 #: src-en/data/events_special_storage.xml.append:2724
@@ -2944,7 +2944,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BAIT\"]/choice[@req=\"fish_instbait_DOUBLE\"]/text"
-msgstr "Stocker l’appât en interne : Hameçon Double"
+msgstr "Stocker l'appât en interne : Hameçon Double"
 
 #: src-en/data/events_special_storage.xml.append:2754
 msgid ""
@@ -3196,7 +3196,7 @@ msgstr "Prime 1 : Maquereau tacheté"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_11\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 1 : Mérou d’estuaire"
+msgstr "Prime 1 : Mérou d'estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3000
 msgid ""
@@ -3256,7 +3256,7 @@ msgstr "Prime 2 : Maquereau tacheté"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_12\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 2 : Mérou d’estuaire"
+msgstr "Prime 2 : Mérou d'estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3042
 msgid ""
@@ -3316,7 +3316,7 @@ msgstr "Prime 3 : Maquereau tacheté"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_13\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 3 : Mérou d’estuaire"
+msgstr "Prime 3 : Mérou d'estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3084
 msgid ""
@@ -3376,7 +3376,7 @@ msgstr "Prime 4 : Maquereau tacheté"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_14\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 4 : Mérou d’estuaire"
+msgstr "Prime 4 : Mérou d'estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3126
 msgid ""
@@ -3436,7 +3436,7 @@ msgstr "Prime 5 : Maquereau tacheté"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISHING_BOUNTY\"]/choice[@req=\"fish_bait_bounty_15\""
 " and @lvl=\"5\"]/text"
-msgstr "Prime 5 : Mérou d’estuaire"
+msgstr "Prime 5 : Mérou d'estuaire"
 
 #: src-en/data/events_special_storage.xml.append:3168
 msgid ""
