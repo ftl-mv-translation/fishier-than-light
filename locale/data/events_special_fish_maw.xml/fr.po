@@ -1,17 +1,24 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-08 10:16+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
+"dataevents_special_fish_mawxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_fish_maw.xml:5
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_INO2\"]/text"
 msgstr ""
-"Vous êtes entré dans la salle du générateur d’oxygène de la station.\n"
+"Vous êtes entré dans la salle du générateur d'oxygène de la station.\n"
 "\n"
-"Il semble qu’un message ait été gravé sur le générateur :\n"
+"Il semble qu'un message ait été gravé sur le générateur :\n"
 "\"Tuez-les tous, et venez me trouver.\""
 
 #: src-en/data/events_special_fish_maw.xml:11
@@ -28,7 +35,7 @@ msgstr "Saboter le générateur."
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_INO2\"]/choice[2]/event/text"
 msgstr ""
-"Vous détruisez rapidement le générateur d’oxygène. Il est peu probable que "
+"Vous détruisez rapidement le générateur d'oxygène. Il est peu probable que "
 "vous revoyiez cette station, du moins dans cet univers."
 
 #: src-en/data/events_special_fish_maw.xml:34
@@ -48,7 +55,8 @@ msgstr "Continuer..."
 #: src-en/data/events_special_fish_maw.xml:52
 msgid "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/text"
 msgstr ""
-"Vous arrivez à la balise, face à face avec un auto-vaisseau à l’apparence étrange.\n"
+"Vous arrivez à la balise, face à face avec un auto-vaisseau à l'apparence "
+"étrange.\n"
 "\n"
 "\"Ahh, un renégat, très bien.\n"
 "Prouvez votre compétence au combat et je me joindrai à vous.\""
@@ -77,7 +85,7 @@ msgstr "Refuser et partir."
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/event/text"
 msgstr ""
-"Vous refusez l’offre du mystérieux auto-vaisseau et vous vous éloignez pour "
+"Vous refusez l'offre du mystérieux auto-vaisseau et vous vous éloignez pour "
 "attendre la charge de votre générateur SPL."
 
 #: src-en/data/events_special_fish_maw.xml:74
@@ -94,9 +102,12 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_fish_maw.xml$//event[@name=\"DESTROYED_FISH_MAW_ENEMY\"]/text"
 msgstr ""
-"Alors que l’auto-vaisseau se disloque, vous voyez certaines de ses pièces se rassembler pour former un objet.\n"
+"Alors que l'auto-vaisseau se disloque, vous voyez certaines de ses pièces se "
+"rassembler pour former un objet.\n"
 "\n"
-"En vous approchant, vous découvrez une arme à l’apparence étrange reposant au centre de l’épave. Il semble que l’auto-vaisseau se soit transformé en arme à votre intention."
+"En vous approchant, vous découvrez une arme à l'apparence étrange reposant "
+"au centre de l'épave. Il semble que l'auto-vaisseau se soit transformé en "
+"arme à votre intention."
 
 #: src-en/data/events_special_fish_maw.xml:92
 msgid ""
@@ -554,7 +565,7 @@ msgid ""
 msgstr ""
 "Que voulez-vous donner à manger à La Gueule ?\n"
 "\n"
-"Points d’amélioration : GUEULE"
+"Points d'amélioration : GUEULE"
 
 #: src-en/data/events_special_fish_maw.xml:479
 msgid ""
