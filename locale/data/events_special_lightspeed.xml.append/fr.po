@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-08 10:16+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
+"dataevents_special_lightspeedxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:23
 msgid ""
@@ -19,7 +26,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_JUNK\"]/loadEventList/event[1]/text"
 msgstr ""
-"Vous ramenez votre prise pour découvrir qu’il ne s’agit que de vieilles "
+"Vous ramenez votre prise pour découvrir qu'il ne s'agit que de vieilles "
 "babioles sans valeur."
 
 #: src-en/data/events_special_lightspeed.xml.append:46
@@ -60,36 +67,36 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_WEAPON_1\"]/text"
 msgstr ""
-"Vous ramenez votre prise pour découvrir qu’il ne s’agit pas du tout d’un "
-"poisson, mais d’une arme !"
+"Vous ramenez votre prise pour découvrir qu'il ne s'agit pas du tout d'un "
+"poisson, mais d'une arme !"
 
 #: src-en/data/events_special_lightspeed.xml.append:80
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_HEKTAR_1_LOOT\"]/text"
 msgstr ""
-"Vous ramenez votre prise pour découvrir qu’il ne s’agit pas du tout d’un "
-"poisson, mais d’une arme !"
+"Vous ramenez votre prise pour découvrir qu'il ne s'agit pas du tout d'un "
+"poisson, mais d'une arme !"
 
 #: src-en/data/events_special_lightspeed.xml.append:84
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_HEKTAR_2_LOOT\"]/text"
 msgstr ""
-"Vous ramenez votre prise pour découvrir qu’il ne s’agit pas du tout d’un "
-"poisson, mais d’une arme !"
+"Vous ramenez votre prise pour découvrir qu'il ne s'agit pas du tout d'un "
+"poisson, mais d'une arme !"
 
 #: src-en/data/events_special_lightspeed.xml.append:88
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_DRONE_1\"]/text"
 msgstr ""
-"Vous ramenez votre prise pour découvrir qu’il ne s’agit pas du tout d’un "
-"poisson, mais d’un drone !"
+"Vous ramenez votre prise pour découvrir qu'il ne s'agit pas du tout d'un "
+"poisson, mais d'un drone !"
 
 #: src-en/data/events_special_lightspeed.xml.append:92
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_CREW_1\"]/text"
 msgstr ""
-"Vous ramenez votre prise pour découvrir qu’il ne s’agit pas du tout d’un "
-"poisson, mais d’un nouveau membre d’équipage."
+"Vous ramenez votre prise pour découvrir qu'il ne s'agit pas du tout d'un "
+"poisson, mais d'un nouveau membre d'équipage."
 
 #: src-en/data/events_special_lightspeed.xml.append:94
 msgid ""
@@ -99,8 +106,7 @@ msgstr "Poisson"
 #: src-en/data/events_special_lightspeed.xml.append:98
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_FISHGUN\"]/text"
-msgstr ""
-"Le poisson que vous avez attrapé s’avère bien plus dangereux que prévu."
+msgstr "Le poisson que vous avez attrapé s'avère bien plus dangereux que prévu."
 
 #: src-en/data/events_special_lightspeed.xml.append:102
 msgid ""
@@ -110,7 +116,7 @@ msgstr "Continuer..."
 #: src-en/data/events_special_lightspeed.xml.append:108
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_SCRAP_1\"]/text"
-msgstr "Ce n’est pas un poisson, mais c’est mieux que rien."
+msgstr "Ce n'est pas un poisson, mais c'est mieux que rien."
 
 #: src-en/data/events_special_lightspeed.xml.append:112
 msgid ""
@@ -123,7 +129,7 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"FISH_SCRAP_3\"]/text"
 msgstr ""
-"Ce n’est pas un poisson, mais c’est une récompense honnête pour vos efforts."
+"Ce n'est pas un poisson, mais c'est une récompense honnête pour vos efforts."
 
 #: src-en/data/events_special_lightspeed.xml.append:122
 msgid ""
