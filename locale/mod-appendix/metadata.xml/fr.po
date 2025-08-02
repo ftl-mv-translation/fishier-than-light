@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-03 21:46+0000\n"
+"PO-Revision-Date: 2025-08-03 15:56+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "mod-appendixmetadataxml/fr/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: src-en/mod-appendix/metadata.xml:3
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/title"
-msgstr "Fishier Than Light (Plus poissonneux que la lumière)"
+msgstr "Addon FISHIER THAN LIGHT (Plus poissonneux que la lumière)"
 
 #: src-en/mod-appendix/metadata.xml:9
 msgid "mod-appendix/metadata.xml$/dummyroot/metadata/author"
