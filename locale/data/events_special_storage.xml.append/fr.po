@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-08 10:16+0000\n"
+"PO-Revision-Date: 2025-08-03 15:56+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "dataevents_special_storagexmlappend/fr/>\n"
@@ -939,7 +939,7 @@ msgstr "Revenir en arrière."
 #: src-en/data/events_special_storage.xml.append:958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY\"]/choice[2]/text"
-msgstr "Aller au chapitre I : Poissons de base."
+msgstr "Aller au chapitre I : Poissons basics."
 
 #: src-en/data/events_special_storage.xml.append:962
 msgid ""
