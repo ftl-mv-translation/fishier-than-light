@@ -1040,7 +1040,7 @@ script.on_internal_event(Defines.InternalEvents.PRE_CREATE_CHOICEBOX, function(e
         event.text.data = "Que voulez-vous faire ?\n\nPoints de mise à niveau : " .. tostring(math.floor(Hyperspace.playerVariables.fish_maw_upgrade))
     end
     if event.eventName == "STORAGE_CHECK_FISH_MAW_CONSUME" then
-        event.text.data = "Que voulez-vous donner à manger à La Gueule ?\n\ nPoints de mise à niveau : " .. tostring(math.floor(Hyperspace.playerVariables.fish_maw_upgrade))
+        event.text.data = "Que voulez-vous donner à manger à La Gueule ?\n\nPoints de mise à niveau : " .. tostring(math.floor(Hyperspace.playerVariables.fish_maw_upgrade))
     end
 end)
 
