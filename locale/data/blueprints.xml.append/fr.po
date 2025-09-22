@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-08 10:16+0000\n"
+"PO-Revision-Date: 2025-09-23 17:19+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/fishier-than-light/"
 "datablueprintsxmlappend/fr/>\n"
@@ -2740,7 +2740,7 @@ msgstr "Harpon MK X"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_1\"]/desc"
 msgstr ""
-"[Temps de recharge de base : 20] Ce harpon peut tirer plusieurs fois par "
+"[Temps de recharge par défaut : 20] Ce harpon peut tirer plusieurs fois par "
 "combat, le temps de recharge double après chaque tir. 1er tir = MK III, 2e "
 "tir = MK II, 3e tir et suivants = MK I."
 
@@ -2766,9 +2766,9 @@ msgstr "Harpon MK XI"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_FISHING_ROD_2\"]/desc"
 msgstr ""
-"[Temps de recharge de base : 30] Ce harpon tire deux harpons à la fois, le "
-"temps de recharge double après chaque tir. 1er tir = MK III, 2e tir = MK II, "
-"3e tir et suivants = MK I."
+"[Temps de recharge par défaut : 30] Ce harpon tire deux harpons à la fois, "
+"le temps de recharge double après chaque tir. 1er tir = MK III, 2e tir = MK "
+"II, 3e tir et suivants = MK I."
 
 #: src-en/data/blueprints.xml.append:5701
 msgid ""
@@ -2791,7 +2791,7 @@ msgstr "La Gueule"
 #: src-en/data/blueprints.xml.append:5735
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW\"]/desc"
 msgstr ""
-"[Temps de recharge de base : 15] La Gueule doit dévorer.\n"
+"[Temps de recharge par défaut : 15] La Gueule doit dévorer.\n"
 "Le temps de recharge ne descendra pas en dessous de 1x, mais la puissance "
 "augmente avec le nombre de tirs."
 
@@ -2813,7 +2813,7 @@ msgstr "La Gueule"
 #: src-en/data/blueprints.xml.append:5772
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_MAW_ENEMY\"]/desc"
-msgstr "[Temps de recharge de base : 12] La Gueule doit dévorer."
+msgstr "[Temps de recharge par défaut : 12] La Gueule doit dévorer."
 
 #: src-en/data/blueprints.xml.append:5773
 msgid ""
