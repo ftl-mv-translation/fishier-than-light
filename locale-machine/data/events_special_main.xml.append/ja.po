@@ -1,0 +1,62 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:5
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"ADDON_RAD_INFO_2\"]/text"
+msgstr ""
+"R&D\n"
+"開発者: Arc\n"
+"現在無効です。\n"
+"\n"
+"Luaを使用して楽しくユニークなギミックを作成することを中心に設計されたアドオンです。これには様々な船、武器、クルー、ドローン、クエストが含まれます。完全にバランスが取れているわけではありませんが、すべてがMVでは他に見られないユニークなギミックを導入し、それに焦点を当てています。\n"
+"\n"
+"R&Dを有効にするには、Multiverse Forumsにアクセスし、アドオンセクションをご覧ください！"
+
+#: src-en/data/events_special_main.xml.append:14
+msgid "data/events_special_main.xml.append$//event[@name=\"ADDON_AEA_2\"]/text"
+msgstr ""
+"FTL: The Outer Expansion\n"
+"開発者: Arc\n"
+"現在無効です。\n"
+"        \n"
+"新しい種族、セクター、船、武器を追加します。現在実装されているもの: The Acidic Growth。\n"
+"        \n"
+"The Outer Expansionを有効にするには、Multiverse Forumsにアクセスし、アドオンセクションをご覧ください！"
+
+#: src-en/data/events_special_main.xml.append:23
+msgid "data/events_special_main.xml.append$//event[@name=\"ADDON_FISH_2\"]/text"
+msgstr ""
+"FTL: フィッシャー・ザン・ライト\n"
+"開発者: Arc\n"
+"現在無効です。\n"
+"      \n"
+"FTLで釣り、これ以上何を言う必要がありますか。60種類以上の魚がおり、すべてにユニークな用途と効果があります。\n"
+"      \n"
+"フィッシャー・ザン・ライトを有効にするには、Multiverse Forumsにアクセスし、アドオンセクションをご覧ください！"
+
+#: src-en/data/events_special_main.xml.append:32
+msgid "data/events_special_main.xml.append$//event[@name=\"ADDON_GOF_2\"]/text"
+msgstr ""
+"FTL: ギャラクシー・オン・ファイア\n"
+"開発者: Arc\n"
+"現在無効です。\n"
+"        \n"
+"ギャラクシー・オン・ファイアシリーズに基づいた3隻の船、40種類の新しい武器、2人の新しいクルー、1つの新しいイベントを追加します。すべての武器は、新しいLua関数を使用して、これまでにない全く新しい方法で機能します。\n"
+"        \n"
+"ギャラクシー・オン・ファイアを有効にするには、Multiverse Forumsにアクセスし、アドオンセクションをご覧ください！"
+
+#: src-en/data/events_special_main.xml.append:56
+msgid ""
+"data/events_special_main.xml.append$//mod-"
+"append:backgroundObject[@name=\"FISHING_ROD_1_OBJECT\"]/tooltip"
+msgstr "古い錆びた漁業用ハープーン。"
+
+#: src-en/data/events_special_main.xml.append:65
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"FISH_GIVE_BAD_ROD\"]/text"
+msgstr "古い漁業用ハープーンが転がっているのに気づき、持っていくことにした。"

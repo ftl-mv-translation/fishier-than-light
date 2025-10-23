@@ -1,0 +1,1082 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:558
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_1\"]/name"
+msgstr "大漁"
+
+#: src-en/data/hyperspace.xml.append:559
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_1\"]/description"
+msgstr "貨物室を魚でいっぱいにする。"
+
+#: src-en/data/hyperspace.xml.append:564
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/name"
+msgstr "餌付け名人"
+
+#: src-en/data/hyperspace.xml.append:565
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_2\"]/description"
+msgstr "船内に8種類の異なる餌を保管する。"
+
+#: src-en/data/hyperspace.xml.append:571
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_3\"]/name"
+msgstr "俺の釣り竿、持っててくれ"
+
+#: src-en/data/hyperspace.xml.append:572
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHING_SHIP_ACH_3\"]/description"
+msgstr "反乱軍旗艦との戦闘中に魚を捕まえることに成功する。"
+
+#: src-en/data/hyperspace.xml.append:589
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_1\"]/name"
+msgstr "種の根絶"
+
+#: src-en/data/hyperspace.xml.append:590
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_1\"]/description"
+msgstr "戦闘中、同じビーコンで4回漁をする。"
+
+#: src-en/data/hyperspace.xml.append:595
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_2\"]/name"
+msgstr "魚オーバーロード"
+
+#: src-en/data/hyperspace.xml.append:596
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_2\"]/description"
+msgstr "アーティラリーハープーンにダブルフックの餌を装備する。"
+
+#: src-en/data/hyperspace.xml.append:601
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_3\"]/name"
+msgstr "厳密には魚"
+
+#: src-en/data/hyperspace.xml.append:602
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISHARTY_SHIP_ACH_3\"]/description"
+msgstr "1回のプレイで「fish」という名前のクルーを16人釣り上げる。"
+
+#: src-en/data/hyperspace.xml.append:617
+msgid "data/hyperspace.xml.append$//slug_ranger[@name=\"Jimmy\"]/@name"
+msgstr "ジミー"
+
+#: src-en/data/hyperspace.xml.append:618
+msgid "data/hyperspace.xml.append$//slug[@name=\"Jimmy Jr.\"]/@name"
+msgstr "ジミーJr."
+
+#: src-en/data/hyperspace.xml.append:636
+msgid "data/hyperspace.xml.append$//slug_saboteur[@name=\"Silas\"]/@name"
+msgstr "サイラス"
+
+#: src-en/data/hyperspace.xml.append:637
+msgid "data/hyperspace.xml.append$//slug_saboteur[@name=\"Sylvester\"]/@name"
+msgstr "シルベスター"
+
+#: src-en/data/hyperspace.xml.append:648
+msgid "data/hyperspace.xml.append$//slug_clansman[@name=\"Bob\"]/@name"
+msgstr "ボブ"
+
+#: src-en/data/hyperspace.xml.append:704
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[1]/customTitle"
+msgstr "FISH"
+
+#: src-en/data/hyperspace.xml.append:719
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[2]/customTitle"
+msgstr "FISH"
+
+#: src-en/data/hyperspace.xml.append:734
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_FISHING_SYLVAN\"]/category[3]/customTitle"
+msgstr "FISH"
+
+#: src-en/data/hyperspace.xml.append:1309
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[1]/@text"
+msgstr "基本的な魚"
+
+#: src-en/data/hyperspace.xml.append:1311
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/name"
+msgstr "オレンジスナッパー"
+
+#: src-en/data/hyperspace.xml.append:1312
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/description"
+msgstr "オレンジスナッパーを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1313
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_1\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1319
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/name"
+msgstr "レッドエンペラー"
+
+#: src-en/data/hyperspace.xml.append:1320
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/description"
+msgstr "レッドエンペラーを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1321
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_2\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1327
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/name"
+msgstr "ストライプドコーラルトラウト"
+
+#: src-en/data/hyperspace.xml.append:1328
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/description"
+msgstr "ストライプドコーラルトラウトを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1329
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_3\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1335
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/name"
+msgstr "スポッテッドマカレル"
+
+#: src-en/data/hyperspace.xml.append:1336
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/description"
+msgstr "スポッテッドマカレルを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1337
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1343
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/name"
+msgstr "エスチュアリーロックコッド"
+
+#: src-en/data/hyperspace.xml.append:1344
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/description"
+msgstr "エスチュアリーロックコッドを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1345
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_5\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1351
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/name"
+msgstr "ブルースレッドフィン"
+
+#: src-en/data/hyperspace.xml.append:1352
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/description"
+msgstr "ブルースレッドフィンを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1353
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_6\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1359
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/name"
+msgstr "ロックブラックフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1360
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/description"
+msgstr "ロックブラックフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1361
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_7\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1367
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/name"
+msgstr "ロングテールツナ"
+
+#: src-en/data/hyperspace.xml.append:1368
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/description"
+msgstr "ロングテールツナを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1369
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_8\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1375
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/name"
+msgstr "リーフオクトパス"
+
+#: src-en/data/hyperspace.xml.append:1376
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/description"
+msgstr "リーフオクトパスを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1377
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_9\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1383
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/name"
+msgstr "イーグルレイ"
+
+#: src-en/data/hyperspace.xml.append:1384
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/description"
+msgstr "イーグルレイを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1385
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_0\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1392
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[2]/@text"
+msgstr "珍しい魚"
+
+#: src-en/data/hyperspace.xml.append:1394
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/name"
+msgstr "ダブルフィンイール"
+
+#: src-en/data/hyperspace.xml.append:1395
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/description"
+msgstr "ダブルフィンイールを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1396
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_11\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1402
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/name"
+msgstr "ブルーイール"
+
+#: src-en/data/hyperspace.xml.append:1403
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/description"
+msgstr "ブルーイールを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1404
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_12\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1410
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/name"
+msgstr "イエローフィンサンフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1411
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/description"
+msgstr "イエローフィンサンフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1412
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_13\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1418
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/name"
+msgstr "ビッグアイツナ"
+
+#: src-en/data/hyperspace.xml.append:1419
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/description"
+msgstr "ビッグアイツナを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1420
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_14\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1426
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/name"
+msgstr "スポッテッドバラクーダ"
+
+#: src-en/data/hyperspace.xml.append:1427
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/description"
+msgstr "スポッテッドバラクーダを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1428
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_15\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1434
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/name"
+msgstr "ブラウントラウト"
+
+#: src-en/data/hyperspace.xml.append:1435
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/description"
+msgstr "ブラウントラウトを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1436
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_16\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1442
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/name"
+msgstr "ゴートフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1443
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/description"
+msgstr "ゴートフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1444
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_17\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1450
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/name"
+msgstr "コロネーショントラウト"
+
+#: src-en/data/hyperspace.xml.append:1451
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/description"
+msgstr "コロネーショントラウトを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1452
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_18\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1458
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/name"
+msgstr "イエローフィンキングフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1459
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/description"
+msgstr "イエローフィンキングフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1460
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_19\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1466
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/name"
+msgstr "レインボートラウト"
+
+#: src-en/data/hyperspace.xml.append:1467
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/description"
+msgstr "レインボートラウトを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1468
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_10\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1475
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[3]/@text"
+msgstr "レアな魚"
+
+#: src-en/data/hyperspace.xml.append:1477
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/name"
+msgstr "コーホーサーモン"
+
+#: src-en/data/hyperspace.xml.append:1478
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/description"
+msgstr "コーホーサーモンを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1479
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_21\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1485
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/name"
+msgstr "ルースターフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1486
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/description"
+msgstr "ルースターフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1487
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_22\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1493
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/name"
+msgstr "イエローフィンサーモン"
+
+#: src-en/data/hyperspace.xml.append:1494
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/description"
+msgstr "イエローフィンサーモンを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1495
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_23\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1501
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/name"
+msgstr "フラットヘッドキャットフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1502
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/description"
+msgstr "フラットヘッドキャットフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1503
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_24\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1509
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/name"
+msgstr "ゴールデンブリーム"
+
+#: src-en/data/hyperspace.xml.append:1510
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/description"
+msgstr "ゴールデンブリームを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1511
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_25\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1517
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/name"
+msgstr "ブラックコビア"
+
+#: src-en/data/hyperspace.xml.append:1518
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/description"
+msgstr "ブラックコビアを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1519
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_26\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1525
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/name"
+msgstr "ウィズダムフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1526
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/description"
+msgstr "ウィズダムフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1527
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_27\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1533
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/name"
+msgstr "ゴールデントラウト"
+
+#: src-en/data/hyperspace.xml.append:1534
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/description"
+msgstr "ゴールデントラウトを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1535
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_28\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1541
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/name"
+msgstr "チャネルキャットフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1542
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/description"
+msgstr "チャネルキャットフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1543
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_29\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1549
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/name"
+msgstr "コモンチョウザメ"
+
+#: src-en/data/hyperspace.xml.append:1550
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/description"
+msgstr "コモンチョウザメを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1551
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_20\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1558
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[4]/@text"
+msgstr "伝説の魚"
+
+#: src-en/data/hyperspace.xml.append:1560
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/name"
+msgstr "クイーンフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1561
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/description"
+msgstr "クイーンフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1562
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_31\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1568
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/name"
+msgstr "マヒマヒ"
+
+#: src-en/data/hyperspace.xml.append:1569
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/description"
+msgstr "マヒマヒを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1570
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_32\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1576
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/name"
+msgstr "ショアフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1577
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/description"
+msgstr "ショアフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1578
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_33\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1584
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/name"
+msgstr "グルーパー"
+
+#: src-en/data/hyperspace.xml.append:1585
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/description"
+msgstr "グルーパーを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1586
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_34\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1592
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/name"
+msgstr "ブルーフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1593
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/description"
+msgstr "ブルーフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1594
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_35\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1600
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/name"
+msgstr "アラパイマ"
+
+#: src-en/data/hyperspace.xml.append:1601
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/description"
+msgstr "アラパイマを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1602
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_36\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1608
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/name"
+msgstr "ブルーマーリン"
+
+#: src-en/data/hyperspace.xml.append:1609
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/description"
+msgstr "ブルーマーリンを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1610
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_37\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1617
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[5]/@text"
+msgstr "ユニークな魚"
+
+#: src-en/data/hyperspace.xml.append:1619
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/name"
+msgstr "アライアンスフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1620
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1621
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/secretDescription"
+msgstr "連邦ドロップポイントでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1622
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/description"
+msgstr "アライアンスフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1623
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_41\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1630
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/name"
+msgstr "コマンドーフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1631
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1632
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/secretDescription"
+msgstr "民間セクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1633
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/description"
+msgstr "コマンドーフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1634
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_42\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1641
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/name"
+msgstr "ハーモニーフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1642
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1643
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/secretDescription"
+msgstr "エンギセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1644
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/description"
+msgstr "ハーモニーフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1645
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_43\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1652
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/name"
+msgstr "エナジーフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1653
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1654
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/secretDescription"
+msgstr "ゾルタンセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1655
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/description"
+msgstr "エナジーフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1656
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_44\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1663
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/name"
+msgstr "ケルプフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1664
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1665
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/secretDescription"
+msgstr "オーキッドセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1666
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/description"
+msgstr "ケルプフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1667
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_45\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1674
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/name"
+msgstr "マンティスフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1675
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1676
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/secretDescription"
+msgstr "マンティスセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1677
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/description"
+msgstr "マンティスフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1678
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_46\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1685
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/name"
+msgstr "アイスフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1686
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1687
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/secretDescription"
+msgstr "クリスタルセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1688
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/description"
+msgstr "アイスフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1689
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_47\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1696
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/name"
+msgstr "ストーンフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1697
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1698
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/secretDescription"
+msgstr "ロックセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1699
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/description"
+msgstr "ストーンフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1700
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_48\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1707
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/name"
+msgstr "インサージェントフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1708
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1709
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/secretDescription"
+msgstr "反乱軍セクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1710
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/description"
+msgstr "インサージェントフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1711
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_49\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1718
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/name"
+msgstr "シーフフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1719
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1720
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/secretDescription"
+msgstr "海賊セクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1721
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/description"
+msgstr "シーフフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1722
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_40\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1729
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/name"
+msgstr "アナエロビックフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1730
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1731
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/secretDescription"
+msgstr "ラニウスまたはゴーストセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1732
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/description"
+msgstr "アナエロビックフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1733
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4A\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1740
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/name"
+msgstr "スラグレイ"
+
+#: src-en/data/hyperspace.xml.append:1741
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1742
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/secretDescription"
+msgstr "ラニウスまたはゴーストセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1743
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/description"
+msgstr "スラグレイを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1744
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4B\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1751
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/name"
+msgstr "リーチ？"
+
+#: src-en/data/hyperspace.xml.append:1752
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1753
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/secretDescription"
+msgstr "リーチセクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1754
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/description"
+msgstr "リーチ？を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1755
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4C\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1762
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/name"
+msgstr "エンシェントフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1763
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/secretName"
+msgstr "？？？の魚"
+
+#: src-en/data/hyperspace.xml.append:1764
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/secretDescription"
+msgstr "？？？セクターでユニークな魚を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1765
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/description"
+msgstr "エンシェントフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1766
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4D\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1773
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/name"
+msgstr "シルフィン"
+
+#: src-en/data/hyperspace.xml.append:1774
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/secretName"
+msgstr "??????"
+
+#: src-en/data/hyperspace.xml.append:1775
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/secretDescription"
+msgstr "?????から??????を捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1776
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/description"
+msgstr "シルフィンを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1777
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_4E\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1785
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[6]/@text"
+msgstr "魚の銃"
+
+#: src-en/data/hyperspace.xml.append:1787
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/name"
+msgstr "レーザーフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1788
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/description"
+msgstr "レーザーフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1789
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_LASER\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1795
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/name"
+msgstr "ショックフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1796
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/description"
+msgstr "ショックフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1797
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_ION\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1803
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/name"
+msgstr "スキャッターフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1804
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/description"
+msgstr "スキャッターフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1805
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_FLAK\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1811
+msgid "data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/name"
+msgstr "ビームフィンフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1812
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/description"
+msgstr "ビームフィンフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1813
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_BEAM\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1819
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/name"
+msgstr "マグネットフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1820
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/description"
+msgstr "マグネットフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1821
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MINELAYER\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1827
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/name"
+msgstr "ブリーチフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1828
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/description"
+msgstr "ブリーチフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1829
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_1\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1835
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/name"
+msgstr "セイルフィッシュ"
+
+#: src-en/data/hyperspace.xml.append:1836
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/description"
+msgstr "セイルフィッシュを捕まえる。"
+
+#: src-en/data/hyperspace.xml.append:1837
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"FISH_CAUGHT_MISSILE_2\"]/header"
+msgstr "魚を捕まえた！"
+
+#: src-en/data/hyperspace.xml.append:1843
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/achievements/page/section[7]/@text"
+msgstr "魚の恩恵"
+
+#: src-en/data/hyperspace.xml.append:1845
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/name"
+msgstr "魚の祝福"
+
+#: src-en/data/hyperspace.xml.append:1846
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/secretDescription"
+msgstr "ウェイクソンから魚の祝福を受ける。"
+
+#: src-en/data/hyperspace.xml.append:1847
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/description"
+msgstr ""
+"ウェイクソンに魚を見せる。\n"
+"\t\t\t\t効果中: ガラクタを釣り上げなくなる。"
+
+#: src-en/data/hyperspace.xml.append:1849
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_FISH\"]/header"
+msgstr ""

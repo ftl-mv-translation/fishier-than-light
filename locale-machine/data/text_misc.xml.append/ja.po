@@ -1,0 +1,48 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:4
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHING_unlock\"]"
+msgstr "格納庫から古いハープーンを手に入れる。"
+
+#: src-en/data/text_misc.xml.append:5
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHING_2_unlock\"]"
+msgstr "この船をアンロックするには、漁業トローラー船の実績の2/3を完了する。"
+
+#: src-en/data/text_misc.xml.append:6
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHING_3_unlock\"]"
+msgstr "マルチバースの最深部には、すべての魚を支配する、あるいは少なくともそれらを売る一匹の魚が存在する。"
+
+#: src-en/data/text_misc.xml.append:8
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHARTY_unlock\"]"
+msgstr "伝説の賞金首を完了する。"
+
+#: src-en/data/text_misc.xml.append:9
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHARTY_2_unlock\"]"
+msgstr "この船をアンロックするには、漁業ドレッジャー船の実績の2/3を完了する。"
+
+#: src-en/data/text_misc.xml.append:10
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_FISHARTY_3_unlock\"]"
+msgstr "ステーションを破壊し、ザ・マウを見つけ、その最終形態に到達させる。"
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_fish_food\"]"
+msgstr "ヒント: 倉庫メニューをチェックして魚を使いましょう。"
+
+#: src-en/data/text_misc.xml.append:13
+msgid "data/text_misc.xml.append$//text[@name=\"tip_fish_maw\"]"
+msgstr "ヒント: 倉庫メニューをチェックしてマウに餌をやりましょう。"
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_fish\"]"
+msgstr "FISH"

@@ -1,0 +1,1758 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_fish_maw.xml:5
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_INO2\"]/text"
+msgstr ""
+"ステーションの酸素発生装置室に入った。\n"
+"\n"
+"発生装置にメモが引っかき傷で書かれているようだ。\n"
+"「奴らを皆殺しにして、私を見つけに来い。」"
+
+#: src-en/data/events_special_fish_maw.xml:11
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_INO2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:15
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_INO2\"]/choice[2]/text"
+msgstr "発生装置を破壊する。"
+
+#: src-en/data/events_special_fish_maw.xml:17
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_INO2\"]/choice[2]/event/text"
+msgstr "あなたは素早く酸素発生装置を破壊した。このステーションに再び会うことはないだろう、少なくともこの宇宙では。"
+
+#: src-en/data/events_special_fish_maw.xml:34
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_KILLED\"]/text"
+msgstr ""
+"ステーションからクルーがいなくなった。\n"
+"\n"
+"空のメッセージを受け取った。\n"
+"座標が添付されている..."
+
+#: src-en/data/events_special_fish_maw.xml:41
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_STORE_KILLED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:52
+msgid "data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/text"
+msgstr ""
+"ビーコンに到着すると、奇妙な見た目のオートシップと対面した。\n"
+"\n"
+"「ああ、裏切り者か、よろしい。\n"
+"戦闘で貴様の能力を証明すれば、仲間になってやろう。」"
+
+#: src-en/data/events_special_fish_maw.xml:59
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[1]/text"
+msgstr "オートシップと戦う。"
+
+#: src-en/data/events_special_fish_maw.xml:61
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[1]/event/text"
+msgstr "「よろしい挑戦者よ、破滅に備えよ...」"
+
+#: src-en/data/events_special_fish_maw.xml:64
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:70
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/text"
+msgstr "拒否して去る。"
+
+#: src-en/data/events_special_fish_maw.xml:72
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/event/text"
+msgstr "奇妙なオートシップからの申し出を断り、FTLドライブがチャージされるのを待つために離れた。"
+
+#: src-en/data/events_special_fish_maw.xml:74
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:78
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISHING_MAW_QUEST\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:86
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"DESTROYED_FISH_MAW_ENEMY\"]/text"
+msgstr ""
+"オートシップが崩壊する中、船の特定の部分が一緒になって物体を形成しているのが見える。\n"
+"\n"
+"近づいてみると、残骸の中央に奇妙な見た目の武器が置かれているのを見つけた。オートシップはあなたのために自身を武器に変えたようだ。"
+
+#: src-en/data/events_special_fish_maw.xml:92
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"DESTROYED_FISH_MAW_ENEMY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:102
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:104
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:108
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:112
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:116
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:120
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:124
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:128
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:132
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:136
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_1_111\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:141
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:145
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:149
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:153
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:157
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:161
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:165
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:169
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_1_111\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:174
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:178
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:182
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:186
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:190
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:194
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:198
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:202
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_2_111\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:207
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:211
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:215
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:219
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:223
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:227
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:231
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:235
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_2_3_111\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:240
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:244
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:248
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:252
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:256
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:260
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:264
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:268
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_200\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:272
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_1_020\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:277
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:281
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:285
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:289
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:293
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:297
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:301
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:305
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_200\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:309
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_2_020\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:314
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:318
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:322
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:326
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:330
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:334
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:338
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:342
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_200\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:346
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_3_020\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:351
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:355
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:359
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:363
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:367
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:371
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:375
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:379
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_200\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:383
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_4_020\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:388
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:392
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:396
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:400
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:404
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:408
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:412
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:416
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_200\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:420
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_5_020\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:425
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_000\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:429
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_100\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:433
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_010\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:437
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_001\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:441
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_110\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:445
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_011\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:449
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_101\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:453
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_200\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:457
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[@req=\"FISH_MAW_3_6_020\"]/text"
+msgstr "ザ・マウをアップグレードする。"
+
+#: src-en/data/events_special_fish_maw.xml:462
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW\"]/choice[88]/text"
+msgstr "ザ・マウに餌をやる。"
+
+#: src-en/data/events_special_fish_maw.xml:474
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/text"
+msgstr ""
+"ザ・マウに何を与えますか？\n"
+"\n"
+"アップグレードポイント: マウ"
+
+#: src-en/data/events_special_fish_maw.xml:479
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:483
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_1\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:485
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_1\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:491
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_2\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:493
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_2\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:499
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_3\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:501
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_3\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:507
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:509
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:515
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_5\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:517
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_5\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:523
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_6\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:525
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_6\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:531
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_7\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:533
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_7\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:539
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_8\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:541
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_8\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:547
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_9\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:549
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_9\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:555
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_0\"]/text"
+msgstr "ザ・マウに餌をやる: (+1)"
+
+#: src-en/data/events_special_fish_maw.xml:557
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_0\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:565
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_11\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:567
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_11\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:573
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_12\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:575
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_12\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:581
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_13\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:583
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_13\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:589
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_14\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:591
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_14\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:597
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_15\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:599
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_15\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:605
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_16\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:607
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_16\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:613
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_17\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:615
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_17\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:621
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_18\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:623
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_18\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:629
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_19\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:631
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_19\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:637
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_10\"]/text"
+msgstr "ザ・マウに餌をやる: (+2)"
+
+#: src-en/data/events_special_fish_maw.xml:639
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_10\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:647
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_21\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:649
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_21\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:655
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_22\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:657
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_22\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:663
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_23\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:665
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_23\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:671
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_24\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:673
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_24\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:679
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_25\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:681
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_25\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:687
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_26\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:689
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_26\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:695
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_27\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:697
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_27\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:703
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_28\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:705
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_28\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:711
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_29\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:713
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_29\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:719
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_20\"]/text"
+msgstr "ザ・マウに餌をやる: (+4)"
+
+#: src-en/data/events_special_fish_maw.xml:721
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_20\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:729
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_31\"]/text"
+msgstr "ザ・マウに餌をやる: (+7)"
+
+#: src-en/data/events_special_fish_maw.xml:731
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_31\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:737
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_32\"]/text"
+msgstr "ザ・マウに餌をやる: (+7)"
+
+#: src-en/data/events_special_fish_maw.xml:739
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_32\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:745
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_33\"]/text"
+msgstr "ザ・マウに餌をやる: (+7)"
+
+#: src-en/data/events_special_fish_maw.xml:747
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_33\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:753
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_34\"]/text"
+msgstr "ザ・マウに餌をやる: (+7)"
+
+#: src-en/data/events_special_fish_maw.xml:755
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_34\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:761
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_35\"]/text"
+msgstr "ザ・マウに餌をやる: (+7)"
+
+#: src-en/data/events_special_fish_maw.xml:763
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_35\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:769
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_36\"]/text"
+msgstr "ザ・マウに餌をやる: (+7)"
+
+#: src-en/data/events_special_fish_maw.xml:771
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_36\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:777
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_37\"]/text"
+msgstr "ザ・マウに餌をやる: (+7)"
+
+#: src-en/data/events_special_fish_maw.xml:779
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_37\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:787
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_41\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:789
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_41\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:795
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_42\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:797
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_42\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:803
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_43\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:805
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_43\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:811
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_44\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:813
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_44\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:819
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_45\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:821
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_45\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:827
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_46\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:829
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_46\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:835
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_47\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:837
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_47\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:843
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_48\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:845
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_48\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:851
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_49\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:853
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_49\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:859
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_40\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:861
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_40\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:867
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4A\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:869
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4A\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:875
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4B\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:877
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4B\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:883
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4C\"]/text"
+msgstr "ザ・マウに餌をやる: (+6)"
+
+#: src-en/data/events_special_fish_maw.xml:885
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4C\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:891
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4D\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:893
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4D\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:899
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4E\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:901
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_4E\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:908
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_LASER\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:910
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_LASER\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:916
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_ION\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:918
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_ION\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:924
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_FLAK\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:926
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_FLAK\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:932
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_BEAM\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:934
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_BEAM\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:940
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MINELAYER\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:942
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MINELAYER\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:948
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MISSILE_1\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:950
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MISSILE_1\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:956
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MISSILE_2\"]/text"
+msgstr "ザ・マウに餌をやる: (+10)"
+
+#: src-en/data/events_special_fish_maw.xml:958
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"STORAGE_CHECK_FISH_MAW_CONSUME\"]/choice[@req=\"FISH_FOOD_MISSILE_2\"]/event/text"
+msgstr "1"
+
+#: src-en/data/events_special_fish_maw.xml:966
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_1\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:970
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:976
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_2\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:980
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:986
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_3\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:990
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:996
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1000
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1006
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_5\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1010
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_5\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1016
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_6\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1020
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_6\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1026
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_7\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1030
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_7\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1036
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_8\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1040
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_8\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1046
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_9\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1050
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_9\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1056
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_0\"]/text"
+msgstr "基本的な魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1060
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_0\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1068
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_11\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1072
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_11\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1078
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_12\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1082
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_12\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1088
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_13\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1092
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_13\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1098
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_14\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1102
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_14\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1108
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_15\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1112
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_15\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1118
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_16\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1122
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_16\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1128
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_17\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1132
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_17\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1138
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_18\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1142
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_18\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1148
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_19\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1152
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_19\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1158
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_10\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1162
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_10\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1170
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_21\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1174
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_21\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1180
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_22\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1184
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_22\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1190
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_23\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1194
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_23\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1200
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_24\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1204
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_24\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1210
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_25\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1214
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_25\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1220
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_26\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1224
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_26\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1230
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_27\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1234
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_27\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1240
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_28\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1244
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_28\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1250
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_29\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1254
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_29\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1260
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_20\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1264
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_20\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1272
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_31\"]/text"
+msgstr "伝説の魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1276
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_31\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1282
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_32\"]/text"
+msgstr "伝説の魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1286
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_32\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1292
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_33\"]/text"
+msgstr "伝説の魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1296
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_33\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1302
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_34\"]/text"
+msgstr "伝説の魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1306
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_34\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1312
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_35\"]/text"
+msgstr "伝説の魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1316
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_35\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1322
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_36\"]/text"
+msgstr "伝説の魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1326
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_36\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1332
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_37\"]/text"
+msgstr "伝説の魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1336
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_37\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1344
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_41\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1348
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_41\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1354
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_42\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1358
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_42\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1364
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_43\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1368
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_43\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1374
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_44\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1378
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_44\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1384
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_45\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1388
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_45\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1394
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_46\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1398
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_46\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1404
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_47\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1408
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_47\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1414
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_48\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1418
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_48\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1424
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_49\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1428
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_49\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1434
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_40\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1438
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_40\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1444
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4A\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1448
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4A\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1454
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4B\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1458
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4B\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1464
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4C\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1468
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4C\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1474
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4D\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1478
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4D\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1484
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4E\"]/text"
+msgstr "ユニークな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1488
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_4E\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1497
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_LASER\"]/text"
+msgstr "ガンフィッシュをザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1501
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_LASER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1506
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_ION\"]/text"
+msgstr "ガンフィッシュをザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1510
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_ION\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1515
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_FLAK\"]/text"
+msgstr "ガンフィッシュをザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1519
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_FLAK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1524
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_BEAM\"]/text"
+msgstr "ガンフィッシュをザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1528
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_BEAM\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1533
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MINELAYER\"]/text"
+msgstr "ガンフィッシュをザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1537
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MINELAYER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1542
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MISSILE_1\"]/text"
+msgstr "ガンフィッシュをザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1546
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MISSILE_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1551
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MISSILE_2\"]/text"
+msgstr "ガンフィッシュをザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1555
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_FOOD_MISSILE_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1563
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_UNCOMMON\"]/text"
+msgstr "珍しい魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1565
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_UNCOMMON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_fish_maw.xml:1571
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_RARE\"]/text"
+msgstr "レアな魚をザ・マウに与えると、骨ごと貪欲に食べた。"
+
+#: src-en/data/events_special_fish_maw.xml:1573
+msgid ""
+"data/events_special_fish_maw.xml$//event[@name=\"FISH_MAW_CONSUME_RARE\"]/choice/text"
+msgstr ""
