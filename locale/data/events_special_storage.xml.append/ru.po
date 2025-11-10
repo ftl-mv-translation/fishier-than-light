@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-11 20:21+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"fishier-than-light/dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -967,7 +975,7 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_1\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:994
 msgid ""
@@ -991,7 +999,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_2\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1011
 msgid ""
@@ -1015,7 +1023,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_3\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1028
 msgid ""
@@ -1039,7 +1047,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_4\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1045
 msgid ""
@@ -1063,7 +1071,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_5\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1062
 msgid ""
@@ -1087,7 +1095,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_6\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1079
 msgid ""
@@ -1111,7 +1119,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_7\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1096
 msgid ""
@@ -1135,7 +1143,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_8\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1113
 msgid ""
@@ -1159,7 +1167,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_9\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1130
 msgid ""
@@ -1183,7 +1191,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_1\"]/choice[@req=\"fish_obtained_0\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1147
 msgid ""
@@ -1217,7 +1225,7 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_11\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1173
 msgid ""
@@ -1241,7 +1249,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_12\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1190
 msgid ""
@@ -1265,7 +1273,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_13\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1207
 msgid ""
@@ -1289,7 +1297,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_14\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1224
 msgid ""
@@ -1313,7 +1321,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_15\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1241
 msgid ""
@@ -1337,7 +1345,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_16\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1258
 msgid ""
@@ -1361,7 +1369,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_17\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1275
 msgid ""
@@ -1385,7 +1393,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_18\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1292
 msgid ""
@@ -1409,7 +1417,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_19\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1309
 msgid ""
@@ -1433,7 +1441,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_2\"]/choice[@req=\"fish_obtained_10\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1326
 msgid ""
@@ -1467,7 +1475,7 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_21\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1352
 msgid ""
@@ -1491,7 +1499,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_22\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1369
 msgid ""
@@ -1515,7 +1523,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_23\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1386
 msgid ""
@@ -1539,7 +1547,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_24\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1403
 msgid ""
@@ -1563,7 +1571,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_25\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1420
 msgid ""
@@ -1587,7 +1595,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_26\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1437
 msgid ""
@@ -1611,7 +1619,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_27\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1454
 msgid ""
@@ -1635,7 +1643,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_28\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1471
 msgid ""
@@ -1659,7 +1667,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_29\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1488
 msgid ""
@@ -1683,7 +1691,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_3\"]/choice[@req=\"fish_obtained_20\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1505
 msgid ""
@@ -1717,7 +1725,7 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_31\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1531
 msgid ""
@@ -1741,7 +1749,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_32\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1548
 msgid ""
@@ -1765,7 +1773,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_33\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1565
 msgid ""
@@ -1789,7 +1797,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_34\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1582
 msgid ""
@@ -1813,7 +1821,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_35\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1599
 msgid ""
@@ -1837,7 +1845,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_36\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1616
 msgid ""
@@ -1861,7 +1869,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_4\"]/choice[@req=\"fish_obtained_37\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1633
 msgid ""
@@ -1898,7 +1906,7 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_41\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1659
 msgid ""
@@ -1916,7 +1924,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_42\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1671
 msgid ""
@@ -1934,7 +1942,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_43\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1683
 msgid ""
@@ -1952,7 +1960,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_44\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1695
 msgid ""
@@ -1970,7 +1978,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_45\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1707
 msgid ""
@@ -1987,7 +1995,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_46\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1720
 msgid ""
@@ -2005,7 +2013,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_47\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1732
 msgid ""
@@ -2023,7 +2031,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_48\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1744
 msgid ""
@@ -2041,7 +2049,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_49\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1756
 msgid ""
@@ -2058,7 +2066,7 @@ msgstr "Неизвестно"
 #: src-en/data/events_special_storage.xml.append:1766
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_40\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1768
 msgid ""
@@ -2074,7 +2082,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4A\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1781
 msgid ""
@@ -2092,7 +2100,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4B\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1793
 msgid ""
@@ -2110,7 +2118,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4C\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1805
 msgid ""
@@ -2128,7 +2136,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4D\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1817
 msgid ""
@@ -2146,7 +2154,7 @@ msgstr "Неизвестно"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_5\"]/choice[@req=\"fish_obtained_4E\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1829
 msgid ""
@@ -2174,7 +2182,7 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_LASER\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1851
 msgid ""
@@ -2198,7 +2206,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_ION\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1868
 msgid ""
@@ -2222,7 +2230,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_FLAK\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1885
 msgid ""
@@ -2246,7 +2254,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_BEAM\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1902
 msgid ""
@@ -2270,7 +2278,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MINELAYER\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1919
 msgid ""
@@ -2294,7 +2302,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_1\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1936
 msgid ""
@@ -2318,7 +2326,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_FISH_GLOSSARY_6\"]/choice[@req=\"fish_obtained_MISSILE_2\""
 " and @lvl=\"1\"]/text"
-msgstr "НАЙДЕНА"
+msgstr "НАЙДЕНА   ⠀"
 
 #: src-en/data/events_special_storage.xml.append:1953
 msgid ""
